@@ -1,0 +1,2227 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-de" xml:lang="de-de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Andreas Trebing" />
+  <meta name="author" content="Friederike Schoeller-Frey" />
+  <meta name="author" content="Martina Krobath" />
+  <title>lernOS Zettelkasten</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">lernOS Zettelkasten</h1>
+<p class="subtitle">Learn to work with the Zettelkasten</p>
+<p class="author">Andreas Trebing</p>
+<p class="author">Friederike Schoeller-Frey</p>
+<p class="author">Martina Krobath</p>
+<p class="date">Version 0.82 (19.01.2023)</p>
+</header>
+<nav id="TOC" role="doc-toc">
+
+</nav>
+<h1 data-number="1" id="about-lernos"><span
+class="header-section-number">1</span> About lernOS</h1>
+<p>lernOS is a method of self-organization for people living and working
+in the 21st century. To be successful today, you need to be constantly
+learning, organizing and developing. No one else is responsible for this
+process. You have to take care of it yourself (self-directed, lifelong
+learning).</p>
+<p>lernOS guides are licensed under <a
+href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative
+Commons Attribution 4.0 International</a> (CC BY 4.0):</p>
+<p><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></p>
+<p>You may:** **</p>
+<ul>
+<li><strong>Share</strong> - reproduce and redistribute the material in
+any format or medium.</li>
+<li><strong>Edit</strong> - remix, modify and build upon the material
+for any purpose, even commercially.</li>
+</ul>
+<p><strong>Under the following conditions:</strong></p>
+<ul>
+<li><strong>Name attribution</strong> - you must provide appropriate
+copyright and rights notices, include a link to the license, and
+indicate if any modifications have been made. These disclosures may be
+made in any reasonable manner, but not in such a way as to give the
+impression that the licensor is particularly supportive of you or your
+use.</li>
+<li><strong>No Other Restrictions</strong> - You may not use any
+additional clauses or technical procedures that legally prohibit others
+from doing anything that the License permits.</li>
+</ul>
+<h2 data-number="1.1" id="lebenslanges-lernen-und-wissensarbeit"><span
+class="header-section-number">1.1</span> Lebenslanges Lernen und
+Wissensarbeit</h2>
+<p>Wir befinden uns gerade in einem sehr dynamischen Übergang von einer
+Industrie- zu einer <a
+href="https://de.wikipedia.org/wiki/Wissensgesellschaft">Wissensgesellschaft</a>:
+Kennzeichnend hierfür ist, dass Regeln und Normen durch Lernprozesse
+kontinuierlich in Frage gestellt werden (s.a. <a
+href="https://www.researchgate.net/publication/283061140_Merkmale_der_Wissensgesellschaft">Merkmale
+der Wissensgesellschaft</a>).</p>
+<p>In dieser Gesellschaft können wir als Einzelpersonen eigentlich nur
+durch Lernen erfolgreich sein und zusammen mit Anderen zum Wohlergehen
+aller beitragen.</p>
+<p><img src="images/LebenslangesLernen.jpeg"
+alt="Lebenslanges Lernen" /> Autor/in: geschmacksRaum®</p>
+<p>Unter Lernen versteht man den absichtlichen oder beiläufigen Erwerb
+von Wissen oder Fähigkeiten. Dieser Lernprozess führt zu relativ
+stabilen Veränderungen des Verhaltens, Denkens oder Fühlens, aufgrund
+von Erfahrungen oder neuen Erkenntnissen.</p>
+<p>1996 wurde mit dem <a
+href="https://en.wikipedia.org/wiki/Delors_Report">Delors Report</a> von
+der Europäischen Kommission ein Gesamtbild des Lebenslangen Lernens
+(“learning throughout life”) gezeichnet und die vier Säulen, die
+insbesondere in die Aus- und Weiterbildung integriert werden sollten,
+benannt:</p>
+<ul>
+<li><strong>Learning to know</strong> - ein breites Allgemeinwissen mit
+der Möglichkeit, eine kleine Anzahl von Themen zu vertiefen.</li>
+<li><strong>Learning to do</strong> - nicht nur berufliche Fähigkeiten
+zu erwerben, sondern auch die Kompetenz, mit vielen Situationen
+umzugehen und in Teams zu arbeiten.</li>
+<li><strong>Learning to be</strong> - die eigene Persönlichkeit zu
+entwickeln und mit wachsender Autonomie, Urteilsvermögen und
+Eigenverantwortung, handeln zu können.</li>
+<li><strong>Learning to live together</strong> - durch die Entwicklung
+eines Verständnisses für andere Menschen und die Wertschätzung von
+wechselseitigen Abhängigkeiten.</li>
+</ul>
+<p>Es gibt aber auch ganz praktische Gründe, die lebenslanges Lernen für
+dich notwendig machen. Wie man an der Grafik der <a
+href="http://www.online-lehrbuch-bwl.de/lehrbuch/kap3/oe_le/oe_le.pdf">Halbwertzeit
+des Wissens</a> erkennen kann, so verlieren einige Wissensarten schnell
+an Aktualität und machen daher ständiges Lernen schlichtweg
+erforderlich. Auch wenn Bereiche wie das Schulwissen einigermaßen stabil
+bleiben, ist der Bedarf Neues zu Lernen - besonders im Technik- und
+IT-Bereich - besonders groß.</p>
+<figure>
+<img src="./images/halbwertzeit-des-wissens.png"
+alt="Halbwertszeit des Wissens (aus Schüppel, J.: Wissensmanagment. Organisatorisches Lernen im Spannungsfeld von Wissens- und Lernbarrieren, eigene Darstellung)" />
+<figcaption aria-hidden="true">Halbwertszeit des Wissens (aus Schüppel,
+J.: Wissensmanagment. Organisatorisches Lernen im Spannungsfeld von
+Wissens- und Lernbarrieren, eigene Darstellung)</figcaption>
+</figure>
+<p>Das bedeutet für die Bürger einer Gesellschaft, dass sie sich auch
+nach absolvierter Ausbildung durch Schule und Hochschule kontinuierlich
+weiterbilden sollten, um nicht den Anschluss zu verlieren. Diesen
+Lernprozess, der von der Geburt bis zum Tod hin reicht, bezeichnet man
+als lebensbegleitendes oder <a
+href="https://de.wikipedia.org/wiki/Lebenslanges_Lernen">lebenslanges
+Lernen</a>.</p>
+<p>Bis zur ersten Ausbildung kümmern sich in den meisten Fällen nicht
+nur die Eltern, sondern auch der Staat um Lernen und Bildung.
+Anschließend muss man es für sich <a
+href="https://de.wikipedia.org/wiki/Selbstorganisation">selbst
+organisieren</a>. <img
+src="https://user-images.githubusercontent.com/117161147/205277408-e05ec31a-ee9b-439c-af25-f6fceab19955.jpeg"
+alt="AdobeStock_265312833" /> Autor: Daniel Berkmann</p>
+<h3 data-number="1.1.1" id="wissensarbeit"><span
+class="header-section-number">1.1.1</span> Wissensarbeit</h3>
+<p>Peter Drucker weist in seinem Buch Landmarks of Tomorrow schon Ende
+der 1950er Jahre auf einen Wandel in der Arbeitswelt in Richtung
+wissensintensiver Arbeitsaufgaben, kurz <a
+href="https://en.wikipedia.org/wiki/Knowledge_worker">Wissensarbeit</a>,
+hin. Der Wissensarbeiter zeichnet sich dadurch aus, dass er über die
+Arbeitsaufgabe und das notwendige Wissen besser Bescheid weiß als die
+Manager der Organisation, und sich deshalb - im Gegensatz zum <a
+href="https://de.wikipedia.org/wiki/Taylorismus">Taylorismus</a> bzw.
+dem <a
+href="https://de.wikipedia.org/wiki/Scientific_Management">Scientific
+Management</a>, bei dem zwischen Kopf- und Handarbeit getrennt wird -
+weitestgehend selbst organisiert.</p>
+<p>Der Organisationssoziologe Hellmut Willke <a
+href="https://www.researchgate.net/publication/41011087_Organisierte_Wissensarbeit">definiert
+Wissensarbeit</a> als Tätigkeiten wie Kommunikation, Transaktion und
+Interaktion, die dadurch gekennzeichnet sind, dass sie Wissen erfordern,
+das nicht einmalig im Leben, etwa durch Erfahrung, Initiation, Lehre,
+Fachausbildung oder Professionalisierung, erworben wurde und dann
+kontinuierlich angewendet werden kann. Stattdessen ist genau das Wissen,
+das im lebenslangen Lernprozess entsteht für die Wissensarbeit
+charaketistisch und handlungsanleitend. Aus diesem Grund ist relevantes
+Wissen nicht statisch, sondern sollte</p>
+<ol type="1">
+<li>kontinuierlich revidiert,</li>
+<li>permanent als verbesserungsfähig angesehen,</li>
+<li>prinzipiell nicht als Wahrheit, sondern als Ressource betrachtet
+werden und</li>
+<li>untrennbar mit Nichtwissen gekoppelt sein.</li>
+</ol>
+<p>Offensichtlich birgt Wissensarbeit Risiken, denn was heute gilt, kann
+morgen bereits ungültig sein.</p>
+<p>Folgende Tätigkeiten gelten, laut der Studie <a
+href="https://lit.bibb.de/vufind/Record/DS-131131">Tätigkeiten und
+berufliche Anforderungen in wissensintensiven Berufen</a>, als besonders
+wissensintensiv:</p>
+<ul>
+<li>Forschen</li>
+<li>Entwickeln</li>
+<li>Recherchieren</li>
+<li>Dokumentieren</li>
+<li>Ausbilden</li>
+<li>Unterrichten</li>
+<li>Organisieren fremder Arbeitsabläufe (ja, Manager und Führungskräfte
+sind auch Wissensarbeiter :-)</li>
+</ul>
+<p>Wenn dein Arbeitsalltag zu großen Teilen aus einer oder mehrere
+dieser Tätigkeiten besteht, kannst du dich zu den Wissensarbeitenden
+zählen und du gehörst zur Kernzielgruppe dieses Leitfadens.</p>
+<p><img
+src="https://user-images.githubusercontent.com/117161147/205277690-6949bc29-aaac-4408-a08d-d22ad0df5624.jpeg"
+alt="AdobeStock_159072372" /> Autor: timothyh</p>
+<h3 data-number="1.1.2" id="produktivität-von-wissensarbeit"><span
+class="header-section-number">1.1.2</span> Produktivität von
+Wissensarbeit</h3>
+<p>Die <a
+href="https://de.wikipedia.org/wiki/Produktivit%C3%A4t">Produktivität</a>
+ist klassisch definiert als das Verhältnis von erzeugten Produkten zu
+den dafür benötigten Produktionsfaktoren. Peter Drucker fasst im Buch
+“Management Challenges for the 21st Century” die Produktivität von
+Wissensarbeitern in sechs Faktoren zusammen:</p>
+<ol type="1">
+<li>Die Produktivität der Wissensarbeiter erfordert, dass wir uns als
+erstes fragen <strong>Was ist die Aufgabe?</strong></li>
+<li>Wissensarbeit verlangt von uns, dass wir die Verantwortung für die
+Produktivität auf einzelne Wissensarbeitende übertragen, dazu müssen wir
+ihnen einen Vertrauensvorschuss geben, denn <strong>Wissensarbeitende
+müssen sich selbst managen.</strong> Dafür muss ein autonomer
+Handlungsspielraum vorhanden sein.</li>
+<li><strong>Kontinuierliche Innovation</strong> ist ein Teil der Arbeit,
+die in der Aufgabe und Verantwortung von Wissensarbeitenden steht.</li>
+<li>Wissensarbeit geht einerseits mit einem <strong>kontinuierlichen
+Lernprozess</strong> und andererseits mit einem <strong>kontinuierlichen
+Lehren</strong> durch die Wissensarbeitenden einher.</li>
+<li>Die <strong>Produktivität der Wissensarbeitenden Fachkraft</strong>
+ist primär keine Frage der Quantität der Ergebnisse. Der Teufel steckt
+oftmals im Detail, deshalb ist Qualität mindestens genauso wichtig.</li>
+<li>Abschließend erfordert die Produktivität von Wissensarbeitenden,
+dass <strong>Wissensarbeitende ein “Aktivposten”</strong> und nicht ein
+“Kostenfaktor” sind und demgemäß behandelt werden. Wissensarbeitende
+sind folglich dann besonders produktiv, wenn sie für die Organisation
+arbeiten wollen und nicht eine der vielen Wahl-Möglichkeiten
+wählen.</li>
+</ol>
+<p>Der viel beachtete TED-Vortrag von Dan Pink zeigt genau diesen
+Zusammenhang der Bedeutung von Autonomie, dem kontinuierlichen Lernen
+(Mastery) und der selbständigen Exploration bzw. dem Herausfinden einer
+relevanten Arbeitsaufgabe (Purpose), die für die Arbeit im 21.
+Jahrhundert charakteristisch ist <a
+href="https://www.youtube.com/watch?v=rrkrvAUbU9Y">Über die
+überraschende Wissenschaft der Motivation</a>.</p>
+<p><img
+src="https://user-images.githubusercontent.com/117161147/205623406-5585277b-28cc-4203-8834-d681cc14ae12.jpeg"
+alt="AdobeStock_262034783" /> Autor/in: Nali</p>
+<h2 data-number="1.2"
+id="dein-lernos-canvas---überblick-über-wissens--und-lernbedarfe"><span
+class="header-section-number">1.2</span> Dein lernOS Canvas - Überblick
+über Wissens- und Lernbedarfe</h2>
+<p>Mit diesem Canvas kannst du dein Lernen planen und dabei einen guten
+Überblick behalten, also nichts Wichtiges vergessen. Die visuelle
+Struktur erleichtert dir auch, die einzelnen Bestandteile aus denen dein
+aktueller Wissens- und Lernbedarf besteht, zu überprüfen und vorhandene
+Ressourcen mit deinem Lernbedarf abzugleichen. Denn ein Bild sagt mehr
+als Tausend Worte! Du kannst es zum Beispiel auch für die parallele
+Bearbeitung mehrerer Bereiche verwenden.</p>
+<p>Alex Osterwalder hatte als erster die Idee für einen lernOS Canvas.
+Er entwickelte auch den [Business Model Canvas
+(https://en.wikipedia.org/wiki/Business_Model_Canvas), den man für die
+Erarbeitung von Geschäftsmodellen nutzt. Beide folgend derselben
+Grundstruktur und sollten von dir zunächst als Einstieg ausgefüllt
+werden. Auf diese Weise bekommst du einen passenden Überblick. Der <a
+href="https://raw.githubusercontent.com/cogneon/lernos-for-you/master/de/src/images/lernOS-Canvas-de.png">lernOS
+Canvas</a> v <strong>ProTip:</strong> Sei flexibel und arbeite mit
+Haftnotizen, die du jederzeit nach Bedarf verwenden kannst.</p>
+<figure>
+<img src="images/lernOS-Canvas-for-you-Canvas-de.png"
+alt="lernOS Canvas" />
+<figcaption aria-hidden="true">lernOS Canvas</figcaption>
+</figure>
+<p>Im oberen Teil des Canvas kannst du deinen Namen und das Datum der
+Erstellung bzw. letzten Änderung eintragen. Wenn du mit dem Canvas
+elektronisch arbeiten willst, kannst du ihn z.B. in OneNote oder ein
+digitales Whiteboard kopieren. Für die erste Befüllung des Canvas kannst
+du dir z.B. folgende Fragen stellen:</p>
+<ul>
+<li><strong>Zweck &amp; Purpose:</strong> Wofür lebst du? Was möchtest
+du in deinem Leben erreichen?</li>
+<li><strong>Ziele &amp; Schlüsselergebnisse:</strong> Welche Ziele hast
+du in den nächsten 12 Wochen? Welche messbaren Ergebnisse gibt es zu den
+Zielen?</li>
+<li><strong>Meine Rollen:</strong> Was sind deine aktuellen Rollen?
+Welche Ziele ergeben sich aus diesen?</li>
+<li><strong>Meine Aufgaben:</strong> Was sind deine aktuellen Aufgaben?
+Welche Ziele ergeben sich daraus?</li>
+<li><strong>Meine Projekte:</strong> Was sind deine aktuellen Projekte?
+Welche Ziele ergeben sich aus diesen?</li>
+<li><strong>Meine Sozialen Netzwerke:</strong> Welche internen und
+externen sozialen Netzwerke (digital und analog) helfen dir bei der
+Vernetzung?</li>
+<li><strong>Meine Lern- und Arbeitsumgebung:</strong> Wie sieht deine
+Lern- und Arbeitsumgebung aus (Infrastruktur, Inhalte, Tools, Methoden
+etc.)?</li>
+<li><strong>Mein Wissen &amp; Meine Fähigkeiten:</strong> Welche
+Wissensgebiete und Fähigkeiten sind für deine Ziele, Rollen, Aufgaben
+und Projekte wichtig? Was musst du noch lernen?</li>
+<li><strong>Meine Wissenswerte:</strong> Welche WissensWerte (Dokumente,
+Checklisten, Videos etc.) hast du? Welche davon kannst du deinem
+Netzwerk anbieten?</li>
+</ul>
+<h2 data-number="1.3"
+id="lernos-flow---arbeitsablauf-für-modernes-arbeiten-und-lernen"><span
+class="header-section-number">1.3</span> lernOS Flow - Arbeitsablauf für
+modernes Arbeiten und Lernen</h2>
+<p>Mit <a
+href="https://de.wikipedia.org/wiki/Flow_(Psychologie)">Flow</a> wird
+das als beglückend erlebte Gefühl eines mentalen Zustand bezeichnet, bei
+dem du konzentriert bist und völlig in einer Tätigkeit aufgehst. Im Flow
+gibt es eine gute Balance zwischen den Anforderungen der Tätigkeit und
+den eigenen Fähigkeiten, so dass weder Überforderung noch Unterforderung
+auftreten. Um in unserer schnellen und komplexen Lebens- und Arbeitswelt
+Konzentration und Fokussierung zusammenzubringen, braucht es dafür ein
+gutes System, mit dem man in der Lage ist sich selbst zu
+organisieren.</p>
+<p>Für den lernOS Flow sind deswegen auf 13-wöchige Zyklen, die in
+Anlehnung an <a href="https://scrumguides.org">Scrum</a> <strong>lernOS
+Sprints</strong> genannt werden. Jeder Sprint beginnt mit Planung und
+Zielfindung (Woche 0) und endet mit einer Retrospektive (Woche 12). Als
+Rhythmus bieten sich die vier Quartale eines Jahres an, das kannst du
+aber an deine Vorliebe anpassen.</p>
+<figure>
+<img src="images/lernOS-Sprint.png" alt="lernOS Sprint" />
+<figcaption aria-hidden="true">lernOS Sprint</figcaption>
+</figure>
+<p>Der lernOS Flow ist ein Arbeitsablauf, den Wissensarbeiter_innen und
+Lebenslang Lernende für ihr Selbstorganisation verwenden können. Hierfür
+wird auf Praxis-erprobte Methoden und Ansätze zurückgegriffen:</p>
+<ol type="1">
+<li><strong>Objektives &amp; Key Results (OKR)</strong> für
+zielgerichtetes und fokussiertes Arbeiten und Lernen durch die
+Definition von Lernzielen und gewünschten Ergebnissen (s.a. <a
+href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">OKR</a>
+bei Google).</li>
+<li><strong>Getting Things Done (GTD)</strong> für produktives und
+stressfreies Arbeiten und Lernen, indem die Selbstorganisation durch
+einen 5-Schritte-Prozess strukturiert wird (s.a. <a
+href="https://gettingthingsdone.com">GTD</a> von David Allen).</li>
+<li><strong>Working Out Loud (WOL)</strong> für das offene Teilen von
+Arbeitsergebnissen im Netzwerk und das Erzählen von
+Hintergrundgeschichten (s.a. <a
+href="https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/">WOL
+Definition</a> von Bryce Williams, <a
+href="https://workingoutloud.com/de/fur-dich">WOL Circle Guides</a> von
+John Stepper).</li>
+</ol>
+<p>Im Diagramm zum lernOS Flow kannst du die Elemente aus den einzelnen
+Methoden anhand der farblichen Markierung erkennen (OKR: rot, GTD: grün,
+WOL: blau):</p>
+<p><img src="./images/lernOS-for-You-Flow.png" /></p>
+<p>Das Bild ist am besten von links nach rechts zu lesen. Es gibt zwei
+mögliche Startpunkte (grüne Kreise) und einen Endpunkt (roter Kreis).
+Mit dem unteren Startpunkt befasst man sich eher mit dem kurzfristigen
+und operativen Umgang mit Wissen und Lernen. Der obere Startpunkt bildet
+die langfristige und strategische Perspektive ab (s.a. <a
+href="https://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/">GTD
+- The 6 Horizons of Focus</a>).</p>
+<p><strong>ProTip:</strong> wenn du privat oder beruflich mit Microsoft
+365 arbeitest, findest du im Anhang die Microsoft 365 Edition des lernOS
+Flows.</p>
+<h2 data-number="1.4"
+id="lernos-workplace---deine-lernumgebung-und-dein-wissensarbeitsplatz"><span
+class="header-section-number">1.4</span> lernOS Workplace - Deine
+Lernumgebung und dein Wissensarbeitsplatz</h2>
+<p>Beim Begriff des modernen Lern- und Arbeitsortest denken viele sofort
+an den “Digitalen Arbeitsplatz” oder das “Digitale Klassenzimmer” mit
+ihren vielen digitalen Tools. Deswegen sei diesem Kapitel folgendes
+Zitat vorangestellt:</p>
+<blockquote>
+<p>A fool with a tool is still a fool (Ron Weinstein)</p>
+</blockquote>
+<p>Mindset, Skillset &amp; Toolset statt nur Toolset: Wenn du an die
+Gestaltung der eigenen Lernumgebung oder des eigenen
+Wissenarbeitsplatzes gehst ist vielmehr eine ausgewogene Betrachtung von
+drei Bereichen wichtig:</p>
+<ul>
+<li><strong>Mindset</strong> - Welche Haltung habe ich zum Lernen und
+wie zeigt sich das in meiner Lernumgebung/meinem Wissensarbeitsplatz
+(s.a. Growth Mindset von Carol Dweck, Open Mindset von Gary Hamel)?</li>
+<li><strong>Skillset</strong> - wie gut sind meine Kompetenzen und
+Fähigkeiten in Bezug auf das Lernen (s.a. (<a
+href="http://www.p21.org/our-work/p21-framework">Framework for 21st
+Century Learning</a>, <a
+href="https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use">DigiComp
+2.1 Framework</a>)?</li>
+<li><strong>Toolset</strong> - Nutze ich zeitgemäße Tools, Methoden und
+Formate in meinen Lern- und Arbeitsprozessen (s.a. <a
+href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html">Web
+2.0</a>, <a
+href="https://de.wikipedia.org/wiki/Agilit%C3%A4t_(Management)">Agile
+Methoden</a>)?</li>
+</ul>
+<figure>
+<img src="./images/lernOS-Wheel.png" alt="lernOS Wheel" />
+<figcaption aria-hidden="true">lernOS Wheel</figcaption>
+</figure>
+<p>Dein <strong>lernOS Workplace</strong> ist eine sehr individuelle
+Angelegenheit, deswegen solltest du dir diesen jeweils möglichst gut
+nach deinen Bedürfnissen gestalten. In der Regel ist dieser Platz auch
+nicht nur an einem Ort, sondern an mehreren. Bei Schüler_innen kann das
+z.B. die Schule und das eigene Zimmer sein. In Zeiten von verteilter und
+mobiler Arbeit kann jeder Ort dein Lern- und Arbeitsort sein.</p>
+<p>Mit der folgenden Vorlage in Anlehnung an das <a
+href="https://jarche.com/2014/02/the-seek-sense-share-framework/">Seek&gt;Sense&gt;Share
+Frameworks</a> von Harold Jarche kannst du deinen aktuellen lernOS
+Workplace beschreiben, deine Gedanken dazu mit anderen teilen und Ideen
+für die Zukunft entwickeln:</p>
+<figure>
+<img src="./images/lernOS-Workplace.png" alt="lernOS Workplace" />
+<figcaption aria-hidden="true">lernOS Workplace</figcaption>
+</figure>
+<p>Das trifft auch auf den digitalen Teil der persönlichen Lernumgebung
+zu: alle Lernenden müssen sich geeignete Tools auswählen und
+einrichten.</p>
+<p>Die folgende Tabelle zeigt Beispiele von internen (Intranet) und
+externen (Internet) Toolbeispielen zu den einzelnen Kategorien des
+lernOS Workplace:</p>
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tool-Kategorie</th>
+<th>Beschreibung</th>
+<th>Beispiele Internet</th>
+<th>Beispiele Intranet</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Suche</strong></td>
+<td></td>
+<td>Bing, DuckDuckGo, Google</td>
+<td>Microsoft Search</td>
+</tr>
+<tr class="even">
+<td><strong>Browser</strong></td>
+<td></td>
+<td>Chrome, Edge, Firefox</td>
+<td>Chrome, Edge, Firefox</td>
+</tr>
+<tr class="odd">
+<td><strong>Feedreader</strong></td>
+<td>Abonnieren und Empfangen von Nachrichten im Format RSS oder
+ATOM</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Podcatcher</strong></td>
+<td>Abonnieren, Empfangen und Anhören von Podcasts</td>
+<td>Apple Podcasts App, Castro, Overcast</td>
+<td>Microsoft Stream</td>
+</tr>
+<tr class="odd">
+<td><strong>Digitales Notizbuch</strong></td>
+<td>Persönliche, digitale Notizen verwalten</td>
+<td>Evernote</td>
+<td>OneNote, Joplin</td>
+</tr>
+<tr class="even">
+<td><strong>Wiki</strong></td>
+<td></td>
+<td>Wikipedia, Fandom</td>
+<td>Confluence, DokuWiki, MediaWiki</td>
+</tr>
+<tr class="odd">
+<td><strong>Office-Paket</strong></td>
+<td></td>
+<td>G Suite, Collabra</td>
+<td>Office 365, Libre Office</td>
+</tr>
+<tr class="even">
+<td><strong>Videokonferenz-Software</strong></td>
+<td>Durchführung von Audio- und Videokonferenzen</td>
+<td>Jitsi, Google Hangouts Meet, Skype</td>
+<td>Zoom, GoToMeeting, Microsoft Teams, Skype for Business, WebEx,
+BlueJeans</td>
+</tr>
+<tr class="odd">
+<td><strong>Mindmap-Software &amp; Outliner</strong></td>
+<td>Erstellung und Bearbeitung von hierarchischen Themenstrukturen</td>
+<td>Mindmeister</td>
+<td>XMind, MindManager, Freemind, Freeplane</td>
+</tr>
+<tr class="even">
+<td><strong>Webseite</strong></td>
+<td></td>
+<td>Jimdo, Squarespace, Wordpress</td>
+<td>SharePoint Online, Confluence</td>
+</tr>
+<tr class="odd">
+<td><strong>Weblog</strong></td>
+<td>Schreiben und Veröffentlichen von Blog-Beiträgen</td>
+<td>Wordpress, Medium, LinkedIn (Artikel), Tumblr</td>
+<td>HCL Connections, Jive, Yammer</td>
+</tr>
+<tr class="even">
+<td><strong>Podcast- und Video-Blog-Plattform</strong></td>
+<td>Hochladen und Veröffentlichen von Audio- und Video-Blogs
+(vlogs)</td>
+<td>YouTube, Vimeo, Podigee, Podcast Plattform, Wordpress + Podlove</td>
+<td>Microsoft Stream, Kaltura, Vimp</td>
+</tr>
+<tr class="odd">
+<td><strong>Filesharing</strong></td>
+<td>Dateien in Ordnern organisieren</td>
+<td>Dropbox, Google Drive</td>
+<td>OneDrive, SharePoint Online, Nextcloud</td>
+</tr>
+<tr class="even">
+<td><strong>Soziale Netzwerke &amp; Online-Foren</strong></td>
+<td>Online-Profil pflegen, Statusnachrichten schreiben, mit anderen
+vernetzen</td>
+<td>LinkedIn, Twitter, Workplace by Facebook, Xing, ResearchGate,
+Reddit, Stackoverflow</td>
+<td>Yammer, HCL Connections, Jive, Discourse</td>
+</tr>
+<tr class="odd">
+<td><strong>Chat</strong></td>
+<td>Kurznachrichten schreiben, Chat-Gruppen erstellen</td>
+<td>WhatsApp, Telegram, Signal, Threema, WeChat</td>
+<td>Microsoft Teams, Kaizala, Slack, Mastodon, Threema, Mattermost,
+Rocket.Chat</td>
+</tr>
+<tr class="even">
+<td><strong>Personal Information Manager &amp; Email</strong></td>
+<td>E-Mail, Kalender, Kontakte etc. verwalten</td>
+<td>Gmail</td>
+<td>Outlook</td>
+</tr>
+<tr class="odd">
+<td><strong>Aufgaben- und Zeitmanagement</strong></td>
+<td>Planung und Einhaltung von Zeiten für Aufgaben</td>
+<td>Trello, Todoist, Things, Omnifocus</td>
+<td>Microsoft ToDo</td>
+</tr>
+<tr class="even">
+<td><strong>Referenzmanager</strong></td>
+<td>Verwaltung von Links und Literatur</td>
+<td>Zotero, Mendeley, Liquidtext</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 data-number="1.5"
+id="lernos-memex---das-2nd-brain-der-lernenden"><span
+class="header-section-number">1.5</span> lernOS Memex - das “2nd Brain”
+der Lernenden</h2>
+<p>Die einzelnen Wissens- und Lernumgebungen sind eben so individuell,
+wie jeder einzelne Mensch es ist. Die Idee des lernOS Memex will hier
+eine gemeinsame Bezugsgröße schaffen. Memex steht für “Memory Extender”
+und kann als digitaler Zwilling des eigenen Gehirns, im Englischen auch
+“second brain” genannt, verstanden werden. Also das worum es in diesem
+Lernpfad u.a. geht.</p>
+<p>Der Memex im lernOS ist ein System, dem der Nutzer vertraut und der
+neben allen Organisations- und Planungselementen von lernOS auch
+Verweise und Beschreibungen auf alle weiteren System enthält, die im
+Rahmen der lernOS Praxis verwendet werden.</p>
+<p>Theoretisch kann der Memex auch analog z.B. in Form eines Notizbuchs
+umgesetzt werden. In der Praxis kommen aber meist digitale Notizbücher
+oder Scratchpads zum Einsatz (z.B. Obsidian, Logseq, Roam), da diese
+gegenüber analogen Varianten viele Vorteile bieten. So bieten sie z.B.
+unbegrenzten Platz, können durchsucht werden sowie Audio- und
+Videoinhalte enthalten. Mehr dazu im Lernpfad selber.</p>
+<figure>
+<img src="./images/lernOS-Memex-Beispiel-OneNote.png"
+alt="Beispiel eines lernOS Memex in Microsoft OneNote von Simon Dückert" />
+<figcaption aria-hidden="true">Beispiel eines lernOS Memex in Microsoft
+OneNote von Simon Dückert</figcaption>
+</figure>
+<p><img src="images/GedankenDuengen.jpeg" alt="Gedanken Düngen" />
+Autor/in: VectorMine</p>
+<h1 data-number="2" id="persönliches-wissensmanagement-grundlagen"><span
+class="header-section-number">2</span> Persönliches Wissensmanagement
+Grundlagen</h1>
+<p>In der heutigen Zeit ist es wichtiger denn je, ständig neues Wissen
+und Informationen zu erlangen. Wissen alleine reicht jedoch nicht aus,
+um erfolgreich zu sein. Es ist ebenso wichtig, wenn nicht sogar
+wichtiger Wissen weiter zu denken, um es zu etwas Neuem zu verbinden.
+z.B. um Aufgaben und Projekte effizienter zu erfüllen, sich schnell an
+neue Anforderungen und Herausforderungen anzupassen, Ziele und Pläne
+besser zu verstehen und zu verfolgen oder die Studienzeit effizienter zu
+nutzen. Das ist jedoch leichter gesagt als getan. Glücklicherweise gibt
+es Methoden des persönlichen Wissensmanagements, die dabei helfen
+können. Eine dieser Methoden ist die Zettelkasten-Methode.</p>
+<p>Die Zettelkasten-Methode basiert auf einer Bottom-Up Themenstruktur
+und hat das Ziel, Gedanken und Ideen an einem zentralen Ort abzulegen
+und diese miteinander zu verbinden, um neue Erkenntnisse zu gewinnen,
+Wissen zu internalisieren und fundierte Texte entstehen zu lassen. Es
+kann eine Weile dauern, bis man die ersten Erfolge sieht, doch wenn man
+die Zettelkasten-Methode kontinuierlich anwendet, wird man von der
+reichen Ernte profitieren.</p>
+<p>Um die Zettelkasten-Methode erfolgreich anzuwenden, ist es wichtig,
+sie täglich zu nutzen. Lies und notiere deine Gedanken zum gelesenem.
+Formuliere deine Notizen präzise aus und verknüpfe dein Wissen
+miteinander. Verbinde deine Ideen und schaffe übergreifende
+Verbindungen. Stelle dir selbst Fragen und versuche diese zu
+beantworten. Durch dieses kontinuierliche Denken im Zettelkasten wirst
+du dein Wissen vertiefen und neue Ideen generieren.</p>
+<p>In der Praxis kann die Zettelkasten-Methode sowohl im Berufsalltag
+als auch im Studium und im privaten Bereich eingesetzt werden. Sie kann
+dazu beitragen, fundierte Beiträge zu schreiben, umfangreiche Gedanken
+greifbar zu machen und das eigene Wissen zu vertiefen. Sie ist auch beim
+Schreiben von Artikeln, Forum-Beiträge, Social-Media Beiträge hilfreich,
+denn du sammelst Gedanken, bereitest sie auf und kannst sie in einem
+Outline direkt einfügen und hast deine Beiträge mit Tiefgang bereits zu
+90% fertig.</p>
+<p>Wobei die Methode dich unterstützen kann - Beruflich - Es erleichtert
+die effiziente und erfolgreiche Erfüllung von Aufgaben und Projekten. -
+Es unterstützt die Karriereentwicklung, indem es dabei hilft, relevantes
+Wissen und Fähigkeiten aufzubauen und zu demonstrieren. - Es ermöglicht
+eine schnellere Anpassung an neue Anforderungen und Herausforderungen im
+Beruf. - Es erhöht die Produktivität und die Fähigkeit, schnell
+Entscheidungen zu treffen. - Es verbessert die Kommunikation und
+Zusammenarbeit innerhalb des Unternehmens. - Privat - Es hilft dabei,
+die eigenen Ziele und Pläne besser zu verstehen und zu verfolgen. - Es
+unterstützt die Selbstorganisation und ermöglicht eine bessere
+Verwaltung von Zeit und Aufgaben. - Es fördert die persönliche und
+intellektuelle Entwicklung, indem es dabei hilft, neues Wissen und
+Fähigkeiten aufzubauen. - Es ermöglicht eine bessere Verwaltung von
+Finanzen und Ressourcen. - Es erhöht die Fähigkeit, schneller und
+effektiver Probleme zu lösen und Entscheidungen zu treffen. - Im Studium
+- Es unterstützt das Verstehen und Behalten von Lerninhalten und
+erleichtert die Vorbereitung auf Prüfungen. - Es fördert die Entwicklung
+von Selbstlernstrategien und die Fähigkeit, sich selbstständig Wissen
+anzueignen. - Es ermöglicht eine effizientere Nutzung der Studienzeit
+und Ressourcen. - Es fördert die Fähigkeit, Zusammenhänge zwischen
+verschiedenen Fächern und Disziplinen herzustellen. - Es erhöht die
+Möglichkeiten für eine erfolgreiche Karriere und berufliche
+Entwicklung.</p>
+<p>Die Zettelkasten-Methode wurde vom Soziologen Niklas Luhmann
+(*8.12.1927) entwickelt, der mit ihrer Hilfe ca. 70 Bücher und 400
+Artikel publizieren konnte. Und alle von hoher Qualität. Er hat seinen
+Zettelkasten analog benutzt. Was hätte er wohl mit einem digitalen
+Zettelkasten erreichen können? Finde heraus, was du erreichen
+kannst!</p>
+<h2 data-number="2.1"
+id="links-zu-weiteren-informationen-über-das-thema-zettelkasten-oder-auch-persönliches-wissensmanagement-pkm"><span
+class="header-section-number">2.1</span> Links zu weiteren Informationen
+über das Thema Zettelkasten oder auch Persönliches Wissensmanagement
+(PKM)</h2>
+<ul>
+<li><a href="https://youtu.be/qRSCKSPMuDc?t=2246">Niklas Luhmann
+erläutert wie er mit seinem Zettelkasten arbeitet</a> - 27:26 -
+39:47</li>
+<li>https://youtu.be/gt6nRZQTYD4</li>
+<li>https://www.wissen-kommunizieren.de/category/persoenliches-wissensmanagement/</li>
+<li><a href="https://youtu.be/NbncA7bDl70?t=18">Niklas Luhmann - Ich
+denke ja nicht alles allein (Zettelkasten als Zeitgedächtnis)</a></li>
+<li>PKM - Harold Jarche: https://jarche.com/pkm/</li>
+<li>PKM Video:
+https://www.youtube.com/watch?v=HQbnoLxgx7I&amp;ab_channel=HaroldJarche</li>
+</ul>
+<p><img src="images/Tablet-Zettelkasten.jpeg"
+alt="Tablett Zettelkasten" /> Autor/in: CrazyCloud</p>
+<h1 data-number="3" id="lernpfad"><span
+class="header-section-number">3</span> Lernpfad</h1>
+<h2 data-number="3.1" id="die-lernziele-des-zettelkasten-pfades"><span
+class="header-section-number">3.1</span> Die Lernziele des
+Zettelkasten-Pfades</h2>
+<p><img src="images/ZettelkastenLernziele_1.png"
+alt="Zettelkasten-Lernziele - Setup bis Schritt 4" /> <img
+src="images/ZettelkastenLernziele_2.png"
+alt="Zettelkasten-Lernziele - Schritt 5 bis 10" /> <img
+src="images/ZettelkastenLernziele_3.png"
+alt="Zettelkasten-Lernziele - Schritt 11 und 12" /></p>
+<h2 data-number="3.2" id="week-0---circle-setup"><span
+class="header-section-number">3.2</span> Week 0 - Circle Setup</h2>
+<h3 data-number="3.2.1" id="theoryquestions"><span
+class="header-section-number">3.2.1</span> Theory/Questions</h3>
+<p>If you don’t know each other in the Circle yet, get to know each
+other in week 0. Plan when you will meet, what tools you will use to
+share, and who will be the moderator.</p>
+<p>Define a Circle facilitator who will handle event and time
+management. One of the biggest obstacles to successful Circle is
+discipline and time management. The moderator is not the “boss*in” of
+the Circle, but a normal Circle member who takes care of a smooth event.
+Define the day and time of the weekly meeting. Define whether you will
+meet in person or virtually. Define the tools you will use for
+communication and documentation in the Circle. Decide which of the
+suggested exercises you will do in the Circle and as homework. If
+necessary, define rules or behavioral labels that are helpful to
+you.</p>
+<h3 data-number="3.2.2"
+id="guiding-questions-you-can-answer-for-yourselves"><span
+class="header-section-number">3.2.2</span> Guiding questions you can
+answer for yourselves</h3>
+<ul>
+<li>Alternating Circle facilitation?</li>
+<li>Day and time of Weekly?</li>
+<li>Weekly meetings are: in person / virtual?</li>
+<li>Tools used for offline communication (Can everyone use them?)?</li>
+<li>Where do we share the results? Do we use social media channels?</li>
+<li>Dealing with appointments where not all can attend (e.g. if 3
+participants* cannot, the appointment is cancelled)?</li>
+<li>Attitude, principles for the Circle (e.g. the Circle should be fun!
+If you can’t complete a task because you have other priorities that
+week, that’s totally ok. We don’t create additional stress)?</li>
+</ul>
+<p>A very important function of the Circle is to get feedback on your
+goals, understanding and workflow and to give feedback to the others. To
+help you understand each other better in the process, take a moment to
+talk about your idea of constructive feedback. This includes the
+question “Why are you doing knowledge management?” and the principle
+“Compare yourself to yourself.</p>
+<h3 data-number="3.2.3" id="tasksexercises"><span
+class="header-section-number">3.2.3</span> Tasks/Exercises</h3>
+<ul>
+<li>answer the guiding questions together and find a consensus</li>
+<li>exchange ideas about constructive feedback</li>
+</ul>
+<h3 data-number="3.2.4" id="reflection-part"><span
+class="header-section-number">3.2.4</span> Reflection part</h3>
+<ul>
+<li>How can we best give each other feedback to improve our goals and
+understanding?</li>
+<li>What are our personal reasons for using knowledge management in the
+Circle?</li>
+<li>How do we adhere to the principle of “compare yourself to yourself”
+in terms of feedback and goals?</li>
+</ul>
+<h3 data-number="3.2.5" id="learning-objective"><span
+class="header-section-number">3.2.5</span> Learning Objective</h3>
+<ul>
+<li>You gain clarity in the Circle about the approach and the
+organization</li>
+<li>You get a safe space for giving and receiving feedback.</li>
+</ul>
+<p><img src="images/WhenWrittingTheStoryOfYourLife.jpeg"
+alt="When writing the story of your life, don’t let anyone else hold the pen" />
+Autor/in: cn0ra</p>
+<h2 data-number="3.3"
+id="week-1---goal-definition-appointment-with-yourself"><span
+class="header-section-number">3.3</span> Week 1 - Goal definition &amp;
+appointment with yourself</h2>
+<p>Week 1 is the only week that consists of two topics. Your goal
+definition and making an appointment with yourself.</p>
+<h3 data-number="3.3.1" id="goal-definition"><span
+class="header-section-number">3.3.1</span> Goal definition</h3>
+<h4 data-number="3.3.1.1" id="theoryquestions-1"><span
+class="header-section-number">3.3.1.1</span> Theory/questions</h4>
+<p>What do you want to achieve in the next twelve weeks? You can choose
+a goal that is really, really important to you and with which you will
+make very concrete progress during the sprint. However, especially for
+PKM beginners, achieving the goal is not the top priority. In addition
+to learning the basic knowledge, the environment, the findability and
+permanence of notes, the focus is still very much on regularly applying
+the newly gained skills. In particular and last but not least, one main
+thing is our focus: having a lot of fun! :D</p>
+<p>To ensure optimal learning success, it is important to set goals that
+motivate you and make your progress tangible and visible. You’ll want to
+set your goals using the SMART formula or use Google’s OKR method<a
+href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a> to define your goal. Consider
+whether you might want to work toward a specific product. This could be,
+for example, a blog article for your co-workers, or a first publication,
+or, or, or…. Visualize your goal. For this purpose, you can use
+different technical tools on the Internet.</p>
+<p>Think about how you will share your progress in the Circle. In other
+words, if your first priority is to check-in, that’s a bit low. Consider
+what documentation tools are out there that are good for logging your
+progress.</p>
+<h6 data-number="3.3.1.1.0.1"
+id="define-goals-using-the-smart-formula."><span
+class="header-section-number">3.3.1.1.0.1</span> Define goals using the
+SMART formula.</h6>
+<p><img src="images/SmartGoals.jpeg" alt="SMART Goals Meaning" /> Autor:
+Dmitry</p>
+<p>Using the SMART method is a good way to define a goal. It applies
+various criteria against which the goal definition is measured. This way
+you have the guarantee to reach a smart goal.</p>
+<p><strong>S</strong>pecific: Is it really clear what you want to do, or
+are you perhaps too vague in your wording? What is included, and
+especially what is not? Only if you really know exactly what you want to
+do and at the same time know the limits of your intention, you can set
+out and be sure that you will arrive on the way in any case without
+getting bogged down or even losing your orientation.</p>
+<p><strong>M</strong>essbar: What must have happened so that you can say
+that your goal has been achieved. What work result is there then? For
+example, if you want to get “better” at something, what do you need to
+do and how often to get enough practice? Formulate in such a conclusive
+and measurable way that you can achieve just that. Essentially, ask
+yourself what you want to get better at or what exactly this “better”
+can be tied to. Characterize the first point, because the more specific
+you are in defining your goal, the more likely you are to get a result
+that meets your expectations, that can be further improved, and that can
+be markedly evaluated.</p>
+<p><strong>A</strong>ttractive: Your goal must motivate you. You must
+want to achieve it if you want to spend 12 weeks to make it come true.
+Therefore, this point is especially important. It should be a goal that
+you have personally chosen for yourself and with which you can identify
+100%. A goal that others set for me will rarely trigger the same desire
+in me to achieve it as one that springs from my own heart. In some
+explanations of the SMART formula, the A also stands for
+<strong>A</strong>nchallenging. Will mean that your goal should not be
+too easy. You should make a little effort and challenge yourself,
+because if you stay too far away from your personal limits and actually
+still chill in your comfort zone, you can rarely really improve.
+Ultimately, you need to go a little beyond your comfort zone without
+completely overtaxing yourself, because that’s where growth begins.
+Caution. Overextending yourself won’t yield sustainable results, and by
+and large, this learning path is meant to bring one thing above all
+else: a lot of fun! And that can quickly fall by the wayside if your
+goals are too ambitious.</p>
+<p><img src="images/ZonesForDevelopment.jpeg"
+alt="Zones for Development" /> Autor/in: VectorMine</p>
+<p><strong>R</strong>ealistic: The learning path goes 12 weeks and
+therefore you should also choose a goal that is really achievable in
+this time. Stay down to earth when defining your goals. You can achieve
+anything at a snail’s pace and with perseverance. It is also key to
+question yourself in advance: Are you one of those people who like to
+choose their goals a little more challenging? How much time do you
+really have available each week? Does the whole thing really fit into
+the framework of the 12 weeks of the Learning Sprint? If it has to be,
+then say goodbye to one or the other idea for the time being.
+Ultimately, the first sprint is good training that will eventually
+become second nature. The current learning sprint may only have been a
+prelude. :-)</p>
+<p><strong>T</strong>erminated: Another important requirement of your
+goal that you should pay attention to is the date of completion. In the
+context of the learning sprint, this date can actually be determined
+very precisely. And that’s important, too, because it gives you the
+opportunity to check whether you’re still on track in terms of
+deliverables, open items, and any problems or obstacles, or whether you
+might need to put more energy into your work on the project or
+conclusively scale down your goal in order to achieve it at all. In week
+7 we will look at the first interim results. A good moment to look at
+your own goal again from the SMART perspective and if necessary to
+readjust it a bit.</p>
+<p><strong>Example of goal setting with OKRs</strong>.</p>
+<p>As easy as the card box is to explain, as challenging it can be to
+work with it at the beginning. For this reason, we recommend setting a
+concrete goal and possibly starting with a small project. To make this a
+little more concrete, here is an example.</p>
+<p>Nima has started to study wants to work in science in the future, so
+clean scientific work and the corresponding writing organization should
+be practiced from the beginning.</p>
+<p>Nima’s goal for week 12 in the notebox learning path is to develop a
+routine in using the notebox. Therefore, Nima is considering working on
+this very routine with an upcoming term paper. For starters, it is very
+challenging to write 15 pages from the note box, so it makes sense to
+define even more key outcomes.</p>
+<p>The question that can help you to define the Key Results is: How do I
+know that I am getting closer to my Objective?</p>
+<p>1st Key Result: The key result that is obvious is the 15 pages
+written. 2nd Key Result: Nima has developed a complete workflow. This
+includes a reading routine, transferring notes to permanent notes,
+linking thoughts,….</p>
+<p>**Additional Information.</p>
+<ul>
+<li>Wikipedia article <a
+href="https://en.wikipedia.org/wiki/SMART_criteria">SMART Criteria</a>
+(English).</li>
+<li>MIT Sloan article <a
+href="https://sloanreview.mit.edu/article/with-goals-fast-beats-smart">With
+Goals, FAST Beats SMART</a> (English)</li>
+<li>Article <a
+href="https://t3n.de/news/okr-google-wunderwaffe-valley-ziele-530092/">OKR
+- Google’s Wonder Weapon for Business Success or: Get Out of the Comfort
+Zone</a> (German)</li>
+<li>Ted Talk <a href="https://www.youtube.com/watch?v=o08ykAqLOxk">How
+We Can Make the World a Better Place by 2030</a> (English)</li>
+<li>Video How Google Sets Goals: <a
+href="https://www.youtube.com/watch?v=mJB83EZtAjc">OKRs with Google
+Ventures Partner Rick Klau</a> (English)</li>
+<li>Video <a
+href="https://www.youtube.com/watch?v=_ugCKONbBNs">OKR-Agile Goal
+Management for Medium-Sized Businesses</a> (german)</li>
+<li>Video <a
+href="https://www.youtube.com/watch?v=y-aIyqMZfnE&amp;t=">OKR - Leading
+with Objectives and Key Results (OKRs) - how the Google Leadership
+System works</a> (german)</li>
+<li>Book <a
+href="https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf">Introduction
+To OKRs by Christina Wodtke</a> (english)</li>
+<li>Book <a
+href="https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf">The
+Beginner’s Guide To OKR by Felipe Castro</a> (english)</li>
+</ul>
+<h4 data-number="3.3.1.2" id="tasksexercises-1"><span
+class="header-section-number">3.3.1.2</span> tasks/exercises</h4>
+<h4 data-number="3.3.1.3" id="reflection-part-1"><span
+class="header-section-number">3.3.1.3</span> Reflection part</h4>
+<p>What is already going well? What have you already achieved? Who/what
+could support you? How would you know that you have fully achieved your
+goal?</p>
+<h4 data-number="3.3.1.4" id="learning-goal"><span
+class="header-section-number">3.3.1.4</span> Learning goal</h4>
+<ul>
+<li>You support your learning success by making your goals
+measurable.</li>
+<li>You motivate yourself and the other participants by making your
+goals tangible.</li>
+</ul>
+<h3 data-number="3.3.2" id="an-appointment-with-yourself"><span
+class="header-section-number">3.3.2</span> An appointment with
+yourself</h3>
+<h4 data-number="3.3.2.1" id="theoryquestions-2"><span
+class="header-section-number">3.3.2.1</span> Theory/questions</h4>
+<p>Do you take enough time for your personal development and to work on
+your goals? Many people are busy with their daily tasks and don’t care
+enough about their development and well-being. A good approach is to
+make an appointment with yourself and reserve this time in your
+calendar.</p>
+<h5 data-number="3.3.2.1.1" id="more-information"><span
+class="header-section-number">3.3.2.1.1</span> More information:</h5>
+<ul>
+<li>Video: <a href="https://www.youtube.com/watch?v=fmV0gXpXwDU">7 Big
+Rocks</a></li>
+<li>Podcast: <a
+href="http://www.asianefficiency.com/schedule-management/color-code-your-calendar/">Never
+enough time? Schedule your priorities by colorcoding your
+calendars</a></li>
+</ul>
+<h4 data-number="3.3.2.2" id="tasksexercises-2"><span
+class="header-section-number">3.3.2.2</span> tasks/exercises</h4>
+<p>Check your calendar and look for possible dates with yourself. An
+hour or even 30 minutes a week is a good starting point. Put an
+appointment with yourself on the calendar. If possible, make it a
+recurring appointment so that this time becomes a habit for you. Find at
+least five appointments:</p>
+<ol type="1">
+<li><p>…</p></li>
+<li><p>…</p></li>
+<li><p>…</p></li>
+<li><p>…</p></li>
+<li><p>…</p></li>
+</ol>
+<h4 data-number="3.3.2.3" id="reflection-part-2"><span
+class="header-section-number">3.3.2.3</span> Reflection part</h4>
+<ul>
+<li>Discuss your approaches in the Circle.</li>
+<li>Do you have the same time slot each week?</li>
+<li>Do you find it easier to dynamically schedule an hour each
+week?</li>
+<li>How do you usually schedule recurring appointments and do you feel
+comfortable with the method?</li>
+</ul>
+<h4 data-number="3.3.2.4" id="learning-goal-1"><span
+class="header-section-number">3.3.2.4</span> Learning Goal</h4>
+<ul>
+<li>You make a commitment to yourself to give yourself this learning
+space for the exercises.</li>
+<li>You create the necessary conditions to carry out the Circle
+successfully.</li>
+</ul>
+<h2 data-number="3.4" id="week-2---pkm-environment-setup"><span
+class="header-section-number">3.4</span> Week 2 - PKM Environment
+Setup</h2>
+<p>When it comes to organizing your personal knowledge management,
+choosing the right program can be helpful. A good program will give you
+the ability to store your notes in one place and ensure that you have
+access to the information you need at any time.</p>
+<p>There are many different programs on the market that focus on
+different ways of working and personal preferences. It may be wise to
+take the time to look into different programs to find the one that best
+fits your needs.</p>
+<p>It is important that your knowledge is stored in a format that
+considers future viability. However, it is important to remember that
+programs can change over time and it may be necessary to choose a
+different program.</p>
+<p>It is important to note that your choice of program is not set in
+stone and you have the ability to change your decision at any time. To
+help you with your decision, we have created a questionnaire to give you
+a start. However, it is important to note that this is only a guide and
+it is not the only option.</p>
+<p>There are also programs like OneNote and Evernote that may not be for
+everyone, depending on what features and requirements you have. It’s
+important to review the different options and choose the program that
+best fits your needs.</p>
+<h3 data-number="3.4.1" id="questionnaire-to-choose-a-program"><span
+class="header-section-number">3.4.1</span> Questionnaire to choose a
+program</h3>
+<p>You can use the questionnaire to support your choice for a tool:</p>
+<ol type="1">
+<li>what kind of data do you want to store and organize (e.g. texts,
+images, audio files)?
+<ol type="1">
+<li>i want to store and organize mainly text files. (A)</li>
+<li>i want to store and organize mainly text files and images. (B)</li>
+<li>i want to store and organize mainly text files, images and audio
+files. (C)</li>
+</ol></li>
+</ol>
+<ol start="2" type="1">
+<li>Which features do you need (e.g. branch structure, version history,
+markdown support)?
+<ol type="1">
+<li>i need branch structure and version history. (A)</li>
+<li>i need branch structure, version history and markdown support.
+(B)</li>
+<li>i need a branch structure, version history, markdown support and the
+ability to view multiple branches at once. (C)</li>
+</ol></li>
+<li>How important is the ability to access your data from anywhere?
+<ol type="1">
+<li>It is very important to me to be able to access my data from
+anywhere. (A)</li>
+</ol>
+<ol start="2" type="1">
+<li>it is important to me to be able to access my data from anywhere,
+but it is not the most important feature for me. (B)</li>
+</ol>
+<ol start="3" type="1">
+<li>It is not that important to me to be able to access my data from
+anywhere. (C)</li>
+</ol></li>
+<li>How important is the ability to collaborate with others to you?
+<ol type="1">
+<li>it is very important to me to be able to collaborate with other
+people. (B)</li>
+<li>it is important to me to be able to collaborate with other people,
+but it is not the most important feature for me. (A, C)</li>
+<li>it is not so important for me to be able to cooperate with other
+people. (A, B, C)</li>
+</ol></li>
+</ol>
+<ol start="5" type="1">
+<li>How important is the ability to export and backup your data to you?
+<ol type="1">
+<li>it is very important to me to be able to export and backup my data.
+(A, B, C)</li>
+<li>it is important to me to be able to export and backup my data, but
+it is not the most important feature for me. (A, B, C)</li>
+<li>it is not so important for me to be able to export and save my data.
+(A, B, C)</li>
+</ol></li>
+<li>How important is the customizability and extensibility of the
+software to you?
+<ol type="1">
+<li>it is very important to me that the software is customizable and
+extensible. (B,C)</li>
+<li>it is important to me that the software is customizable and
+extensible, but it is not the most important feature for me. (A)</li>
+<li>it is not so important to me that the software is customizable and
+extensible. (A, B)</li>
+</ol></li>
+</ol>
+<ol start="7" type="1">
+<li>What platforms does the software support (e.g., Windows, Mac, Linux,
+iOS, Android)?
+<ol type="1">
+<li>I need the software on Windows and Mac. (A, B, C)</li>
+<li>i need the software on Windows, Mac and Linux. (A, B, C)</li>
+<li>i need the software on Windows, Mac, Linux, iOS and Android. (A, B,
+C)</li>
+</ol></li>
+</ol>
+<ol start="8" type="1">
+<li><p>what pricing and subscription models does the software offer?</p>
+<ol type="1">
+<li>I am willing to pay for the software and agree to a subscription
+model. (A, B, C)</li>
+<li>I am willing to pay for the software, but I prefer a one-time
+purchase model. (A, B, C)</li>
+<li>I am not willing to pay for the software and am looking for a free
+alternative. (A, B, C)</li>
+</ol></li>
+<li><p>what kind of visualizations and diagrams do you need?</p>
+<ol type="1">
+<li>I need the ability to visualize my data in mind-map form and
+graph-based charts. (A)</li>
+</ol>
+<ol start="2" type="1">
+<li>i need the ability to present my data in mind-map form, graph-based
+diagrams, and other types of diagrams and visualizations. (B)</li>
+</ol>
+<ol start="3" type="1">
+<li>I do not need special features for visualization and diagrams.
+(C)</li>
+</ol>
+<p>Count the letters together. Depending on which letter you have the
+most choices, A: Roam, B: Obsidian, C: Logseq could be the most suitable
+for you.</p>
+<p>This questionnaire is only a help and there is no guarantee that one
+of the above tools is the best for you. It is recommended to test the
+tools yourself to make sure it meets your requirements. (And they are
+not the only tools, they are only common tools)</p>
+<p>##### Links to common PKM programs</p>
+<ul>
+<li>Obsidian<a href="#fn2" class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a></li>
+<li>Logseq<a href="#fn3" class="footnote-ref" id="fnref3"
+role="doc-noteref"><sup>3</sup></a></li>
+<li>Roam<a href="#fn4" class="footnote-ref" id="fnref4"
+role="doc-noteref"><sup>4</sup></a></li>
+</ul>
+<p>If Markdown is foreign to you, and you want to use it in your
+notebox, check out the attachment. There is a crash course there. (In
+principle three characters are enough to use it)</p>
+<p>### Tasks/Exercises</p>
+<ul>
+<li>Choose a program, either with the help of the questionnaire or
+otherwise</li>
+<li>Install your chosen program</li>
+<li>Familiarize yourself with the program</li>
+<li>Create a note
+<ul>
+<li>Title: Hello world</li>
+<li>Text: My first note</li>
+</ul></li>
+</ul>
+<p>### Reflection section</p>
+<ol type="1">
+<li>what aspects are most important to you when choosing a program for
+personal knowledge management?</li>
+<li>what kinds of notes do you take most often and what features would
+you need in a program to organize them?</li>
+<li>how do you deal with the possibility that programs will change and
+possibly disappear from the market?</li>
+</ol>
+<p>### Learning Objective</p>
+<ul>
+<li>You have installed and set up your notebox environment</li>
+<li>You have become aware of what is important to you for your box
+work.</li>
+</ul></li>
+</ol>
+<h2 data-number="3.5" id="week-3---get-to-know-notes"><span
+class="header-section-number">3.5</span> Week 3 - Get to know notes</h2>
+<h3 data-number="3.5.1" id="theoryquestions-3"><span
+class="header-section-number">3.5.1</span> Theory/questions</h3>
+<h4 data-number="3.5.1.1" id="types-of-notes"><span
+class="header-section-number">3.5.1.1</span> Types of notes</h4>
+<p>It is not mandatory to use the terms, and the types can overlap and
+blend into each other. Just think of it as helpful background knowledge
+to guide you, and keep an open mind and flexibility in the application
+itself. The notebox is a living system and so it adapts to you.</p>
+<h5 data-number="3.5.1.1.1" id="cursory-notes"><span
+class="header-section-number">3.5.1.1.1</span> cursory notes</h5>
+<p>When you read a text and underline, mark up, write a few notes in the
+margin, or even write down notes while listening to it, these are
+ephemeral notes. Fleeting because usually after a few hours, after a few
+days you can no longer quite grasp the meaning of your underlining, key
+points or have completely forgotten. Maybe you have experienced this in
+school when you wanted to prepare for a class assignment and went
+through your notes ;-)</p>
+<h5 data-number="3.5.1.1.2" id="literature-notes"><span
+class="header-section-number">3.5.1.1.2</span> Literature Notes</h5>
+<p>The literature note, or bibliographic note, is the reference to the
+source of the information. The purpose of the bibliographic note is to
+record the source of the information. Depending on what you expect of
+yourself, you may want to include more or less information. If you are
+working scientifically, you will need to include more information, as
+there are usually general guidelines for this, which we will not go into
+here. Apart from that, you should always note down the following
+information - author - Book title/Internet link - date of
+publication</p>
+<h5 data-number="3.5.1.1.3" id="permanent-notes"><span
+class="header-section-number">3.5.1.1.3</span> Permanent notes</h5>
+<p>Your thoughts about the information are in the Permanent Notes. Every
+note you put in your notebox is meant to stay in your notebox forever.
+Hence permanent. It is irrelevant if you keep rewriting the note with
+the newest information or if you create new notes with new information
+and link them.</p>
+<h5 data-number="3.5.1.1.4" id="map-of-contents-index"><span
+class="header-section-number">3.5.1.1.4</span> Map of Contents /
+Index</h5>
+<p>Map of Content or Index notes are entry points on a higher level.
+Later we will come to how such notes are created. Here it is only about
+the fact that you already know that such a thing exists. When you have a
+lot of notes in your system, you will need a method to find your
+thoughts when you need them. And that’s where these Map Of Contents
+help. By the way, there can be several levels of them, depending on how
+extensive your thoughts on a topic are.</p>
+<h4 data-number="3.5.1.2" id="structure---dna-of-a-note"><span
+class="header-section-number">3.5.1.2</span> Structure - DNA of a
+note</h4>
+<p>A structure for notes? Since it is not enough to simply record the
+thought, but it needs to be coherently “taken in hand” in order to
+creatively stand in (d)context, there is a structure for this. The
+thought itself is certainly the most important thing in the whole,
+ultimately it comes from a context and is thought in a new one. Directly
+following this is the retrievability of the thought. On the one hand you
+have to grasp it quickly and on the other hand this only happens if you
+follow the always same structure of the note. This way your brain has
+accordingly the capacities it needs free to actually grasp the
+information dynamically. The recognition effect that is in the DNA of
+your note can actually serve you well….</p>
+<p>You can use your own structure. Maybe you already have one you feel
+comfortable with and want to keep using it. That’s perfectly fine. You
+can also create one according to your own ideas. The important thing is
+that you stay consistent with it. Changes over time are natural with
+increasing knowledge. But you should not reinvent your structure every
+week or even every note ;-)</p>
+<p>Here is a suggestion for a structure</p>
+<figure>
+<img src="images/node-dna.png" alt="DNA of a note" />
+<figcaption aria-hidden="true">DNA of a note</figcaption>
+</figure>
+<h5 data-number="3.5.1.2.1" id="metadata"><span
+class="header-section-number">3.5.1.2.1</span> Metadata</h5>
+<p>Here you can enter information like author, source, date, tags and
+alias. With most PKM programs this information can also be searched and
+displayed selectively. Thus, the information of the literature note can
+also be embedded in the metadata.</p>
+<h5 data-number="3.5.1.2.2" id="title"><span
+class="header-section-number">3.5.1.2.2</span> Title</h5>
+<p>Each note needs also a title with which it can be identified
+unambiguously.</p>
+<h5 data-number="3.5.1.2.3" id="thought"><span
+class="header-section-number">3.5.1.2.3</span> Thought</h5>
+<p>Here is the actual note. The thought you have. Knowledge, thoughts,
+conclusions, what you have in your head.</p>
+<h5 data-number="3.5.1.2.4" id="questions"><span
+class="header-section-number">3.5.1.2.4</span> Questions</h5>
+<p>If you ask yourself questions about the thought, you can put them in
+an extra questions section. This way you can always find your unanswered
+questions immediately.</p>
+<h5 data-number="3.5.1.2.5" id="footer"><span
+class="header-section-number">3.5.1.2.5</span> Footer</h5>
+<p>In the footer could be links to other relevant notes that are not in
+the text, but still have a relevance to the topic. The source, the
+literature noitz, could also be placed here.</p>
+<h4 data-number="3.5.1.3" id="note-in-your-own-words"><span
+class="header-section-number">3.5.1.3</span> Note in your own words</h4>
+<p>If you can reproduce a thought in your own words, then you have
+understood the thought. In essence, you can check whether you have
+acquired the knowledge or not. If you express the thought in your own
+words and can’t find the right words for it, you realize that you didn’t
+understand it after all or maybe you need to practice to improve your
+performance. If you can express it in your own words, you will already
+use your own linguistic (or visual) meta-model. All this will most
+likely guarantee that in a few years you will still be able to express
+the idea and that it will be understood. This topic will be discussed
+again in detail in the kata <em>Creating durable notes</em>.</p>
+<p><img src="images/Sprechblasen.jpeg" alt="Speech bubbles" /> Autor/in:
+PicoStudio</p>
+<h4 data-number="3.5.1.4" id="progressive-summarization"><span
+class="header-section-number">3.5.1.4</span> Progressive
+Summarization</h4>
+<p>Progressive Summarization is a technique to summarize a text in
+iterative steps and reduce it to the essentials. Ideally, 10% text
+remains after each iteration.</p>
+<p>Step 1: the complete text excerpt from a source Step 2: underline or
+mark in bold the most important statements/sentences of the text Stage
+3: From the underlined/bold marked the most important keywords
+Angemarkert that are important for the statement. Level 4: A summary in
+your own words Stage 5: Bounding</p>
+<p>In this process, the original text remains available at all times. If
+a higher level is not understood, the level below can be read. The
+method acts much like a safety net. Also, the method can still be used
+well when not so much energy is available. The method is a method, it
+does not have to be used. You can also record what you have read, heard
+or seen directly as audio, thereby increasing your social presence
+within a learning group, or reproduce it in your own words in a timely
+manner.</p>
+<h3 data-number="3.5.2" id="tasksexercises-3"><span
+class="header-section-number">3.5.2</span> Tasks/Exercises</h3>
+<ul>
+<li>Write down your questions about what you have written above</li>
+<li>Discuss your understanding on notes and clarify the questions
+everyone has</li>
+</ul>
+<h3 data-number="3.5.3" id="reflection-part-3"><span
+class="header-section-number">3.5.3</span> Reflection part</h3>
+<ul>
+<li>Do you feel picked up or unsettled with the information above?</li>
+</ul>
+<h3 data-number="3.5.4" id="learning-objective-1"><span
+class="header-section-number">3.5.4</span> Learning Objective</h3>
+<ul>
+<li>What a note should include at a minimum</li>
+<li>What is optionally helpful in a note</li>
+<li>Self-check if the knowledge was understood</li>
+<li>Identify essential statements from texts</li>
+<li>Different types of notes and their meaning</li>
+</ul>
+<p><img src="images/Idee-Check-Ziel.jpeg"
+alt="Idee –&gt; Checkliste –&gt; Ziel" /> Autor/in: Trueffelpix</p>
+<h2 data-number="3.6" id="week-4---create-first-notes"><span
+class="header-section-number">3.6</span> Week 4 - Create first
+notes</h2>
+<h3 data-number="3.6.1" id="theoryquestions-4"><span
+class="header-section-number">3.6.1</span> Theory/questions</h3>
+<p>Successful personal knowledge management in the notebook requires
+regular work. By taking time to regularly create and process notes, you
+can continuously increase your knowledge. Often it is enough to create a
+few, but regular notes. Every note, every linking of notes, and the
+thoughts that arise from them contribute to the increase of your
+knowledge. It is important to understand that knowledge management is a
+marathon and not a sprint, so you should also take time to take small
+steps.</p>
+<p>To make note-taking easier and more energy-efficient, it’s helpful to
+establish routines. You can do this, for example, by setting specific
+days or times when you create and process notes.</p>
+<p>Fleeting notes, such as those created during a meeting or lecture,
+should be processed as quickly as possible to help you remember them
+later. The shorter the interval between the creation of the note and its
+processing, the better you can remember it later.</p>
+<p>To create your first note in the note box, you can use the
+information from Week 3 (Getting to Know Notes). The topic of your first
+note is not that important, it should just be something that interests
+you but is not so important that it paralyzes you. It’s perfectly fine
+to create multiple notes and link them - try it out and see how it works
+for you.</p>
+<h4 data-number="3.6.1.1" id="tip"><span
+class="header-section-number">3.6.1.1</span> Tip</h4>
+<p>If you’re unsure about what information to include in your notebox,
+you can check the information against the following criteria: - the
+information speaks to me - the information makes me think - I need the
+information for a topic I am working on. If necessary, look again at
+<em>Kata - Getting to Know Notes</em>.</p>
+<h3 data-number="3.6.2" id="tasksexercises-4"><span
+class="header-section-number">3.6.2</span> Tasks/Exercises</h3>
+<ul>
+<li>Create note(s)
+<ul>
+<li>Read an article/book/topic that you are currently interested in and
+create note(s) from it.</li>
+</ul></li>
+<li>Optional: set a rule date that goes beyond the sprint to process
+your cursory notes at a set time.
+<ul>
+<li>In addition to the sprint deadline, you can create another deadline
+for your notebox.</li>
+</ul></li>
+</ul>
+<h3 data-number="3.6.3" id="reflection-part-4"><span
+class="header-section-number">3.6.3</span> Reflection part</h3>
+<ul>
+<li>In the circle, discuss the experience and the outcome (not the
+content of the note)</li>
+<li>What interested you most in reading the article/book/topic and
+why?</li>
+<li>From the material you read, what information/thoughts did you think
+were important enough to record in a note?</li>
+<li>What were the challenges in creating the note(s) and how did you
+overcome them?</li>
+<li>How did you process your cursory notes and how did it help you
+remember them?</li>
+<li>How did setting regular appointments for processing notes help you?
+What were the benefits and challenges of doing this?</li>
+<li>What insights did you gain about your habits, functioning, and
+learning needs after doing this task?</li>
+</ul>
+<h3 data-number="3.6.4" id="learning-objective-2"><span
+class="header-section-number">3.6.4</span> Learning Objective</h3>
+<ul>
+<li>You can create a note in your notebook that will still be
+understandable to you 10 years from now.</li>
+<li>You are now committed to meeting your rule deadlines.</li>
+<li>You regularly file notes in your note box.</li>
+</ul>
+<figure>
+<img src="images/OrganicConnection.jpeg"
+alt="Organische Verbindungen" />
+<figcaption aria-hidden="true">Organische Verbindungen</figcaption>
+</figure>
+<p>Autor/in: indra23_anu</p>
+<h2 data-number="3.7" id="week-5---create-permanent-notes"><span
+class="header-section-number">3.7</span> Week 5 - Create permanent
+notes</h2>
+<h3 data-number="3.7.1" id="theoryquestions-5"><span
+class="header-section-number">3.7.1</span> Theory/Questions</h3>
+<p>Creating notes requires some thought in order to effectively manage
+personal knowledge. An important foundation here is the atomicity of
+notes.</p>
+<p>Atomicity means that each note refers to exactly one idea. This idea
+should be elementary and to the point, without prose or unnecessary
+details. Because of the atomic structure of notes, large ideas or
+abstract considerations can be created from many small building blocks,
+or thought processes can be connected.</p>
+<p>An important component of a note is the title. This should be unique
+and designed to be as eloquent as possible. In this way, it is already
+possible to recognize from the title what the note is about and whether
+it can be useful for the current project. It is recommended to limit the
+length of the title to ~20 words<a href="#fn5" class="footnote-ref"
+id="fnref5" role="doc-noteref"><sup>5</sup></a>.</p>
+<p>Regarding the length of the note, the text should be kept short to be
+able to capture the thought quickly. As a guideline, you can use 450
+words or a DINA 6 page.</p>
+<p>In summary, creating notebook-style notes effectively requires:</p>
+<ul>
+<li>Atomicity: each note should relate to one elementary idea, without
+prose or unnecessary details.</li>
+<li>Unique, speaking title: the title should get to the heart of the
+note’s idea and be limited to 20 words if possible.</li>
+<li>Short text length: the text should be kept short in order to capture
+the idea quickly, guideline is 450 words or one DINA 6 page.</li>
+</ul>
+<h3 data-number="3.7.2" id="tasksexercises-5"><span
+class="header-section-number">3.7.2</span> Tasks/Exercises</h3>
+<ul>
+<li>Find a piece of paper that does not fit into the criteria. The
+criteria are
+<ul>
+<li>Only one idea on the note?</li>
+<li>Does the note fit on a DINA6 page (~450 words)?</li>
+<li>the title reflects the basic idea</li>
+</ul></li>
+<li>Rewrite the note so that the criteria are met.
+<ul>
+<li>divide it into several notes if necessary, one idea per note</li>
+<li>Delete unnecessary text (prose)</li>
+<li>Make the title short, concise and meaningful so that it directly
+reflects the idea.
+<ul>
+<li>Ideally, it can be used as a sentence directly in a text.</li>
+</ul></li>
+</ul></li>
+</ul>
+<h3 data-number="3.7.3" id="reflection-section"><span
+class="header-section-number">3.7.3</span> Reflection section</h3>
+<p>What is the benefit of talking titles? - How can you make sure that a
+note actually refers to a single idea? - How can you make the title of a
+note as meaningful as possible and give a quick overview of the note’s
+content? - How can one ensure that the length of a note is appropriate
+and allows the idea to be captured quickly? - To what extent does it
+help knowledge management to organize notes into atomic units? - How do
+you proceed when you come across a note that does not adhere to the
+criteria? What steps are necessary to adjust it? - To what extent is it
+beneficial to build the titles of notes as a sentence and how can you
+implement this?</p>
+<h3 data-number="3.7.4" id="learning-objective-3"><span
+class="header-section-number">3.7.4</span> Learning objective</h3>
+<ul>
+<li>Reduce a note to a single idea.</li>
+<li>Keep notes short and essential to be able to recall knowledge
+quickly.</li>
+</ul>
+<h2 data-number="3.8" id="woche-6---verzetteln"><span
+class="header-section-number">3.8</span> Woche 6 - Verzetteln</h2>
+<h3 data-number="3.8.1" id="theoryquestions-6"><span
+class="header-section-number">3.8.1</span> Theory/questions</h3>
+<p>We start at one thought and move sequentially from there to the next
+thought. In the end, we have come from one starting point to a
+completely different point by chaining.</p>
+<figure>
+<img src="images/thought-chain.png"
+alt="Model of the thought chain with notes" />
+<figcaption aria-hidden="true">Model of the thought chain with
+notes</figcaption>
+</figure>
+<p>The same thing happens now with linking notes. A thought starts in a
+note, which leads to another thought (note), and on and on. This is a
+fundamental aspect of dovetailing, connecting information that has to do
+with each other.</p>
+<p>From this connecting of information, clusters of topics emerge. This
+is what is meant by bottom-up in this context. Areas/topics are not
+defined in advance, but the topics are formed by the accumulation of
+knowledge and networking with each other to form topic areas.</p>
+<figure>
+<img src="images/bottom-up-example.png"
+alt="Emergence of bottom-up topic clusters" />
+<figcaption aria-hidden="true">Emergence of bottom-up topic
+clusters</figcaption>
+</figure>
+<p>Thus, branching not only creates topic clusters, but also natural
+entry points for topics. Connections <em>grow</em> between topics that
+were not known before. This can lead to new ideas or even completely new
+approaches: something new emerges. In this way, your knowledge connects
+itself in your own note box just as it is laid out in the neuronal
+structure of your brain, and in the process it sinks in deeper and
+deeper.</p>
+<p>A piece of information is most likely to be found when there are many
+links on it. This is predetermined by the system of the brain. You use
+this when you create your note. Therefore, linking relevant information
+increases the findability and memorability of the information.
+Note-taking is also important for this. It keeps the information in the
+notebox together and makes it accessible so that you can think and work
+with it on a deeper level (your long-term memory).</p>
+<p>It is worth mentioning that the more notes you have in your notebox,
+the more important and clear it becomes. Even if you have only a few
+notes in your notebook, it is worth starting now and repeating them
+continuously. In total, your notebook will grow on the one hand and the
+knowledge will be retained or deepened on the other.</p>
+<h3 data-number="3.8.2" id="tasksexercises-6"><span
+class="header-section-number">3.8.2</span> Tasks/Exercises</h3>
+<p>In the last kata you already made notes more atomic, so now you can
+grasp the idea of the note more quickly.</p>
+<p>Go through the notes in your note box and if you notice that two
+ideas belong together, can look out for each other, or are otherwise
+connected, link them together.</p>
+<p>If questions come to mind as you read the note, look for answers in
+your notebox and link them if you find notes that match.</p>
+<p>Break down other notes into smaller components, linking to them as
+you get the sense that they should be related.</p>
+<p>You can also link directly to other notes that you know are related
+when you add permanent notes.</p>
+<p>You can put the link in the Footer<a href="#fn6" class="footnote-ref"
+id="fnref6" role="doc-noteref"><sup>6</sup></a> area, or you can link
+inline<a href="#fn7" class="footnote-ref" id="fnref7"
+role="doc-noteref"><sup>7</sup></a>.</p>
+<p>And keep in mind, a link is not only to the same topics, but can also
+be a completely new link, just the one you see. You could also create a
+new note explaining for yourself why you see a connection between the
+two notes.</p>
+<h3 data-number="3.8.3" id="reflection-section-1"><span
+class="header-section-number">3.8.3</span> Reflection section</h3>
+<ul>
+<li>Would you do things differently the next time you get bogged down
+than you did this time?
+<ul>
+<li>Why - What is good about what you have done so far? - What would you
+do differently next time?
+<ul>
+<li>What specifically could help you do this?</li>
+</ul></li>
+</ul></li>
+<li>Are you satisfied with the result?</li>
+</ul>
+<h3 data-number="3.8.4" id="learning-goal-2"><span
+class="header-section-number">3.8.4</span> Learning goal</h3>
+<ul>
+<li>When working with the knowledge, associations with other knowledge
+arise and the two are linked together</li>
+<li>Topic clusters emerge all by themselves</li>
+<li>Unknown references to completely different areas emerge.</li>
+</ul>
+<figure>
+<img src="images/Hand-Stopp.jpeg" alt="Stopp" />
+<figcaption aria-hidden="true">Stopp</figcaption>
+</figure>
+<p>Autor/in: Maksim Kostenko</p>
+<h2 data-number="3.9" id="week-7---pit-stop"><span
+class="header-section-number">3.9</span> Week 7 - Pit stop</h2>
+<h3 data-number="3.9.1" id="theoryquestions-7"><span
+class="header-section-number">3.9.1</span> Theory/Questions</h3>
+<p>Congratulations, you have made it this far and have come a long way!
+You now have the most important foundations for your personal knowledge
+management, namely:</p>
+<p>One important foundation is the PKM environment itself that you have
+set up. It serves as a place for all your information and notes. There
+are different types of notes here, such as ephemeral notes, literature
+notes, permanent notes, and the “map of contents” (we’ll get to those
+next week).</p>
+<p>Another important foundation is the structure of a note. A consistent
+structure will help you quickly navigate your notes and better absorb
+the information. A unique title, preferably a speaking title, and
+getting to the heart of the thought succinctly supports you in your
+knowledge work. Metadata can be helpful to use to locate information
+through search and filters.</p>
+<p>Another important concept is branching out. Link your thoughts and
+create natural entry points into topics. This creates connections
+between different topics and can lead to new ideas and approaches. By
+linking relevant information, you increase findability and
+memorability.</p>
+<p>Before you continue learning, check if there are any open essential
+questions. Also check if you are still on course for the learning goal
+you defined at the beginning. Also check for yourself if the goal is
+still relevant for you or if you should adjust it (this is also
+possible).</p>
+<p>As a preview of what learning units are still ahead of you. You will
+work on retrieving information, creating a map of content, and thinking
+in a box. We will also look at establishing a workflow so that you can
+expand and use your knowledge in the best possible way in the
+future.</p>
+<h3 data-number="3.9.2" id="tasksexercises-7"><span
+class="header-section-number">3.9.2</span> Tasks/Exercises</h3>
+<ul>
+<li>Do your current goals still fit for you and how can you make sure
+you achieve them in the remaining 5 weeks?
+<ul>
+<li>If they no longer fit, why not change them so that they fit for you
+again (This is also possible).</li>
+</ul></li>
+<li>Write down the three basic questions you have regarding the
+notebook.</li>
+<li>Share your progress of your goals with your circle</li>
+<li>Discuss your questions with your circle</li>
+</ul>
+<h3 data-number="3.9.3" id="reflection-part-5"><span
+class="header-section-number">3.9.3</span> Reflection part</h3>
+<ul>
+<li>Do you feel confident using your slip box?</li>
+<li>Do you feel comfortable with your goal and how you have achieved it
+so far?</li>
+</ul>
+<h3 data-number="3.9.4" id="learning-objective-4"><span
+class="header-section-number">3.9.4</span> Learning objective</h3>
+<ul>
+<li>Determine whether your goal is being achieved</li>
+<li>Determine which questions are open with regard to the slip box</li>
+</ul>
+<h2 data-number="3.10" id="week-8---knowledge-retrieval"><span
+class="header-section-number">3.10</span> Week 8 - Knowledge
+retrieval</h2>
+<h3 data-number="3.10.1" id="theoryquestions-8"><span
+class="header-section-number">3.10.1</span> Theory/questions</h3>
+<p>You have now already created some notes in your note box. But your
+notes are still easy to keep track of. However, if your note box
+continues to grow, it may start to become confusing. Therefore, it is
+now a question of how you can find your knowledge in your note box
+again, if it becomes more and more extensive. An important requirement
+of your system is the retrievability of information.</p>
+<p>Retrievability means being able to find information you once stored
+later when you need it. This contrasts with information retrieval, where
+you know the information you are looking for is in a specific document
+and you have to search that document specifically. An important aspect
+of linking knowledge is the ability to link to notes that fit the topic.
+Of course, this is most easily done if you remember that you have that
+information in your notebox. Otherwise, we are already in the topic, how
+do you find information back in your note box?</p>
+<p>Successful knowledge management should therefore originate bottom-up
+topic oriented and have indexes, or map of content notes, as entry
+points. This way, you can avoid getting lost in the flood of notes and
+instead search specifically for information that you had in your head
+but can no longer name precisely. Or even “stumbles” across information
+that you had “forgotten” was in the system.</p>
+<p>Factors that influence the retrievability of information include the
+structure and organization of the notes, the use of keywords and tags,
+the possibility of full-text search, and the use of metadata.</p>
+<p>One way to improve retrievability is to create indexes or a Map of
+Content (MOC). This defines major points of contact from which more
+detailed information can be accessed. Another option is the use of tags
+to quickly browse topic affiliations. However, the TAGs should be used
+rather sparingly, too many TAGs can lead to not seeing the forest for
+the trees. TAGs should also be maintained regularly to remain useful. A
+full-text search within the notes makes it possible to search
+specifically for certain terms. By using metadata, such as aliases,
+authors or book titles, notes can be filtered and sorted specifically.
+Another way to make notes retrievable is to link them to each other.
+This makes it easy to move from one topic to the next and keep the
+information thematically coherent. What emerges in the previous exercise
+when you get bogged down. Train of thought.</p>
+<h3 data-number="3.10.2" id="exercisetask"><span
+class="header-section-number">3.10.2</span> Exercise/Task</h3>
+<ul>
+<li>Use keywords and tags: try to add keywords and tags to the notes in
+your note box to make it easier to associate them with topics.</li>
+<li>Create an outline of the keywords and tags you use in your notebox
+and think about how you can target them to improve information
+retrieval.</li>
+<li>Try out full-text search: Experiment with full-text search within
+your notebox to target specific terms.</li>
+<li>Experiment with how you might navigate along a train of thought to
+find a piece of information within the strand. Really, try it out, even
+if you know exactly where the information is, how would you navigate
+there if you just knew it was <em>somewhere</em> in that strand?</li>
+</ul>
+<h3 data-number="3.10.3" id="reflection-section-2"><span
+class="header-section-number">3.10.3</span> Reflection section</h3>
+<ul>
+<li>What methods and tools do I currently use to improve the
+retrievability of information in my notebox?</li>
+<li>What other ways of improving retrievability described in the text
+could I use in my notebox?</li>
+<li>Analyze your box in terms of how do you find your information?
+<ul>
+<li>How long do you think it takes you to find information?</li>
+<li>What paths do you take?</li>
+</ul></li>
+<li>What thoughts do you have about the above information? Have you
+written them down?</li>
+<li>To what extent do you currently use linking notes to each other to
+make the knowledge in your notebox accessible?</li>
+<li>What are your current challenges with retrieving information in your
+notebox and how can you solve them?</li>
+</ul>
+<h3 data-number="3.10.4" id="learning-objective-5"><span
+class="header-section-number">3.10.4</span> Learning Objective</h3>
+<ul>
+<li>Understand how different entry points can be used to find
+information.</li>
+<li>Know the entry points in your own note box.</li>
+</ul>
+<h2 data-number="3.11" id="week-9---moc-in-3-stages"><span
+class="header-section-number">3.11</span> Week 9 - MOC in 3 stages</h2>
+<h3 data-number="3.11.1" id="theoryquestions-9"><span
+class="header-section-number">3.11.1</span> Theory/Questions</h3>
+<p>You may be wondering, what is a Map of Content (MOC) and why do you
+need MOCs in your notebox? MOCs represent entry points to larger subject
+areas. They are a map to your knowledge with which you can safely orient
+yourself within a topic area. They allow you to get a quick overview
+without having to read all the details again. If necessary, you can of
+course read deeper into the details. As I said, you can get an overview
+of a topic with a lot of notes by using a MOC and you can also elaborate
+it more. Think of a MOC as a room where all the notes on a topic can
+exist without you having to combine them directly in a meaningful way,
+but you could. You can just create a room in your notebox that contains
+all the notes on a topic and you don’t have a compulsion to link them
+directly now in a logical and sequential way. They may all be in
+there.</p>
+<p>Now you may ask yourself, when should you create a MOC? You should
+create a MOC when you have the feeling to lose the overview of a topic.
+Then it is really high time. An indication could also be if you are
+looking for information again and again, but don’t find it, but often
+only similar information. This can also be a good indication that it is
+time to create a MOC.</p>
+<p>To create a MOC, you proceed as follows: There are three phases. In
+the first phase, you gather everything about the topic into a new note.
+In the second phase, you weigh the notes, compare them, revise them, and
+reduce them to individual ideas. This is the most fun part, where new
+insights can emerge and you can take another deep look at your thoughts.
+This process can take several days. You write an overview of the topic
+and create a subdividing structure from the notes. In the third phase,
+you make sure that your new MOC is connected to the rest of your system
+and that it is findable.</p>
+<p>Phase 1: Get all the notes on the topic into a new note. 2nd phase:
+weigh the notes against each other, work out thoughts, split them up,
+structure them 3rd phase: link the MOC in the system and ensure
+findability</p>
+<p>Keep in mind that MOCs will continue to evolve, they are not static.
+As your knowledge grows, the time will come to update a MOC. The notes
+will be weighed against each other again. A MOC can in turn contain
+multiple MOCs and thus a whole hierarchy of MOCs on a topic can
+emerge.</p>
+<p>Here again the most important points about MOCs - A MOC provides
+entry points to larger topics and helps with overview and elaboration of
+topics with many notes. - A MOC should be created when there is a
+feeling of losing track of a topic. - The process for creating a MOC
+includes the phases: Collecting notes, weighing and revising notes,
+creating structure, and connecting to the rest of the note system. -
+MOCs can evolve and can be hierarchical, so one MOC can contain
+multiple.</p>
+<h3 data-number="3.11.2" id="tasksexercises-8"><span
+class="header-section-number">3.11.2</span> Tasks/Exercises</h3>
+<ul>
+<li>Select a topic for which you want to create a MOC.
+<ul>
+<li>It makes sense to choose a topic for which you have several notes in
+your notebox.</li>
+</ul></li>
+<li>Collect all your notes on this topic in a new note.</li>
+<li>Go through all the notes and weigh them against each other. Revise
+them, reducing them to single ideas and removing unnecessary
+information.</li>
+<li>Create a subdividing structure from the remaining notes.
+<ul>
+<li>(optional) write an overview of the topic.</li>
+</ul></li>
+<li>Connect your new MOC to the rest of the note system by tagging it
+appropriately.</li>
+<li>Make sure the MOC is easy to find by choosing a meaningful title and
+adding relevant keywords.</li>
+<li>(Optional) Consider whether it is possible to further subdivide the
+topic and if so create appropriate sub-MOCs.</li>
+</ul>
+<p>Hints: - The process may take some time, especially if the topic is
+extensive. - It is not necessary to structure the notes hierarchically,
+experiment with different structures to find the best one for the topic.
+- It is recommended to practice creating a MOC regularly to improve your
+skills and become faster.</p>
+<h3 data-number="3.11.3" id="reflection-section-3"><span
+class="header-section-number">3.11.3</span> Reflection section</h3>
+<ul>
+<li>How did creating the MOC impact my understanding of the topic and
+what insights did I gain through the process?</li>
+<li>What were the biggest challenges in collecting my notes on this
+topic?</li>
+<li>What type of structure did I choose for my MOC and why?</li>
+<li>What can I do to ensure that my MOC is easily findable?</li>
+<li>How often should I update my MOC and why?</li>
+<li>How can I improve the creation of MOCs in the future? What methods
+or tools would I like to try?</li>
+</ul>
+<h3 data-number="3.11.4" id="learning-objective-6"><span
+class="header-section-number">3.11.4</span> Learning Objective</h3>
+<p>Understand and apply the process for creating a MOC.</p>
+<h2 data-number="3.12" id="week-10---thinking-in-a-note-box"><span
+class="header-section-number">3.12</span> Week 10 - Thinking in a note
+box</h2>
+<h3 data-number="3.12.1" id="theoryquestions-10"><span
+class="header-section-number">3.12.1</span> Theory/questions</h3>
+<p>The note box is not only a collection of read knowledge, it also
+stores the own thoughts about the read knowledge, about work results and
+generally own thoughts and ideas. With this fund of material, the slip
+box can serve as a conversation partner. It is asked questions and the
+note box provides answers, if it has any. New connections, insights and
+new questions arise from this. It is thought in the note box, or with
+the note box. The interesting aspect becomes that thinking becomes more
+objective, since all previous thoughts can lie on the table, can lie
+next to each other. It becomes possible to objectively draw comparisons
+between parallel and even contradictory thoughts. When a question
+arises, it is a good approach to search in the first instance in one’s
+own note box, because there is already a high quality of thoughts and
+selections. When thinking in the note box, I try to answer my own
+questions that I have about a thought, further questions. One thing
+leads to another and a train of thought unfolds. Either until all
+answers are found or the interest in this train of thought is lost. This
+thinking in the note box is part of the magic of the note box, it
+expands and sharpens one’s knowledge and in the process allows new
+insights to emerge.</p>
+<p>By the way, if you find notes in your slip box that contradict each
+other, neither is removed. Instead, another note is created that deals
+with the contradiction, e.g. why it is a contradiction. Whether there
+are areas where sometimes one is <em>correct</em>, sometimes the other.
+A contradiction offers the possibility to learn and grow from it.
+Likewise it leads to the clearer demarcation of the statements. So it is
+anything but a problem.</p>
+<h4 data-number="3.12.1.1" id="tip-on-structure"><span
+class="header-section-number">3.12.1.1</span> Tip on structure</h4>
+<p>The way of noting is open. It is recommended to use a mechanism how
+still open questions can be found. e.g. with a TAG #question. Likewise a
+fixed arrangement is helpful where in the notes open questions are to be
+able to recognize this fast. Here from the Kata [[Zettelkasten Lernpfad
+- Kata - Notizen kennenlernen#Struktur - DNA einer Notiz]] is fallen
+back.</p>
+<figure>
+<img src="images/node-dna.png" alt="DNA of a note" />
+<figcaption aria-hidden="true">DNA of a note</figcaption>
+</figure>
+<h4 data-number="3.12.1.2"
+id="tip-for-asking-questions---the-socratic-questions"><span
+class="header-section-number">3.12.1.2</span> Tip for asking questions -
+The Socratic Questions</h4>
+<p>If you can’t think of questions right away, you can also use
+Socrates’ questions for yourself:</p>
+<ol type="1">
+<li>clarifying your own thinking and explaining the origins of your
+ideas (Why do I think this? What exactly do I think?).</li>
+<li>questioning assumptions (How do I know this is true? What if I think
+the opposite?)</li>
+<li>looking for evidence (How can I prove this? What are the
+sources?)</li>
+<li>considering alternative perspectives (What might others think? How
+do I know I’m right?)</li>
+<li>examining consequences and implications (What if I am wrong? What
+are the consequences if I am wrong?)</li>
+<li>questioning the original questions (Why did I think that? Was I
+right? What conclusions can I draw from the reasoning process?)</li>
+</ol>
+<h3 data-number="3.12.2" id="assignmentsexercises"><span
+class="header-section-number">3.12.2</span> Assignments/Exercises</h3>
+<ul>
+<li>Going through your own notes and asking/noting questions</li>
+<li>Answer questions by
+<ul>
+<li>thinking about it/your own thoughts</li>
+<li>going through your own notes</li>
+</ul></li>
+<li>Incorporating answers
+<ul>
+<li>create links between notes</li>
+<li>If necessary, create new note as link between two notes</li>
+</ul></li>
+</ul>
+<h3 data-number="3.12.3" id="reflection-part-6"><span
+class="header-section-number">3.12.3</span> Reflection part</h3>
+<ul>
+<li>How did you feel about the dialogue with your note box?</li>
+<li>What are the advantages of thinking in a note box?</li>
+<li>How can you make objective comparisons between parallel and
+conflicting thoughts in the notebox?</li>
+<li>How can you use the slip box as a conversation partner?</li>
+<li>What kinds of questions can I ask the notebox?</li>
+<li>How can I check the logic and reasoning in my conclusions?</li>
+</ul>
+<h3 data-number="3.12.4" id="learning-objective-7"><span
+class="header-section-number">3.12.4</span> Learning Objective</h3>
+<ul>
+<li>Use the note box as a conversation partner</li>
+<li>Conduct discussions with the notebook to gain knowledge</li>
+</ul>
+<figure>
+<img src="images/Workflow.jpeg" alt="Workflow" />
+<figcaption aria-hidden="true">Workflow</figcaption>
+</figure>
+<p>Autor/in: Monster Ztudio</p>
+<h2 data-number="3.13" id="week-11---find-your-workflow"><span
+class="header-section-number">3.13</span> Week 11 - Find your
+workflow</h2>
+<h3 data-number="3.13.1" id="theoryquestions-11"><span
+class="header-section-number">3.13.1</span> Theory/Questions</h3>
+<p>A workflow is of great benefit in staying on task and working more
+effectively. An established workflow helps to find a habit, use time
+more effectively, avoid distractions and focus on the task at hand.
+Habits require less energy and allow you to constantly optimize your
+work process. A notebox workflow should include steps such as collecting
+notes, processing notes, writing permanent notes, creating Map Of
+Contents, and thinking in the notebox. When thinking in the notebox, you
+should ask questions, find answers, generate new ideas, work
+systematically with the notebox, and connect knowledge systematically.
+To establish a workflow, you should first define a goal, list the tools
+you use, and put the steps in order. The steps and tools should be
+connected and the workflow should be reviewed and adjusted regularly to
+keep it up to date. A workflow stays alive if it is executed, reviewed
+and adjusted on a regular basis. Regularity in execution and review is
+important to ensure it is still current and meets your needs.
+Adjustments should therefore be made regularly to keep it up to
+date.</p>
+<h3 data-number="3.13.2" id="tasksexercises-9"><span
+class="header-section-number">3.13.2</span> Tasks/Exercises</h3>
+<ul>
+<li>Consider creating one large workflow or several smaller ones for
+different areas.
+<ul>
+<li>e.g. collecting notes; distracting; thinking; writing texts</li>
+</ul></li>
+<li>define your goal, what the workflow should help you with</li>
+<li>write down which tools you use for working with your note box
+<ul>
+<li>note-taking environment</li>
+<li>digital readers and utilities</li>
+<li>Books, ruler, markers, college block, etc.</li>
+</ul></li>
+<li>Create a rough flowchart of the steps you will take in the box.</li>
+<li>Add to the steps the tools that you need</li>
+<li>Check for yourself if you see potential for optimization in the
+flowchart</li>
+<li>Add details if they seem necessary to you</li>
+</ul>
+<h3 data-number="3.13.3" id="reflection-section-4"><span
+class="header-section-number">3.13.3</span> Reflection section</h3>
+<ul>
+<li>Did you gain any new insights while creating your workflow?</li>
+<li>What are the most important benefits of an established workflow in
+relation to the notebook method?</li>
+<li>What are the most important factors in keeping a workflow
+alive?</li>
+<li>How can you make sure that your workflow is done by you on a regular
+basis?</li>
+</ul>
+<h3 data-number="3.13.4" id="learning-objective-8"><span
+class="header-section-number">3.13.4</span> Learning Objective</h3>
+<ul>
+<li>the relevance of a workflow for lasting success</li>
+<li>the need for continuous use of the slip box</li>
+<li>Establish a workflow for yourself</li>
+</ul>
+<h2 data-number="3.14" id="week-12---retrospective"><span
+class="header-section-number">3.14</span> Week 12 - Retrospective</h2>
+<h3 data-number="3.14.1" id="theoryquestions-12"><span
+class="header-section-number">3.14.1</span> Theory/questions</h3>
+<p>This week there is no clearly defined program with further exercises
+- now is the time to let the Sprint come to an end together.</p>
+<p>Talk about the Circle and your experiences from the last weeks. Talk
+about what you have learned and what the learning path has done to
+you.</p>
+<p>What can you do after the Sprint?</p>
+<p>Wow, you did it and the Sprint is complete. Congratulations! Where
+can you go from here? Some Circles continue to meet at regular times and
+at longer intervals, e.g., every 2 or 4 weeks instead of once every
+week. Thereby certain topics from the learning path can be deepened
+again.</p>
+<p>You may also have your own ideas in your Circle that you would like
+to work on in the future. Maybe you bring in ideas from your own fields
+of work or you bring in ideas from other fields of interest. From these
+you create exercises. Discuss what activities you want to fill the weeks
+after the sprint with, because it’s definitely important to stick with
+it and continue to reinforce the skills and positive habits you built
+during the sprint.</p>
+<p>Be sure to also discuss how you want to proceed with the existing
+shared resources (online platform, etc.).</p>
+<h4 data-number="3.14.1.1" id="feedback"><span
+class="header-section-number">3.14.1.1</span> Feedback</h4>
+<p>You have successfully completed our learning path to the notebox and
+we would like to thank you for your time and efforts. In order to
+continuously improve our learning path and ensure that it meets your
+expectations, we ask you to provide us with your opinions and
+suggestions by answering a feedback questionnaire. Your feedback is
+important to us and will help us to better tailor our learning path to
+the needs of our participants. Please take a few minutes to fill out the
+questionnaire. Your answers will remain anonymous and will only be used
+to improve the Lenrpfad. We thank you in advance for your support and
+look forward to hearing from you.</p>
+<p><a href="https://www.surveymonkey.de/r/NQX55WN">Your feedback on the
+slip box method: suggestions for improvement wanted!</a></p>
+<h3 data-number="3.14.2" id="tasksexercises-10"><span
+class="header-section-number">3.14.2</span> Tasks/Exercises</h3>
+<ul>
+<li>Talk about the Circle and your experiences from the last few weeks.
+What did you learn and what did the learning path do to you?</li>
+<li>Answer the survey</li>
+</ul>
+<h3 data-number="3.14.3" id="reflection-section-5"><span
+class="header-section-number">3.14.3</span> Reflection section</h3>
+<ul>
+<li>Did you achieve your learning goal?</li>
+<li>Will you continue to fill and use the note box?</li>
+</ul>
+<h3 data-number="3.14.4" id="learning-goals"><span
+class="header-section-number">3.14.4</span> Learning goals</h3>
+<ul>
+<li>Review of what you have achieved</li>
+<li>Outlook on how to continue</li>
+</ul>
+<h1 data-number="4" id="appendix"><span
+class="header-section-number">4</span> Appendix</h1>
+<h2 data-number="4.1" id="what-is-mark-down"><span
+class="header-section-number">4.1</span> What is Mark-Down?</h2>
+<p>Markdown is a markup language. This means that control characters are
+used in the text to indicate how the text should be displayed. So the
+control characters really go directly into the text. It could be
+compared to HTML<a href="#fn8" class="footnote-ref" id="fnref8"
+role="doc-noteref"><sup>8</sup></a> or LaTeX<a href="#fn9"
+class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>.
+But don’t worry, you don’t have to program here, very few characters are
+enough and the programs then display the text without the control
+characters. To give you an idea of what this is all about, here is a
+practical example.</p>
+<p>On the left is the text with the formatting characters. On the left
+is what you then see in the display. <img
+src="images/Vergleich-MarkDown-Gerendert.png"
+alt="Comparison to mark-down syntax and rendered view" /></p>
+<p>The big advantage is that they are all text files (like the .txt
+extension you sometimes see on your computer). So they are readable on
+any system. The extension .md says only that syntax for interpretation
+is included in the format mark-down.</p>
+<h3 data-number="4.1.1" id="control-characters"><span
+class="header-section-number">4.1.1</span> Control characters</h3>
+<p>Already with two control characters the text can be brought into a
+structure and notes can be connected with each other.</p>
+<ul>
+<li>#, ##, ###, …., For overwritings
+<ul>
+<li># first hierarchical level</li>
+<li># second hierarchical level</li>
+<li>## third hierarchical level etc.</li>
+</ul></li>
+<li>[<em>note-name</em>]] to create links to other notes –&gt;
+branching</li>
+</ul>
+<p>That’s basically all you need to get started.</p>
+<p>Here are a few more control characters that are very handy, but not
+necessary. Just use the ones you feel comfortable with and which you
+think you need as formatting.</p>
+<ul>
+<li>***<strong>Bold formatted</strong>**</li>
+<li>_<em>Cursive formatted</em>_</li>
+<li>===Marker Marked===</li>
+<li>\# –&gt; Creates a TAG, something like a sticker</li>
+<li>[Text](http Link) –&gt; Creates a link to any address. E.g.
+[Google](http://www.google.de)</li>
+<li>[<em>Note</em>]] –&gt; Displays the contents of a note.</li>
+<li>-- –&gt; creates a separator line</li>
+</ul>
+<p>Some programs also offer you buttons for this like in WYSIWYG
+programs<a href="#fn10" class="footnote-ref" id="fnref10"
+role="doc-noteref"><sup>10</sup></a> (e.g. Word is such a program).</p>
+<h3 data-number="4.1.2" id="advanced-mark-down-syntax"><span
+class="header-section-number">4.1.2</span> Advanced mark-down
+syntax</h3>
+<ul>
+<li>Metadata -–</li>
+<li>Tables ||</li>
+<li>Comments %</li>
+<li>Citations &gt;</li>
+<li>References ^</li>
+<li>Block references with ^ and #
+<ul>
+<li>^ for blocks –&gt; [[example#^reference]]</li>
+<li># for headings –&gt; [example#heading]]</li>
+</ul></li>
+</ul>
+<p>There are more MD syntaxes. If you are interested in more
+possibilities you can look them up here (==look up address and
+insert==).</p>
+<h2 data-number="4.2"
+id="change-from-proprietary-format-to-mark-down"><span
+class="header-section-number">4.2</span> Change from proprietary format
+to Mark-Down</h2>
+<p>This is for you if you have not used mark-down before. There are many
+programs that use proprietary formats. Proprietary formats are formats
+created by a particular company or developer that can only be used with
+their products. An example of this would be the format of a note in the
+Evernote app that cannot be opened in other note apps.</p>
+<p>Unfortunately, however, there are difficulties and risks associated
+with using proprietary formats. One of them is that you are trapped in a
+dependency on a particular company or developer, since you cannot change
+or export the format without using the corresponding product. Another
+risk is that the format may eventually be discontinued by the company or
+developer, which may mean that you can no longer open your notes. The
+accumulated knowledge is then lost.</p>
+<p>One solution to this could be to implement a switching strategy. One
+possibility would be to create all new notes from now on in an open
+format like Markdown, in a suitable program. If one then later searches
+for old notes, one can search for them in the old program and then
+transfer them to the new program. The advantage here would be that the
+transfer only happens when it is really necessary and the energy is
+distributed for it.</p>
+<p>Another suggestion for a switch strategy could be to look for tools
+that can convert the proprietary format to an open format like Markdown.
+This way, you could export your old notes to a format that is supported
+by many different applications and you no longer have to feel dependent
+on a particular company or developer.</p>
+<section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>links in the “More Information” section<a href="#fnref1"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>http://obsidian.md<a href="#fnref2"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>https://logseq.com/<a href="#fnref3"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>https://roamresearch.com<a href="#fnref4"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>256 characters including file path<a href="#fnref5"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>The bottom area of a note<a href="#fnref6"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Insert directly into the text or sentence<a
+href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>Web pages are described with HTML<a href="#fnref8"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>A markup language used especially in science<a
+href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>What you see, is what you get / What you see is what
+you get<a href="#fnref10" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+</body>
+</html>

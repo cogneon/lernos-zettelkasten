@@ -1,0 +1,88 @@
+site_name: lernOS Zettelkasten Leitfaden
+site_url: https://saertna.github.io/
+docs_dir: src
+site_dir: ../docs/de
+
+
+nav:
+    - Willkommen: index.md
+    - Über Lern OS:
+      - Lebenslanges Lernen: 1-1-Lebenslanges-Lernen-und-Wissensarbeit.md
+      - Canvas: 1-2-lernOS-Canvas.md
+      - Flow: 1-3-lernOS-Flow.md
+      - Workplace: 1-4-lernOS-Workplace.md
+      - Memex: 1-5-lernOS-Memex.md
+    - Grundlagen:
+      - PKM Grundlagen: 2-0-PKM-Grundlagen.md
+    - Lernpfad:
+      - Lernfpad Überblick: 2-0-Lernpfad-Ueberblick.md
+      - Woche 0: 2-1-Kata-0.md
+      - Woche 1: 2-1-Kata-1.md
+      - Woche 2: 2-1-Kata-3.md
+      - Woche 3: 2-1-Kata-4.md
+      - Woche 4: 2-1-Kata-5.md
+      - Woche 5: 2-1-Kata-6.md
+      - Woche 6: 2-1-Kata-7.md
+      - Woche 7: 2-1-Kata-8.md
+      - Woche 8: 2-1-Kata-9.md
+      - Woche 9: 2-1-Kata-10.md
+      - Woche 10: 2-1-Kata-11.md
+      - Woche 11: 2-1-Kata-12.md
+      - Woche 12: 2-1-Kata-13.md
+    - Anhang:
+      - Einstieg in Markdown: 3-0-2-was-ist-markdown.md
+      - Wechsel von proprietärem Format: 3-0-1-proprietaeres-Format-zu-MD.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/lernos-template/blob/master/de/lernOS-Template-Guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-template/blob/master/de/lernOS-Template-Guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-template/blob/master/de/lernOS-Template-Guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-template/blob/master/de/lernOS-Template-Guide-de.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-template/blob/master/de/lernOS-Template-Guide-de.mobi
+    - Links:
+      - lernos.org: https://lernos.org
+      - CONNECT Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
+
+theme:
+    name: 'material'
+    custom_dir: src/overrides
+    palette:
+        scheme: lernos
+    language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+repo_name: 'cogneon/lernos-zettelkasten'
+repo_url: 'https://github.com/saertna/lernos-zettelkasten'
+
+extra:
+    social:
+        - icon: fontawesome/brands/twitter
+          link: 'https://twitter.com/lern_os'
+        - icon: fontawesome/brands/linkedin
+          link: 'https://www.linkedin.com/showcase/lern-os'
+        - icon: fontawesome/brands/github
+          link: 'https://github.com/cogneon'
+    disqus: lernos
+    analytics:
+       provider: custom
+    alternate:
+      - name: Englisch
+        link: ../en
+        lang: en
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+
+plugins:
+  - search
+  - mermaid2
