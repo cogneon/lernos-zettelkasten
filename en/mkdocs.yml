@@ -57,7 +57,7 @@ extra_css:
   - stylesheets/extra.css
 
 repo_name: 'cogneon/lernos-zettelkasten'
-repo_url: 'https://github.com/saertna/lernos-zettelkasten'
+repo_url: 'https://github.com/cogneon/lernos-zettelkasten/'
 
 extra:
     social:
