@@ -72,7 +72,7 @@ extra:
        provider: custom
     alternate:
       - name: Englisch
-        link: ../en
+        link: en
         lang: en
 
 markdown_extensions:
