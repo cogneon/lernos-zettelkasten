@@ -72,7 +72,7 @@ extra:
        provider: custom
     alternate:
       - name: Englisch
-        link: en
+        link: https://cogneon.github.io/lernos-zettelkasten/en
         lang: en
 
 markdown_extensions:
