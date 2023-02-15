@@ -1,3 +1,4 @@
+![Wählen eines Programms für die PKM-Umgebung](images/woche2.png)
 ## Week 2 - PKM Environment Setup
 
 When it comes to organizing your personal knowledge management, choosing the right program can be helpful. A good program will give you the ability to store your notes in one place and ensure that you have access to the information you need at any time.
@@ -18,15 +19,15 @@ You can use the questionnaire to support your choice for a tool:
 	1. i want to store and organize mainly text files. (A)
 	2. i want to store and organize mainly text files and images. (B)
 	3. i want to store and organize mainly text files, images and audio files. (C)
-(2) Which features do you need (e.g. branch structure, version history, markdown support)?
+2. Which features do you need (e.g. branch structure, version history, markdown support)?
 	1. i need branch structure and version history. (A)
 	2. i need branch structure, version history and markdown support. (B)
 	3. i need a branch structure, version history, markdown support and the ability to view multiple branches at once. (C)
-(3) How important is the ability to access your data from anywhere?
-	(1) It is very important to me to be able to access my data from anywhere. (A)
+3. How important is the ability to access your data from anywhere?
+	1. It is very important to me to be able to access my data from anywhere. (A)
 	2. it is important to me to be able to access my data from anywhere, but it is not the most important feature for me. (B)
-	(3) It is not that important to me to be able to access my data from anywhere. (C)
-(4) How important is the ability to collaborate with others to you?
+	3. It is not that important to me to be able to access my data from anywhere. (C)
+4. How important is the ability to collaborate with others to you?
 	1. it is very important to me to be able to collaborate with other people. (B)
 	2. it is important to me to be able to collaborate with other people, but it is not the most important feature for me. (A, C)
 	3. it is not so important for me to be able to cooperate with other people. (A, B, C)
@@ -38,7 +39,7 @@ You can use the questionnaire to support your choice for a tool:
 	1. it is very important to me that the software is customizable and extensible. (B,C)
 	2. it is important to me that the software is customizable and extensible, but it is not the most important feature for me. (A)
 	3. it is not so important to me that the software is customizable and extensible. (A, B)
-(7) What platforms does the software support (e.g., Windows, Mac, Linux, iOS, Android)?
+7. What platforms does the software support (e.g., Windows, Mac, Linux, iOS, Android)?
 	1. I need the software on Windows and Mac. (A, B, C)
 	2. i need the software on Windows, Mac and Linux. (A, B, C)
 	3. i need the software on Windows, Mac, Linux, iOS and Android. (A, B, C)
@@ -47,36 +48,38 @@ You can use the questionnaire to support your choice for a tool:
 	2. I am willing to pay for the software, but I prefer a one-time purchase model. (A, B, C)
 	3. I am not willing to pay for the software and am looking for a free alternative. (A, B, C)
 9. what kind of visualizations and diagrams do you need?
-	(1) I need the ability to visualize my data in mind-map form and graph-based charts. (A)
+	1. I need the ability to visualize my data in mind-map form and graph-based charts. (A)
 	2. i need the ability to present my data in mind-map form, graph-based diagrams, and other types of diagrams and visualizations. (B)
-	(3) I do not need special features for visualization and diagrams. (C)
+	3. I do not need special features for visualization and diagrams. (C)
 
-	Count the letters together. Depending on which letter you have the most choices, A: Roam, B: Obsidian, C: Logseq could be the most suitable for you.
+Count the letters together. Depending on which letter you have the most choices, A: Roam, B: Obsidian, C: Logseq could be the most suitable for you.
 
-	This questionnaire is only a help and there is no guarantee that one of the above tools is the best for you. It is recommended to test the tools yourself to make sure it meets your requirements.
-	(And they are not the only tools, they are only common tools)
+This questionnaire is only a help and there is no guarantee that one of the above tools is the best for you. It is recommended to test the tools yourself to make sure it meets your requirements.
+(And they are not the only tools, they are only common tools)
 
-	##### Links to common PKM programs
-	- Obsidian^[http://obsidian.md]
-	- Logseq^[https://logseq.com/]
-	- Roam^[https://roamresearch.com]
+If it is not possible for you to use a program optimized for knowledge management, e.g. due to restrictions of company IT policies, you can also start with OneNote. In the appendix (Guide to implement PKM with OneNote) you will find some notes. Also how to switch from a proprietary format to Mark-Down.
 
-	If Markdown is foreign to you, and you want to use it in your notebox, check out the attachment. There is a crash course there. (In principle three characters are enough to use it)
+##### Links to common PKM programs
+- Obsidian^[http://obsidian.md]
+- Logseq^[https://logseq.com/]
+- Roam^[https://roamresearch.com]
+
+If Markdown is foreign to you, and you want to use it in your Zettelkasten, check out the attachment. There is a crash course there. (In principle three characters are enough to use it)
 
 
-	### Tasks/Exercises
-	- Choose a program, either with the help of the questionnaire or otherwise
-	- Install your chosen program
-	- Familiarize yourself with the program
-	- Create a note
-		- Title: Hello world
-		- Text: My first note
+### Tasks/Exercises
+- Choose a program, either with the help of the questionnaire or otherwise
+- Install your chosen program
+- Familiarize yourself with the program
+- Create a note
+	- Title: Hello world
+	- Text: My first note
 
-	### Reflection section
-	1. what aspects are most important to you when choosing a program for personal knowledge management?
-	2. what kinds of notes do you take most often and what features would you need in a program to organize them?
-	3. how do you deal with the possibility that programs will change and possibly disappear from the market?
+### Reflection section
+1. what aspects are most important to you when choosing a program for personal knowledge management?
+2. what kinds of notes do you take most often and what features would you need in a program to organize them?
+3. how do you deal with the possibility that programs will change and possibly disappear from the market?
 
-	### Learning Objective
-	- You have installed and set up your notebox environment
-	- You have become aware of what is important to you for your box work.
+### Learning Objective
+- You have installed and set up your Zettelkasten environment
+- You have become aware of what is important to you for your box work.

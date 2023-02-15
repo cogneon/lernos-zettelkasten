@@ -1,3 +1,5 @@
+![Notizen kennenlernen](images/woche3.png)
+
 ## Week 3 - Get to know notes
 
 ### Theory/questions
@@ -67,7 +69,7 @@ Ideally, 10% text remains after each iteration.
 
 Step 1: the complete text excerpt from a source
 Step 2: underline or mark in bold the most important statements/sentences of the text
-Stage 3: From the underlined/bold marked the most important keywords Angemarkert that are important for the statement.
+Stage 3: From the underlined/bold marked the most important keywords highligted that are important for the statement.
 Level 4: A summary in your own words
 Stage 5: Bounding
 

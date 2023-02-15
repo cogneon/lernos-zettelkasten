@@ -18,8 +18,8 @@ nav:
       - Learning Pathway Overview: 2-0-Lernpfad-Ueberblick.md
       - Week 0: 2-1-Kata-0.md
       - Week 1: 2-1-Kata-1.md
-      - Week 2: 2-1-Kata-3.md
-      - Week 3: 2-1-Kata-4.md
+      - Week 2: 2-1-Kata-4.md
+      - Week 3: 2-1-Kata-3.md
       - Week 4: 2-1-Kata-5.md
       - Week 5: 2-1-Kata-6.md
       - Week 6: 2-1-Kata-7.md
@@ -32,6 +32,10 @@ nav:
     - Appendix:
       - Getting started with Markdown: 3-0-2-was-ist-markdown.md
       - Change from proprietary format: 3-0-1-proprietaeres-Format-zu-MD.md
+      - Guide um PKM mit OneNote umzusetzen: 3-0-3-Guide-PKM-mit-OneNote.md
+      - Acknowledgement: 3-0-0-Danksagung.md
+      - Change history: 3-0-99-Aenderungshistorie.md
+
     - Download:
       - PDF-Version: https://github.com/cogneon/lernos-zettelkasten/blob/master/en/lernOS-Zettelkasten-Guide-en.pdf
       - Word-Version: https://github.com/cogneon/lernos-zettelkasten/blob/master/en/lernOS-Zettelkasten-Guide-en.docx

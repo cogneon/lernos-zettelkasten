@@ -1,7 +1,4 @@
-
-![Organische Verbindungen](images/OrganicConnection.jpeg)
-
-Autor/in: indra23_anu
+![Länge der Notiz](images/woche5.png)
 
 ## Week 5 - Create permanent notes
 

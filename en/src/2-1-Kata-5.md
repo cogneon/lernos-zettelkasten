@@ -1,6 +1,4 @@
-
-![Idee --> Checkliste --> Ziel](images/Idee-Check-Ziel.jpeg)
-Autor/in: Trueffelpix
+![Flüchtige Notizen](images/woche4.png)
 
 ## Week 4 - Create first notes
 
@@ -16,18 +14,18 @@ To create your first note in the note box, you can use the information from Week
 
 
 #### Tip
-If you're unsure about what information to include in your notebox, you can check the information against the following criteria:
+If you're unsure about what information to include in your Zettelkasten, you can check the information against the following criteria:
 - the information speaks to me
 - the information makes me think
 - I need the information for a topic I am working on.
-If necessary, look again at _Kata - Getting to Know Notes_.
+If necessary, look again at _week 3 - Getting to Know Notes_.
 
 
 ### Tasks/Exercises
 - Create note(s)
 	- Read an article/book/topic that you are currently interested in and create note(s) from it.
 - Optional: set a rule date that goes beyond the sprint to process your cursory notes at a set time.
-	- In addition to the sprint deadline, you can create another deadline for your notebox.
+	- In addition to the sprint deadline, you can create another deadline for your Zettelkasten.
 
 
 ### Reflection part

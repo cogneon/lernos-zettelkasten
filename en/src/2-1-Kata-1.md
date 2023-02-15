@@ -30,8 +30,7 @@ Using the SMART method is a good way to define a goal. It applies various criter
 **A**ttractive: Your goal must motivate you. You must want to achieve it if you want to spend 12 weeks to make it come true. Therefore, this point is especially important. It should be a goal that you have personally chosen for yourself and with which you can identify 100%. A goal that others set for me will rarely trigger the same desire in me to achieve it as one that springs from my own heart. In some explanations of the SMART formula, the A also stands for **A**nchallenging. Will mean that your goal should not be too easy. You should make a little effort and challenge yourself, because if you stay too far away from your personal limits and actually still chill in your comfort zone, you can rarely really improve. Ultimately, you need to go a little beyond your comfort zone without completely overtaxing yourself, because that's where growth begins.
 Caution. Overextending yourself won't yield sustainable results, and by and large, this learning path is meant to bring one thing above all else: a lot of fun! And that can quickly fall by the wayside if your goals are too ambitious.
 
-![Zones for Development](images/ZonesForDevelopment.jpeg)
-Autor/in: VectorMine
+![3 Zonen Lernmodell](images/3-zonen-lernmodell.png)
 
 **R**ealistic: The learning path goes 12 weeks and therefore you should also choose a goal that is really achievable in this time. Stay down to earth when defining your goals. You can achieve anything at a snail's pace and with perseverance. It is also key to question yourself in advance:
 Are you one of those people who like to choose their goals a little more challenging?
