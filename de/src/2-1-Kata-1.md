@@ -30,8 +30,7 @@ Der Einsatz der SMART-Methode ist ein guter Weg, ein Ziel zu definieren. Dabei w
 **A**ttraktiv: Dein Ziel muss dich motivieren. Du musst es erreichen wollen, wenn du 12 Wochen die Kraft aufbringen möchtest es wahr werden zu lassen. Deshalb ist dieser Punkt besonders wichtig. Am besten sollte es ein Ziel sein, dass du persönlich für dich ausgesucht hast und mit dem du dich auch zu 100% identifizieren kannst. Ein Ziel das Andere für mich setzen wird selten den gleichen Wunsch in mir auslösen, es zu erreichen, wie eines das meinem eigenen Herzen entsprungen ist. In manchen Ausführungen zur SMART-Formel steht das A auch für **A**nspruchsvoll. Will meinen, dass dein Ziel nicht zu einfach sein sollte. Ein bisschen anstrengen und herausfordern sollte man sich schon, denn wer zu weit von seinen persönlichen Grenzen entfernt bleibt und eigentlich noch in seiner Komfortzone chillt, der kann sich selten wirklich verbessern. Letztendlich musst du etwas über die Komfortzone heraus gehen ohne dich vollständig zu überfordern, denn dort beginnt das Wachstum.
 Obacht! Sich zu überfordern bringt keine nachhaltigen Ergebnisse und im Großen und Ganzen soll dieser Lernpfad ja vor allem eines bringen: sehr viel Spaß! Und der kann bei zu ambitionierten Zielen am Ende schnell auf der Strecke bleiben.
 
-![Zones for Development](images/ZonesForDevelopment.jpeg)
-Autor/in: VectorMine
+![3 Zonen Lernmodell](images/3-zonen-lernmodell.png)
 
 **R**ealistisch: Der Lernpfad geht 12 Wochen und deshalb solltest du auch ein Ziel wählen, dass in dieser Zeit wirklich zu erreichen ist. Bleibe bodenständig bei der Definition deiner Ziele. Im Schneckentempo und mit Beharrlichkeit kannst du alles erreichen. Schlüssig ist es auch, sich vorab zu hinterfragen:
 Bist du eine der Personen, die ihre Ziele gerne etwas anspruchsvoller wählen?

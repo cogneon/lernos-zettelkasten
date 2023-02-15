@@ -1,3 +1,5 @@
+![Notizen kennenlernen](images/woche3.png)
+
 ## Woche 3 - Notizen kennenlernen
 
 ### Theorie/Fragen

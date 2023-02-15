@@ -13,9 +13,9 @@ Aus diesem Verbinden der Informationen entstehen Themen-Cluster. Das ist es, was
 
 So entstehen durch das Verzetteln nicht nur Themen-Cluster, sondern auch natürliche Einstiegspunkte für Themen. Es _wachsen_ Verbindungen zwischen Themen, die so vorher noch nicht bekannt waren. Daraus können neue Ideen entstehen oder gar völlig neue Ansätze: etwas Neues entsteht dabei. Auf diese Weise verbindet dein Wissen sich in deinem eigenen Zettelkasten ganz so, wie es in der neuronalen Struktur deines Gehirns angelegt ist und dabei sinkt es immer tiefer ein.
 
-Eine Information wird am ehesten dann gefunden, wenn ganz viele Verlinkungen auf ihr sind. Das ist durch das System des Gehirns so vorgegeben. Dies nutzt du beim Anlegen deiner Notiz. Daher wird mit dem Verlinken von relevanten Informationen die Auffindbarkeit und die Merkfähigkeit der Information gesteigert. Auch dafür ist das Verzetteln wichtig. Es hält die Informationen im Zettelkasten nämlich zusammen und macht sie so erreichbar, dass du damit auf einer tieferen Ebene (deines Langzeitgesdächtnisses) damit denken und arbeiten kannst.
+Eine Information wird am besten gefunden, wenn viele Verlinkungen auf ihr sind. Das ist durch das System des Gehirns so vorgegeben. Dies nutzt du beim Anlegen deiner Notiz. Daher wird mit dem Verlinken von relevanten Informationen die Auffindbarkeit und die Merkfähigkeit der Information gesteigert. Auch dafür ist das Verzetteln wichtig. Es hält die Informationen im Zettelkasten nämlich zusammen und macht sie so erreichbar, dass du damit auf einer tieferen Ebene (deines Langzeitgesdächtnisses) damit denken und arbeiten kannst.
 
-An der Stelle sei erwähnt, dass das Verzetteln umso wichtiger und klarer wird, desto mehr Notizen in deinem Zettelkasten sind. Auch wenn du erst wenige Notizen in deinem Zettelkasten hast, lohnt es sich jetzt damit anzufangen und fortlaufend zu wiederholen. In der Summe wächst dein Zettelkasten einerseits und das Wissen bleibt für dich andererseits erhalten oder vertieft sich.
+Das Verzetteln wird umso wichtiger und klarer, desto mehr Notizen in deinem Zettelkasten sind. Auch wenn du erst wenige Notizen in deinem Zettelkasten hast, lohnt es sich jetzt damit anzufangen, damit er wächst. Dadurch speicherst du den Wissen und vertiefst et gleichzeitig.
 
 ### Aufgaben/Übungen
 In der letzten Kata hast du bereits Notizen atomarer gemacht, so dass du den Gedanken der Notiz nun schneller erfassen kannst.
@@ -24,7 +24,7 @@ Geh durch die Notizen in deinem Zettelkasten und wenn dir auffällt, dass zwei I
 
 Wenn dir beim Lesen der Notiz Fragen in den Sinn kommen, such nach Antworten in deinem Zettelkasten und verlinke diese, wenn du passende Notizen dazu findest.
 
-Zerlege weitere Notizen in kleinere Bestandteile und verlinke sie dabei, sobald du den Eindruck bekommst, dass sie in einer Beziehung zueinander stehen sollten.
+Zerlege weitere Notizen in kleinere Bestandteile (Stichwort Atomarität, von Woche 6) und verlinke sie dabei, sobald du den Eindruck bekommst, dass sie in einer Beziehung zueinander stehen sollten.
 
 Du kannst auch beim Einpflegen permanenter Notizen direkt Links zu anderen Notizen erstellen bei denen du weißt, dass eine Beziehung zueinander besteht.
 
@@ -37,14 +37,13 @@ Anmk.: Falls du sehr viel verzettelst und intensiv an einem Thema arbeitest kann
 
 
 ### Reflexionsteil
-- Würdest du beim nächsten Mal Verzetteln anders vorgehen als diesmal?
-	- Warum - Was ist das Gute an deinem bisherigen Vorgehen?
-	        - Was würdest du beim nächsten Mal anders machen?
-		- Was könnte dich dabei konkret unterstützen?
+- Würdest du beim nächsten Verzetteln anders vorgehen?
+	- Was gefällt dir an deinem bisherigen Vorgehen?
+	- Was würdest du beim nächsten Mal anders machen?
+	- Was würde dir dabei helfen?
 - Bist du mit dem Ergebnis zufrieden?
 
 
 ### Lernziel
-- Beim Arbeiten mit dem Wissen kommen Assoziationen zu anderem Wissen auf und beides wird miteinander verbunden
-- Es entstehen ganz von selbst Themen-Cluster
-- Es entstehen darüber hinaus unbekannte Bezüge zu ganz anderen Bereichen
+- Du hast neue Assoziationen erhalten und Verbindungen geknüpft
+- Du hast neue Themen-Cluster gebildet

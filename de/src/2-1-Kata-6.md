@@ -1,12 +1,10 @@
 
-![Organische Verbindungen](images/OrganicConnection.jpeg)
-
-Autor/in: indra23_anu
+![Länge der Notiz](images/woche5.png)
 
 ## Woche 5 - dauerhafte Notizen erstellen
 
 ### Theorie/Fragen
-Das Erstellen von Notizen erfordert einige Überlegungen, um das persönliche Wissensmanagement effektiv gestalten zu können. Eine wichtige Grundlage hierbei ist die Atomarität der Notizen.
+Um dein persönliches Wissensmanagement effektiv zu gestalten, solltest du dich mit dem Begriff Atomarität vertraut machen:
 
 Atomarität bedeutet, dass jede Notiz sich auf genau eine Idee bezieht. Diese Idee sollte elementar und auf den Punkt gebracht sein, ohne Prosa oder unnötige Details. Durch die atomare Struktur der Notizen, lassen sich aus vielen kleinen Bausteinen große Ideen oder abstrakte Betrachtungen erstellen, oder auch Gedankengänge miteinander verbinden.
 
@@ -22,15 +20,12 @@ Zusammengefasst, Notizen im Zettelkasten-Stil effektiv zu erstellen erfordert:
 
 
 ### Aufgaben/Übungen
-- Suche einen Zettel der nicht in die Kritieren passt. Die Kriterien sind
-	- Nur eine einzelne Idee auf dem Zettel?
-	- Passt die Notiz auf eine DINA6 Seite (~450 Wörter)?
-	- der Titel gibt die Grundlegende Idee wieder
-- Schreibe den Zettel um, so dass die Kriterien erfüllt sind
+- Hast du einen Zettel, der die drei oben genannten Kriterien nicht erfüllt?
+- Schreibe den Zettel um,
 	- Teile ihn in mehrere Zettel wenn nötig, pro Zettel eine Idee
 	- Streiche unnötigen Text (Prosa)
-	- Mache den Titel kurz, prägnant und aussagekräftig so dass er die Idee direkt wiedergibt.
-		- Idealerweise kann er als Satz direkt in einem Text verwendet werden.
+	- Mache den Titel kurz und aussagekräftig so dass er die Idee direkt wiedergibt.
+		- Kannst du ihn als Satz direkt in einem Text verwenden?
 
 ### Reflexionsteil
 Was ist der Nutzen von sprechenden Titeln?

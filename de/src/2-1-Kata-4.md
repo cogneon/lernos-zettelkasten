@@ -1,3 +1,5 @@
+![Wählen eines Programms für die PKM-Umgebung](images/woche2.png)
+
 ## Woche 2 - PKM-Umgebung Einrichten
 
 Wenn es darum geht, dein persönliches Wissensmanagement zu organisieren, kann die Wahl des richtigen Programms hilfreich sein. Ein gutes Programm gibt dir die Möglichkeit, deine Notizen an einem Ort zu speichern und sicherzustellen, dass du jederzeit Zugriff auf die Informationen hast, die du benötigst.
@@ -7,9 +9,6 @@ Es gibt viele verschiedene Programme auf dem Markt, die sich auf unterschiedlich
 Es ist wichtig, dass dein Wissen in einem Format gespeichert ist, das die Zukunftsfähigkeit berücksichtigt. Es ist jedoch wichtig zu bedenken, dass sich Programme im Laufe der Zeit ändern können und es möglicherweise notwendig sein kann, ein anderes Programm zu wählen.
 
 Es ist wichtig zu beachten, dass die Wahl des Programms nicht in Stein gemeißelt ist und du jederzeit die Möglichkeit hast, deine Entscheidung zu ändern. Um dir bei deiner Entscheidung zu helfen, haben wir einen Fragebogen erstellt, der dir einen Anfang bietet. Es ist jedoch wichtig zu beachten, dass dies nur eine Hilfestellung ist und es nicht die einzige Möglichkeit ist.
-
-Es gibt auch Programme wie OneNote und Evernote, die nicht für jeden geeignet sein können, je nachdem welche Funktionen und Anforderungen man hat. Es ist wichtig, die verschiedenen Optionen zu prüfen und das Programm zu wählen, das am besten zu deinen Bedürfnissen passt.
-
 
 ### Fragebogen um ein Programm auszuwählen
 Mit dem Fragebogen kannst du deine Wahl für ein Tool unterstützen:
@@ -55,6 +54,8 @@ Zähle die Buchstaben jeweils zusammen. Je nachdem bei welchem Buchstaben du die
 
 Dieser Fragebogen ist nur eine Hilfe und es gibt keine Garantie das eines der oben genannten Tools am besten für dich passt. Es ist empfehlenswert auch die Tools selbst zu testen um sicher zu gehen das es deine Anforderungen erfüllt.
 (Und es sind nicht die einzigen Tools, es sind nur gängige Tools)
+
+Sollte es dir nicht möglich sein ein für das Wissentmanagement optimiertes Programm zu verwenden, z.B. durch ristriktionen von Firmen IT-Richtlinien, kannst du auch mit OneNote beginnen. Im Anhang (Guide um PKM mit OneNote umzusetzen) findest du dazu ein paar Anmerkungen.
 
 ##### Links zu gängigen PKM-Programmen
 - Obsidian^[http://obsidian.md]
