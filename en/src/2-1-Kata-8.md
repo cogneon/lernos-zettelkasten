@@ -5,7 +5,7 @@ Autor/in: Maksim Kostenko
 ## Week 7 - Pit stop
 
 
-### Theory/Questions
+### Theory
 
 Congratulations, you have made it this far and have come a long way! You now have the most important foundations for your personal knowledge management, namely:
 
@@ -29,7 +29,7 @@ Outlook:
 - Establish a workflow so that you can expand and use your knowledge in the best possible way in the future.
 
 
-### Tasks/Exercises
+### Exercises
 - Do your current goals still fit for you and how can you make sure you achieve them in the remaining 5 weeks?
 	- If they no longer fit, change them so that they fit for you again (this is also possible).
 - Write down the three basic questions you have regarding the notebook.

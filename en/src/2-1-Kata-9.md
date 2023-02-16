@@ -1,7 +1,7 @@
 ![Wiederauffindbarkeit des Wissens](images/woche8.png)
 
 ## Week 8 - Knowledge retrieval
-### Theory/questions
+### Theory
 You have now already created some notes in your note box. But your notes are still easy to keep track of. However, if your note box continues to grow, it may start to become confusing. Therefore, it is now a question of how you can find your knowledge in your note box again, if it becomes more and more extensive. An important requirement of your system is the retrievability of information.
 
 Retrievability means being able to find information you once stored later when you need it. This contrasts with information retrieval, where you know the information you are looking for is in a specific document and you have to search that document specifically. An important aspect of linking knowledge is the ability to link to notes that fit the topic. Of course, this is most easily done if you remember that you have that information in your Zettelkasten. Otherwise, we are already in the topic, how do you find information back in your note box?
@@ -12,7 +12,7 @@ Factors that influence the retrievability of information include the structure a
 
 One way to improve retrievability is to create indexes or a Map of Content (MOC). This defines major points of contact from which more detailed information can be accessed. Another option is the use of tags to quickly browse topic affiliations. However, the TAGs should be used rather sparingly, too many TAGs can lead to not seeing the forest for the trees. TAGs should also be maintained regularly to remain useful. A full-text search within the notes makes it possible to search specifically for certain terms. By using metadata, such as aliases, authors or book titles, notes can be filtered and sorted specifically. Another way to make notes retrievable is to link them to each other. This makes it easy to move from one topic to the next and keep the information thematically coherent. What emerges in the previous exercise when you get bogged down. Train of thought.
 
-### Exercise/Task
+### Exercise
 - Use keywords and tags: Try to add keywords and tags to the notes in your Zettelkasten to make it easier to identify topics.
 - Create an overview of the keywords and tags you use in your Zettelkasten and think about how you can target them to improve information retrieval.
 - Try out full-text search: Experiment with full-text search within your Zettelkasten to target specific terms.

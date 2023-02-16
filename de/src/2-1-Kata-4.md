@@ -55,7 +55,7 @@ Zähle die Buchstaben jeweils zusammen. Je nachdem bei welchem Buchstaben du die
 Dieser Fragebogen ist nur eine Hilfe und es gibt keine Garantie das eines der oben genannten Tools am besten für dich passt. Es ist empfehlenswert auch die Tools selbst zu testen um sicher zu gehen das es deine Anforderungen erfüllt.
 (Und es sind nicht die einzigen Tools, es sind nur gängige Tools)
 
-Sollte es dir nicht möglich sein ein für das Wissentmanagement optimiertes Programm zu verwenden, z.B. durch ristriktionen von Firmen IT-Richtlinien, kannst du auch mit OneNote beginnen. Im Anhang (Guide um PKM mit OneNote umzusetzen) findest du dazu ein paar Anmerkungen.
+Sollte es dir nicht möglich sein ein für das Wissentmanagement optimiertes Programm zu verwenden, z.B. durch ristriktionen von Firmen IT-Richtlinien, kannst du auch mit OneNote beginnen. Im Anhang (Guide um PKM mit OneNote umzusetzen) findest du dazu ein paar Anmerkungen. Ebenso wie du von einem proprietärem Format zu Mark-Down wechseln kannst.
 
 ##### Links zu gängigen PKM-Programmen
 - Obsidian^[http://obsidian.md]
@@ -65,7 +65,7 @@ Sollte es dir nicht möglich sein ein für das Wissentmanagement optimiertes Pro
 Wenn Markdown für dich Fremd ist, und du es in deinem Zettelkasten verwenden möchtest, schau in den Anhang rein. Dort gibt es einen Crash-Kurs. (Im Prinzip reichen drei Zeichen aus um es zu verwenden)
 
 
-### Aufgaben/Übungen
+### Übungen
 - Wähl ein Programm aus, entweder mit Hilfe des Fragebogens oder andersweitig
 - Installiere dein gewähltes Programm
 - Mache dich mit dem Programm vertraut

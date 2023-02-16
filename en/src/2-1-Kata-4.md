@@ -1,6 +1,8 @@
 ![Wählen eines Programms für die PKM-Umgebung](images/woche2.png)
 ## Week 2 - PKM Environment Setup
 
+### Theory
+
 When it comes to organizing your personal knowledge management, choosing the right program can be helpful. A good program will give you the ability to store your notes in one place and ensure that you have access to the information you need at any time.
 
 There are many different programs on the market that focus on different ways of working and personal preferences. It may be wise to take the time to look into different programs to find the one that best fits your needs.
@@ -12,7 +14,7 @@ It is important to note that your choice of program is not set in stone and you 
 There are also programs like OneNote and Evernote that may not be for everyone, depending on what features and requirements you have. It's important to review the different options and choose the program that best fits your needs.
 
 
-### Questionnaire to choose a program
+#### Questionnaire to choose a program
 You can use the questionnaire to support your choice for a tool:
 
 1. what kind of data do you want to store and organize (e.g. texts, images, audio files)?
@@ -67,7 +69,7 @@ If it is not possible for you to use a program optimized for knowledge managemen
 If Markdown is foreign to you, and you want to use it in your Zettelkasten, check out the attachment. There is a crash course there. (In principle three characters are enough to use it)
 
 
-### Tasks/Exercises
+### Exercises
 - Choose a program, either with the help of the questionnaire or otherwise
 - Install your chosen program
 - Familiarize yourself with the program

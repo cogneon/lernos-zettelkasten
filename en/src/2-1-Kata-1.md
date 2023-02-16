@@ -1,4 +1,4 @@
-![When writing the story of your life, don't let anyone else hold the pen](images/WhenWrittingTheStoryOfYourLife.jpeg)
+![When writing the story of your life, don't let anyone else hold the pen](images/woche1-1.png)
 Autor/in: cn0ra
 
 ## Week 1 - Goal definition & appointment with yourself
@@ -7,7 +7,7 @@ Week 1 is the only week that consists of two topics. Your goal definition and ma
 
 ### Goal definition
 
-#### Theory/questions
+#### Theory
 What do you want to achieve in the next twelve weeks? You can choose a goal that is really, really important to you and with which you will make very concrete progress during the sprint. However, especially for PKM beginners, achieving the goal is not the top priority. In addition to learning the basic knowledge, the environment, the findability and permanence of notes, the focus is still very much on regularly applying the newly gained skills.
 In particular and last but not least, one main thing is our focus: having a lot of fun! :D
 
@@ -67,7 +67,7 @@ The question that can help you to define the Key Results is: How do I know that 
 - Book [Introduction To OKRs by Christina Wodtke](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) (english)
 - Book [The Beginner's Guide To OKR by Felipe Castro](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) (english)
 
-#### tasks/exercises
+#### exercises
 #### Reflection part
 What is already going well?
 What have you already achieved?
@@ -83,7 +83,7 @@ How would you know that you have fully achieved your goal?
 ### An appointment with yourself
 
 
-#### Theory/questions
+#### Theory
 Do you take enough time for your personal development and to work on your goals? Many people are busy with their daily tasks and don't care enough about their development and well-being. A good approach is to make an appointment with yourself and reserve this time in your calendar.
 
 
@@ -93,7 +93,7 @@ Do you take enough time for your personal development and to work on your goals?
 -   Podcast: [Never enough time? Schedule your priorities by colorcoding your calendars](http://www.asianefficiency.com/schedule-management/color-code-your-calendar/)
 
 
-#### tasks/exercises
+#### exercises
 
 Check your calendar and look for possible dates with yourself. An hour or even 30 minutes a week is a good starting point. Put an appointment with yourself on the calendar. If possible, make it a recurring appointment so that this time becomes a habit for you. Find at least five appointments:
 

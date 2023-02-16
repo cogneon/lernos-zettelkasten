@@ -1,4 +1,4 @@
-![When writing the story of your life, don't let anyone else hold the pen](images/WhenWrittingTheStoryOfYourLife.jpeg)
+![Wenn du die Geschichte deines Lebens schreibst, lass niemand anderen den Stift in die Hand nehmen](images/woche1-1.png)
 Autor/in: cn0ra
 
 ## Woche 1 - Zieldefinition & Termin mit dir selber
@@ -7,7 +7,7 @@ Woche 1 besteht als einzige Woche aus zwei Themen. Deine Zieldefinition und eine
 
 ### Zieldefinition
 
-#### Theorie/Fragen
+#### Theorie
 Was willst du in den nächsten zwölf Wochen erreichen? Du kannst ein Ziel auswählen, das dir wirklich, wirklich wichtig ist und mit dem du beim Sprint ganz konkrete Fortschritte machst. Besonders für Persönliches Wissensmanagement (PKM) - Einsteiger*innen ist es jedoch nicht die oberste Priorität, das Ziel zu erreichen. Im Fokus steht neben dem Erlernen des Basiswissens, der Umgebung, der Auffindbarkeit und Dauerhaftigkeit von Notizen, immer noch ganz besonders das regelmäßige Anwenden der neu gewonnenen Fähigkeiten.
 Insbesondere und zu guter Letzt steht für uns eine Hauptsache im Mittelpunkt: ganz ganz viel Spaß zu haben! :D
 
@@ -67,7 +67,7 @@ Die Frage, die einem dabei helfen kann, welche Key Results erreicht werden soll 
 -   Buch [Introduction To OKRs von Christina Wodtke](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) (englisch)
 -   Buch [The Beginner’s Guide To OKR von Felipe Castro](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) (englisch)
 
-#### Aufgaben/Übungen
+#### Übungen
 #### Reflexionsteil
 Was läuft bereits gut?
 Was hast du bereits erreicht?
@@ -83,7 +83,7 @@ Woran würdest du merken, dass du dein Ziel vollends erreicht hast?
 ### Ein Termin mit dir selbst
 
 
-#### Theorie/Fragen
+#### Theorie
 Nimmst du dir ausreichend Zeit für deine persönliche Entwicklung und für die Arbeit an deinen Zielen? Viele Menschen sind mit ihren täglichen Aufgaben beschäftigt und kümmern sich nicht genug um ihre Entwicklung und ihr Wohlbefinden. Ein guter Ansatz ist es, einen Termin mit sich selbst zu vereinbaren und sich diese Zeit im Kalender zu reservieren.
 
 
@@ -93,7 +93,7 @@ Nimmst du dir ausreichend Zeit für deine persönliche Entwicklung und für die 
 -   Podcast: [Never enough time? Schedule your priorities by colorcoding your calendars](http://www.asianefficiency.com/schedule-management/color-code-your-calendar/)
 
 
-#### Aufgaben/Übungen
+#### Übungen
 
 Überprüfe deinen Kalender und suche nach möglichen Terminen mit dir selbst. Eine Stunde oder sogar 30 Minuten pro Woche ist ein guter Ausgangspunkt. Trage dir einen Termin mit dir selbst in den Kalender ein. Mache ihn nach Möglichkeit zu einem wiederkehrenden Termin, damit diese Zeit für dich zur Gewohnheit wird. Finde mindestens fünf Termine:
 

@@ -1,6 +1,8 @@
+![Verlinkung von relevanten Informationen](images/woche6.png)
+
 ## Woche 6 - Verzetteln
 
-### Theorie/Fragen
+### Theorie
 Wir starten bei einem Gedanken und kommen von dort sequenziell zu einem nächsten Gedanken. Am Ende sind wir durch eine Verkettung von einem Startpunkt zu einem ganz anderem Punkt gekommen.
 
 ![Modells des Gedankengangs mit Notizen](images/thought-chain.png)
@@ -17,7 +19,7 @@ Eine Information wird am besten gefunden, wenn viele Verlinkungen auf ihr sind. 
 
 Das Verzetteln wird umso wichtiger und klarer, desto mehr Notizen in deinem Zettelkasten sind. Auch wenn du erst wenige Notizen in deinem Zettelkasten hast, lohnt es sich jetzt damit anzufangen, damit er wächst. Dadurch speicherst du den Wissen und vertiefst et gleichzeitig.
 
-### Aufgaben/Übungen
+### Übungen
 In der letzten Kata hast du bereits Notizen atomarer gemacht, so dass du den Gedanken der Notiz nun schneller erfassen kannst.
 
 Geh durch die Notizen in deinem Zettelkasten und wenn dir auffällt, dass zwei Ideen zusammengehören, aufeinander aufpassen können oder in sonst einer Verbindung zueinander stehen, verlinke sie miteinander.

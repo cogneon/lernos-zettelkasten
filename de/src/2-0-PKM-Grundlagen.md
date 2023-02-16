@@ -1,5 +1,4 @@
-![Gedanken Düngen](images/GedankenDuengen.jpeg)
-Autor/in: VectorMine
+![Zettelkasten-Methode hilft, Wissen zu verknüpfen und auszubauen](images/grundlagen.png)
 
 # Grundlagen der Zettelkasten-Methode
 

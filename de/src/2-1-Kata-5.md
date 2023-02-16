@@ -3,9 +3,7 @@
 
 ## Woche 4 - Erste Notizen erstellen
 
-### Theorie/Fragen
-
-
+### Theorie
 
 Ein erfolgreiches persönliches Wissensmanagement im Zettelkasten ist kein Sprint sondern ein Marathon. Nimm dir deshalb Zeit, um regelmäßig Notizen anzulegen und zu verarbeiten. Jede Notiz, jede Verlinkung von Notizen und die dabei entstehenden Gedanken helfen dir dabei die  Zettelkasten-Methode zu verinnerlichen.
 
@@ -24,7 +22,7 @@ Wenn du dir unsicher bist, welche Informationen du in deinen Zettelkasten mit au
 Schau bei Bedarf noch einmal in die Kata  _Woche 3 - Notizen kennenlernen_ rein.
 
 
-### Aufgaben/Übungen
+### Übungen
 - Notiz(en) erstellen
 	- Lies einen Artikel/Buch/Thema, das dich interessiert und erstelle daraus Notiz(en)
 - Optional: Setze dir einen Regeltermin, der über den Sprint hinausgeht, um zu einem festgelegten Zeitpunkt deine flüchtigen Notizen zu verarbeiten.

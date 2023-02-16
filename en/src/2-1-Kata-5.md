@@ -2,7 +2,7 @@
 
 ## Week 4 - Create first notes
 
-### Theory/questions
+### Theory
 
 Successful personal knowledge management in the notebook requires regular work. By taking time to regularly create and process notes, you can continuously increase your knowledge. Often it is enough to create a few, but regular notes. Every note, every linking of notes, and the thoughts that arise from them contribute to the increase of your knowledge. It is important to understand that knowledge management is a marathon and not a sprint, so you should also take time to take small steps.
 
@@ -21,7 +21,7 @@ If you're unsure about what information to include in your Zettelkasten, you can
 If necessary, look again at _week 3 - Getting to Know Notes_.
 
 
-### Tasks/Exercises
+### Exercises
 - Create note(s)
 	- Read an article/book/topic that you are currently interested in and create note(s) from it.
 - Optional: set a rule date that goes beyond the sprint to process your cursory notes at a set time.

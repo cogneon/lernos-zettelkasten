@@ -2,7 +2,7 @@
 
 ## Woche 3 - Notizen kennenlernen
 
-### Theorie/Fragen
+### Theorie
 
 #### Typen von Notizen
 Die Begriffe müssen nicht zwingend genutzt werden, und die Typen können sich überschneiden und ineinander übergehen. Betrachte es einfach als hilfreiches Hintergrundwissen zur Orientierung und bleib in der Anwendung selber offen und flexibel. Der Zettelkasten ist ein lebendes System und somit passt er sich an dich an.
@@ -75,7 +75,7 @@ Auch kann die Methode noch gut eingesetzt werden, wenn nicht mehr ganz so viel E
 Die Methode ist eine Methode, sie muss nicht genutzt werden. Du kannst das Gelesene, bzw. Gehörte oder Gesehene auch direkt als Audio aufsprechen, dadurch deine soziale Präsenz innerhalb einer Lerngruppe erhöhen, oder sie in eigenen Worten zeitnah wiedergeben.
 
 
-### Aufgaben/Übungen
+### Übungen
 - Notiere dier als Vorbereitung zum Weekly deine Fragen die du zu dem oben beschriebenem hast um sie im Weekly zu besprechen
 - Habt ihr alles verstanden (Diskussion und Fragen)? Diskutiert euer Verständnis zu Notizen und klärt die Fragen die jeder hat
 

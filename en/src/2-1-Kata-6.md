@@ -2,7 +2,7 @@
 
 ## Week 5 - Create permanent notes
 
-### Theory/Questions
+### Theory
 Creating notes requires some thought in order to effectively manage personal knowledge. An important foundation here is the atomicity of notes.
 
 Atomicity means that each note refers to exactly one idea. This idea should be elementary and to the point, without prose or unnecessary details. Because of the atomic structure of notes, large ideas or abstract considerations can be created from many small building blocks, or thought processes can be connected.
@@ -18,7 +18,7 @@ In summary, creating notebook-style notes effectively requires:
 - Short text length: the text should be kept short in order to capture the idea quickly, guideline is 450 words or one DINA 6 page.
 
 
-### Tasks/Exercises
+### Exercises
 - Find a piece of paper that does not fit into the criteria. The criteria are
 	- Only one idea on the note?
 	- Does the note fit on a DINA6 page (~450 words)?

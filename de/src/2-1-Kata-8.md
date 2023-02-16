@@ -5,7 +5,7 @@ Autor/in: Maksim Kostenko
 ## Woche 7 - Boxenstop
 
 
-### Theorie/Fragen
+### Theorie
 
 Herzlichen Glückwunsch, du hast es bis hierhin geschafft und bist sehr weit gekommen! Du besitzt nun die wichtigsten Grundlagen für dein persönliches Wissensmanagement, und zwar:
 
@@ -29,7 +29,7 @@ Ausblick:
 - einen Workflow etablieren, damit du dein Wissen auch zukünftig bestmöglich erweitern und nutzen kannst.
 
 
-### Aufgaben/Übungen
+### Übungen
 - Passen deine aktuellen Ziele immer noch für dich und wie kannst du sicherstellen, dass du sie in den verbleibenden 5 Wochen erreichst?
 	- Wenn sie nicht mehr passen, ändere sie doch, so dass sie wieder für dich passen (Auch das ist möglich).
 - Notiere dir die drei grundsätzlichen Fragen die du im Hinblick auf den Zettelkasten hast.

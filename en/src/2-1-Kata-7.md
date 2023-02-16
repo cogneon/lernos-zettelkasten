@@ -1,6 +1,7 @@
-## Woche 6 - Verzetteln
+![Verlinkung von relevanten Informationen](images/woche6.png)
+## Woche 6 - Frittering
 
-### Theory/questions
+### Theory
 We start at one thought and move sequentially from there to the next thought. In the end, we have come from one starting point to a completely different point by chaining.
 
 ![Model of the thought chain with notes](images/thought-chain.png)
@@ -17,7 +18,7 @@ A piece of information is most likely to be found when there are many links on i
 
 It is worth mentioning that the more notes you have in your Zettelkasten, the more important and clear it becomes. Even if you have only a few notes in your notebook, it is worth starting now and repeating them continuously. In total, your notebook will grow on the one hand and the knowledge will be retained or deepened on the other.
 
-### Tasks/Exercises
+### Exercises
 In the last kata you already made notes more atomic, so now you can grasp the idea of the note more quickly.
 
 Go through the notes in your note box and if you notice that two ideas belong together, can look out for each other, or are otherwise connected, link them together.

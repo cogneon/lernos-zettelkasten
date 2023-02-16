@@ -1,9 +1,8 @@
-
 ![Länge der Notiz](images/woche5.png)
 
 ## Woche 5 - dauerhafte Notizen erstellen
 
-### Theorie/Fragen
+### Theorie
 Um dein persönliches Wissensmanagement effektiv zu gestalten, solltest du dich mit dem Begriff Atomarität vertraut machen:
 
 Atomarität bedeutet, dass jede Notiz sich auf genau eine Idee bezieht. Diese Idee sollte elementar und auf den Punkt gebracht sein, ohne Prosa oder unnötige Details. Durch die atomare Struktur der Notizen, lassen sich aus vielen kleinen Bausteinen große Ideen oder abstrakte Betrachtungen erstellen, oder auch Gedankengänge miteinander verbinden.
@@ -14,12 +13,12 @@ In Bezug auf die Länge der Notiz, sollte der Text kurz gehalten werden, um den 
 
 Zusammengefasst, Notizen im Zettelkasten-Stil effektiv zu erstellen erfordert:
 
--   Atomarität: jede Notiz sollte sich auf eine elementare Idee beziehen, ohne Prosa oder unnötige Details.
--   Einzigartiger, sprechender Titel: der Titel sollte die Idee der Notiz auf den Punkt bringen und möglichst auf 20 Wörter beschränkt werden.
--   Kurze Textlänge: Der Text sollte kurz gehalten werden, um den Gedanken schnell erfassen zu können, Richtwert sind 450 Wörter oder eine DINA 6 Seite.
+- Atomarität: jede Notiz sollte sich auf eine elementare Idee beziehen, ohne Prosa oder unnötige Details.
+- Einzigartiger, sprechender Titel: der Titel sollte die Idee der Notiz auf den Punkt bringen und möglichst auf 20 Wörter beschränkt werden.
+- Kurze Textlänge: Der Text sollte kurz gehalten werden, um den Gedanken schnell erfassen zu können, Richtwert sind 450 Wörter oder eine DINA 6 Seite.
 
 
-### Aufgaben/Übungen
+### Übungen
 - Hast du einen Zettel, der die drei oben genannten Kriterien nicht erfüllt?
 - Schreibe den Zettel um,
 	- Teile ihn in mehrere Zettel wenn nötig, pro Zettel eine Idee

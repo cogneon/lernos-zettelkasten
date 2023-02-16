@@ -2,7 +2,7 @@
 
 ## Week 3 - Get to know notes
 
-### Theory/questions
+### Theory
 
 #### Types of notes
 It is not mandatory to use the terms, and the types can overlap and blend into each other. Just think of it as helpful background knowledge to guide you, and keep an open mind and flexibility in the application itself. The notebox is a living system and so it adapts to you.
@@ -78,7 +78,7 @@ Also, the method can still be used well when not so much energy is available.
 The method is a method, it does not have to be used. You can also record what you have read, heard or seen directly as audio, thereby increasing your social presence within a learning group, or reproduce it in your own words in a timely manner.
 
 
-### Tasks/Exercises
+### Exercises
 - Write down your questions about what you have written above
 - Discuss your understanding on notes and clarify the questions everyone has
 
