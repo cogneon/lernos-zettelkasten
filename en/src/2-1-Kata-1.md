@@ -79,6 +79,7 @@ How would you know that you have fully achieved your goal?
 
 
 
+![Ein Termin mit dir selbst](images/woche1-2.png)
 ### An appointment with yourself
 
 

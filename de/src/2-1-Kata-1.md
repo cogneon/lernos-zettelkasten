@@ -78,7 +78,7 @@ Woran würdest du merken, dass du dein Ziel vollends erreicht hast?
 -   Du motivierst dich und die anderen Teilnehmer*innen durch Greifbar machen der Ziele.
 
 
-
+![Ein Termin mit dir selbst](images/woche1-2.png)
 ### Ein Termin mit dir selbst
 
 
