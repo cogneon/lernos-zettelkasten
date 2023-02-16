@@ -1,5 +1,4 @@
 ![When writing the story of your life, don't let anyone else hold the pen](images/woche1-1.png)
-Autor/in: cn0ra
 
 ## Week 1 - Goal definition & appointment with yourself
 

@@ -1,5 +1,4 @@
 ![Wenn du die Geschichte deines Lebens schreibst, lass niemand anderen den Stift in die Hand nehmen](images/woche1-1.png)
-Autor/in: cn0ra
 
 ## Woche 1 - Zieldefinition & Termin mit dir selber
 
