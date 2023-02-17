@@ -12,38 +12,39 @@ From this connecting of information, clusters of topics emerge. This is what is 
 
 ![Emergence of bottom-up topic clusters](images/bottom-up-example.png)
 
-Thus, branching not only creates topic clusters, but also natural entry points for topics. Connections _grow_ between topics that were not known before. This can lead to new ideas or even completely new approaches: something new emerges. In this way, your knowledge connects itself in your own note box just as it is laid out in the neuronal structure of your brain, and in the process it sinks in deeper and deeper.
+Thus, not only topic clusters but also natural entry points for topics are created by the divergence. Connections _grow_ between topics that were not known before. This can lead to new ideas or even completely new approaches: something new emerges. In this way, your knowledge connects in your own notebook just as it is laid out in the neuronal structure of your brain, and in the process it sinks in deeper and deeper.
 
-A piece of information is most likely to be found when there are many links on it. This is predetermined by the system of the brain. You use this when you create your note. Therefore, linking relevant information increases the findability and memorability of the information. Note-taking is also important for this. It keeps the information in the Zettelkasten together and makes it accessible so that you can think and work with it on a deeper level (your long-term memory).
+A piece of information is best found when there are many links on it. This is predetermined by the brain's system. You use this when you create your note. Therefore, linking relevant information increases the findability and memorability of the information. Note-taking is also important for this. It keeps the information in the Zettelkasten together and makes it accessible so that you can think and work with it on a deeper level (your long-term memory).
 
-It is worth mentioning that the more notes you have in your Zettelkasten, the more important and clear it becomes. Even if you have only a few notes in your notebook, it is worth starting now and repeating them continuously. In total, your notebook will grow on the one hand and the knowledge will be retained or deepened on the other.
+The more notes you have in your box, the more important and clear it becomes. Even if you only have a few notes in your Zettelkasten, it's worth starting now so that it grows. This way you will save knowledge and deepen it at the same time.
 
 ### Exercises
-In the last kata you already made notes more atomic, so now you can grasp the idea of the note more quickly.
+In the last kata, you already made notes more atomic, so now you can capture the idea of the note more quickly.
 
-Go through the notes in your note box and if you notice that two ideas belong together, can look out for each other, or are otherwise connected, link them together.
+Go through the notes in your Zettelkasten and if you notice that two ideas belong together, can look out for each other, or are otherwise connected, link them together.
 
 If questions come to mind as you read the note, look for answers in your Zettelkasten and link them if you find notes that match.
 
-Break down other notes into smaller components, linking to them as you get the sense that they should be related.
+Break down other notes into smaller components (keyword atomicity, from week 6), linking them as you go, as soon as you get the impression that they should be related.
 
-You can also link directly to other notes that you know are related when you add permanent notes.
+You can also create direct links to other notes that you know are related when adding permanent notes.
 
 You can put the link in the Footer^[The bottom area of a note] area, or you can link inline^[Insert directly into the text or sentence].
 
 And keep in mind, a link is not only to the same topics, but can also be a completely new link, just the one you see.
-You could also create a new note explaining for yourself why you see a connection between the two notes.
+You could also create a new note explaining for yourself why you see a connection between the two notes. The following image illustrates this.
+![erklärende Notiz zwischen zwei Notizen](images/erklaerende-Notiz-zwischen-zwei-Notizen.png)
 
+Note: If you are working a lot and intensively on a topic, it might make sense to set up an additional time per week where you only focus on linking ideas to each other. Tags like they exist in Obisidian can be helpful to link not yet linked notes.
 
 ### Reflection section
-- Would you do things differently the next time you get bogged down than you did this time?
-	- Why - What is good about what you have done so far?
-	        - What would you do differently next time?
-		- What specifically could help you do this?
+- Would you do things differently the next time you get bogged down?
+	- What do you like about what you've done so far?
+	- What would you do differently next time?
+	- What would help you do that?
 - Are you satisfied with the result?
 
 
 ### Learning goal
-- When working with the knowledge, associations with other knowledge arise and the two are linked together
-- Topic clusters emerge all by themselves
-- Unknown references to completely different areas emerge.
+- You have received new associations and made connections
+- You have formed new topic clusters

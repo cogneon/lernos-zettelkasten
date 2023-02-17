@@ -33,7 +33,8 @@ Du kannst auch beim Einpflegen permanenter Notizen direkt Links zu anderen Notiz
 Du kannst den Link in den Footer^[Der unterste Bereich einer Notiz] Bereich setzen oder auch inline^[Direkt in den Text bzw. Satz einbauen] verlinken.
 
 Und behalte dabei im Hinterkopf, eine Verbindung besteht nicht nur zu denselben Themen, sondern kann auch eine völlig neue Verbindung sein, eben jene, die du siehst.
-Du könntest auch eine neue Notiz erstellen, in der du für dich erläuterst, warum du eine Verbindung zwischen den beiden Notizen siehst.
+Du könntest auch eine neue Notiz erstellen, in der du für dich erläuterst, warum du eine Verbindung zwischen den beiden Notizen siehst. Das folgende Bild verdeutlicht dies.
+![erklärende Notiz zwischen zwei Notizen](images/erklaerende-Notiz-zwischen-zwei-Notizen.png)
 
 Anmk.: Falls du sehr viel verzettelst und intensiv an einem Thema arbeitest kann es Sinn machen dir einen zusätzlichen Termin pro Woche einzurichten bei dem du dich nur um das Verlinken von Ideen untereinander konzentrierst. Tags wie es sie in Obisidian gibt können hierbei hilfreich sein noch nicht verlinkte Notizen zu verlinken.
 

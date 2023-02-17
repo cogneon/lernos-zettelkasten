@@ -22,6 +22,12 @@ Wenn du dir unsicher bist, welche Informationen du in deinen Zettelkasten mit au
 Schau bei Bedarf noch einmal in die Kata  _Woche 3 - Notizen kennenlernen_ rein.
 
 
+#### Tipp 2
+Um in Mark-Down Links zu erstellen einfach \[\[ \]\] um den Notiznamen setzen und es wird daraus ein Link.
+
+![Links erstellen](images/links-erstellen.png)
+
+
 ### Übungen
 - Notiz(en) erstellen
 	- Lies einen Artikel/Buch/Thema, das dich interessiert und erstelle daraus Notiz(en)

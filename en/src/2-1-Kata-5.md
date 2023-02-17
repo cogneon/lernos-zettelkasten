@@ -20,6 +20,11 @@ If you're unsure about what information to include in your Zettelkasten, you can
 - I need the information for a topic I am working on.
 If necessary, look again at _week 3 - Getting to Know Notes_.
 
+#### Tip 2
+To create links in Mark-Down just put \[\[ \]\] around the note name and it becomes a link.
+
+![Create links](images/links-erstellen.png)
+
 
 ### Exercises
 - Create note(s)
