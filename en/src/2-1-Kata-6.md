@@ -1,43 +1,50 @@
-![Länge der Notiz](images/woche5.png)
-
-## Week 5 - Create permanent notes
+![Verlinkung von relevanten Informationen](images/woche6.png)
+## Woche 6 - Frittering
 
 ### Theory
-Creating notes requires some thought in order to effectively manage personal knowledge. An important foundation here is the atomicity of notes.
+We start at one thought and move sequentially from there to the next thought. In the end, we have come from one starting point to a completely different point by chaining.
 
-Atomicity means that each note refers to exactly one idea. This idea should be elementary and to the point, without prose or unnecessary details. Because of the atomic structure of notes, large ideas or abstract considerations can be created from many small building blocks, or thought processes can be connected.
+![Model of the thought chain with notes](images/thought-chain.png)
 
-An important component of a note is the title. This should be unique and designed to be as eloquent as possible. In this way, it is already possible to recognize from the title what the note is about and whether it can be useful for the current project. It is recommended to limit the length of the title to ~20 words^[256 characters including file path].
+The same thing happens now with linking notes. A thought starts in a note, which leads to another thought (note), and on and on. This is a fundamental aspect of dovetailing, connecting information that has to do with each other.
 
-Regarding the length of the note, the text should be kept short to be able to capture the thought quickly. As a guideline, you can use 450 words or a DINA 6 page.
+From this connecting of information, clusters of topics emerge. This is what is meant by bottom-up in this context. Areas/topics are not defined in advance, but the topics are formed by the accumulation of knowledge and networking with each other to form topic areas.
 
-In summary, creating notebook-style notes effectively requires:
+![Emergence of bottom-up topic clusters](images/bottom-up-example.png)
 
-- Atomicity: each note should relate to one elementary idea, without prose or unnecessary details.
-- Unique, speaking title: the title should get to the heart of the note's idea and be limited to 20 words if possible.
-- Short text length: the text should be kept short in order to capture the idea quickly, guideline is 450 words or one DINA 6 page.
+Thus, not only topic clusters but also natural entry points for topics are created by the divergence. Connections _grow_ between topics that were not known before. This can lead to new ideas or even completely new approaches: something new emerges. In this way, your knowledge connects in your own notebook just as it is laid out in the neuronal structure of your brain, and in the process it sinks in deeper and deeper.
 
+A piece of information is best found when there are many links on it. This is predetermined by the brain's system. You use this when you create your note. Therefore, linking relevant information increases the findability and memorability of the information. Note-taking is also important for this. It keeps the information in the Zettelkasten together and makes it accessible so that you can think and work with it on a deeper level (your long-term memory).
+
+The more notes you have in your box, the more important and clear it becomes. Even if you only have a few notes in your Zettelkasten, it's worth starting now so that it grows. This way you will save knowledge and deepen it at the same time.
 
 ### Exercises
-- Find a piece of paper that does not fit into the criteria. The criteria are
-	- Only one idea on the note?
-	- Does the note fit on a DINA6 page (~450 words)?
-	- the title reflects the basic idea
-- Rewrite the note so that the criteria are met.
-	- divide it into several notes if necessary, one idea per note
-	- Delete unnecessary text (prose)
-	- Make the title short, concise and meaningful so that it directly reflects the idea.
-		- Ideally, it can be used as a sentence directly in a text.
+In the last kata, you already made notes more atomic, so now you can capture the idea of the note more quickly.
+
+Go through the notes in your Zettelkasten and if you notice that two ideas belong together, can look out for each other, or are otherwise connected, link them together.
+
+If questions come to mind as you read the note, look for answers in your Zettelkasten and link them if you find notes that match.
+
+Break down other notes into smaller components (keyword atomicity, from week 6), linking them as you go, as soon as you get the impression that they should be related.
+
+You can also create direct links to other notes that you know are related when adding permanent notes.
+
+You can put the link in the Footer^[The bottom area of a note] area, or you can link inline^[Insert directly into the text or sentence].
+
+And keep in mind, a link is not only to the same topics, but can also be a completely new link, just the one you see.
+You could also create a new note explaining for yourself why you see a connection between the two notes. The following image illustrates this.
+![erklärende Notiz zwischen zwei Notizen](images/erklaerende-Notiz-zwischen-zwei-Notizen.png)
+
+Note: If you are working a lot and intensively on a topic, it might make sense to set up an additional time per week where you only focus on linking ideas to each other. Tags like they exist in Obisidian can be helpful to link not yet linked notes.
 
 ### Reflection section
-What is the benefit of talking titles?
-- How can you make sure that a note actually refers to a single idea?
-- How can you make the title of a note as meaningful as possible and give a quick overview of the note's content?
-- How can one ensure that the length of a note is appropriate and allows the idea to be captured quickly?
-- To what extent does it help knowledge management to organize notes into atomic units?
-- How do you proceed when you come across a note that does not adhere to the criteria? What steps are necessary to adjust it?
-- To what extent is it beneficial to build the titles of notes as a sentence and how can you implement this?
+- Would you do things differently the next time you get bogged down?
+	- What do you like about what you've done so far?
+	- What would you do differently next time?
+	- What would help you do that?
+- Are you satisfied with the result?
 
-### Learning objective
-- Reduce a note to a single idea.
-- Keep notes short and essential to be able to recall knowledge quickly.
+
+### Learning goal
+- You have received new associations and made connections
+- You have formed new topic clusters

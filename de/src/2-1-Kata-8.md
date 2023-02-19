@@ -1,45 +1,33 @@
-![Stopp](images/Hand-Stopp.jpeg)
+![Wiederauffindbarkeit des Wissens](images/woche8.png)
 
-Autor/in: Maksim Kostenko
-
-## Woche 7 - Boxenstop
-
-
+## Woche 8 - Wiederauffindbarkeit des Wissens
 ### Theorie
+Du hast nun schon einige Notizen in deinen Zettelkasten angelegt. Noch lassen sich deine Notizen gut überblicken. Wenn dein Zettelkasten weiter wächst, kann es unübersichtlich werden. Daher geht es nun darum, wie du dein Wissen in deinem Zettelkasten wiederfinden kannst, wenn er immer umfangreicher wird. Eine zentrale Anforderung an dein System ist die Wiederauffindbarkeit von Informationen.
 
-Herzlichen Glückwunsch, du hast es bis hierhin geschafft und bist sehr weit gekommen! Du besitzt nun die wichtigsten Grundlagen für dein persönliches Wissensmanagement, und zwar:
+Wiederauffindbarkeit bedeutet, dass man in der Lage ist, Informationen, die man einmal gespeichert hat, später wiederzufinden, wenn man sie benötigt. Im Gegensatz dazu steht die Informationsbeschaffung, bei der man weiß, dass die gesuchte Information in einem bestimmten Dokument vorhanden ist und dieses gezielt durchsucht werden muss. Ein wichtiger Aspekt beim Verlinken von Wissen ist die Möglichkeit, an Notizen anzuknüpfen, die zu dem Thema passen. Selbstredend geht das am leichtesten, wenn du dich erinnerst, dass du diese Information in deinem Zettelkasten hast. Andernfalls sind wir bereits im Thema, wie findest du Informationen wieder in deinem Zettelkasten?
 
-Eine wichtige Grundlage ist deine PKM-Umgebung. Hier findest du alle deine Informationen und Notizen. Du hast bereits verschiedene Arten von Notizen kennengelernt:
+Ein erfolgreiches Wissensmanagement sollte daher bottom-up Themen orientiert entstehen und Indexe, oder auch Map of Content Notizen, als Einstiegspunkte aufweisen. So kann man vermeiden, dass man sich beim Verzetteln in der Flut von Notizen verliert und stattdessen gezielt nach Informationen suchen kann, die man im Kopf hatte, es aber nicht mehr präzise benennen kann. Oder eben auch über Informationen "stolpert" die man "vergessen" hatte das sie im System sind.
 
-- flüchtige Notizen,
-- Literaturnotizen,
-- permanente Notizen und
-- den "map of contents"
+Faktoren, die die Wiederauffindbarkeit von Informationen beeinflussen, sind unter anderem die Struktur und Organisation der Notizen, die Verwendung von Schlagworten und Tags, die Möglichkeit der Volltextsuche und die Verwendung von Metadaten.
 
-Eine weitere wichtige Grundlage ist die Struktur einer Notiz. Durch einen konsistenten Aufbau kannst du dich schnell orientieren und Informationen besser erfassen und ergänzen. Ein einzigartiger Titel, am besten ein Sprechender Titel, und den Gedanken prägnant auf den Punkt zu bringen unterstützt dich in deiner Wissensarbeit. Metadaten helfen dir, um Informationen zu finden.
-
-Ein weiteres wichtiges Konzept ist das Verzetteln. Verknüpfe deine Gedanken und schaffe natürliche Einstiegspunkte in Themen. So entstehen Verbindungen zwischen verschiedenen Themen und es kann zu neuen Ideen und Ansätzen führen. Durch das Verlinken von relevanten Informationen erhöhst du die Auffindbarkeit und Merkfähigkeit.
-
-Hast du nocch offene Fragen?
-Bist du noch auf Kurs und hast dein Lernziel klar vor Augen oder hat sich dein Ziel verändert und sollte deshalb nachjustiers werden?
-
-Ausblick:
-- finden von Informationen,
-- Erstellen einer "Map of Content" und Denken im Zettelkasten,
-- einen Workflow etablieren, damit du dein Wissen auch zukünftig bestmöglich erweitern und nutzen kannst.
-
+Eine Möglichkeit der Wiederauffindbarkeit ist die Erstellung von Indexen bzw. einer MOC. Dabei werden große Anlaufpunkte definiert, von denen aus man auf detailliertere Informationen zugreifen kann. Eine weitere Möglichkeit ist die Verwendung von Tags, um Themenzugehörigkeiten schnell durchsehen zu können. Dabei sollten die TAGs aber eher sparsam verwendet werden, eine zu große Zahl an TAGs kann dazu führen, dass man den Wald vor lauter Bäumen nicht mehr sieht. Auch die TAGs sollten regelmäßig gepflegt werden, um nützlich zu bleiben. Eine Volltextsuche innerhalb der Notizen ermöglicht es, gezielt nach bestimmten Begriffen zu suchen. Durch die Verwendung von Metadaten, wie zum Beispiel Aliase, Autoren oder Buchtitel, lassen sich Notizen gezielt filtern und sortieren. Eine weitere Möglichkeit der Wiederauffindbarkeit ist die Verlinkung von Notizen untereinander. Dadurch kann man leicht von einem Thema zum nächsten übergehen und die Informationen thematisch zusammenhängend erfassen. Das was in der vorherigen Übung beim Verzetteln entsteht. Ein Gedankengang.
 
 ### Übungen
-- Passen deine aktuellen Ziele immer noch für dich und wie kannst du sicherstellen, dass du sie in den verbleibenden 5 Wochen erreichst?
-	- Wenn sie nicht mehr passen, ändere sie doch, so dass sie wieder für dich passen (Auch das ist möglich).
-- Notiere dir die drei grundsätzlichen Fragen die du im Hinblick auf den Zettelkasten hast.
-- Teile deinen Fortschritt deiner Ziele mit deinem Zirkel
-- Diskutiere deine Fragen in deinem Zirkel
+- Verwende Schlagworte und Tags: Versuche, die Notizen in deinem Zettelkasten mit Schlagworten und Tags zu versehen, um die Themenzugehörigkeit zu erleichtern.
+- Erstelle eine Übersicht über die Schlagworte und Tags, die du in deinem Zettelkasten verwendest, und überlege, wie du sie gezielt einsetzen kannst, um die Wiederauffindbarkeit von Informationen zu verbessern.
+- Probiere die Volltextsuche aus: Experimentiere mit der Volltextsuche innerhalb deines Zettelkastens, um gezielt nach bestimmten Begriffen suchen zu können.
+- Experimentiere wie du dich an einem Gedankengang entlanghangeln könntest um eine Information innerhalb des Strangs zu finden. Auch wenn du genau weißt wo die Information ist, wie würdest du dorthin navigieren wenn du nur wüsstest das sie _irgendwo_ in diesem Strang ist?
 
 ### Reflexionsteil
-- Fühlst du dich sicher im Umgang mit deinem Zettelkasten?
-- Fühlst du dich wohl mit deinem Ziel und der bisherigen Erreichung?
+- Welche Methoden und Tools nutze ich derzeit, um die Wiederauffindbarkeit von Informationen in meinem Zettelkasten zu verbessern?
+- Welche weiteren Möglichkeiten der Wiederauffindbarkeit, könnte ich in meinem Zettelkasten einsetzen?
+- analysiere deinen Zettelkasten im Hinblick, wie findest du deine Informationen
+	- Wie lange du brauchst, um eine Information zu finden?
+	- Welche Wege gehst du dabei?
+- Welche Gedanken hast du zu den oben genannten Informationen? Hast du sie Notiert?
+- Inwieweit nutzt du derzeit die Verlinkung von Notizen untereinander, um das Wissen in deinem Zettelkasten zugänglich zu machen?
+- Was sind deine aktuellen Herausforderungen bei der Wiederauffindbarkeit von Informationen in deinem Zettelkasten und wie kannst du diese lösen?
 
 ### Lernziel
-- Überprüfen, ob das eigene Ziel erreicht werden kann
-- Feststellen, welche Fragen offen sind im Hinblick auf den Zettelkasten
+- Verstehen wie über unterschiedliche Einstiegspunkte Informationen gefunden werden können.
+- Die Einstiegspunkte im eigenem Zettelkasten kennen

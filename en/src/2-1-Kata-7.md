@@ -1,50 +1,45 @@
-![Verlinkung von relevanten Informationen](images/woche6.png)
-## Woche 6 - Frittering
+![Stopp](images/Hand-Stopp.jpeg)
+
+Autor/in: Maksim Kostenko
+
+## Week 7 - Pit stop
+
 
 ### Theory
-We start at one thought and move sequentially from there to the next thought. In the end, we have come from one starting point to a completely different point by chaining.
 
-![Model of the thought chain with notes](images/thought-chain.png)
+Congratulations, you have made it this far and have come a long way! You now have the most important foundations for your personal knowledge management, namely:
 
-The same thing happens now with linking notes. A thought starts in a note, which leads to another thought (note), and on and on. This is a fundamental aspect of dovetailing, connecting information that has to do with each other.
+An important foundation is your PKM-environment. Here you will find all your information and notes. You have already learned about different types of notes:
 
-From this connecting of information, clusters of topics emerge. This is what is meant by bottom-up in this context. Areas/topics are not defined in advance, but the topics are formed by the accumulation of knowledge and networking with each other to form topic areas.
+- cursory notes,
+- literature notes,
+- permanent notes and
+- the "map of contents
 
-![Emergence of bottom-up topic clusters](images/bottom-up-example.png)
+Another important basis is the structure of a note. With a consistent structure, you can quickly orient yourself and better grasp and add information. A unique title, preferably a speaking title, and the thought succinctly to the point supports you in your knowledge work. Metadata helps you to find information.
 
-Thus, not only topic clusters but also natural entry points for topics are created by the divergence. Connections _grow_ between topics that were not known before. This can lead to new ideas or even completely new approaches: something new emerges. In this way, your knowledge connects in your own notebook just as it is laid out in the neuronal structure of your brain, and in the process it sinks in deeper and deeper.
+Another important concept is branching out. Link your thoughts and create natural entry points into topics. This creates connections between different topics and can lead to new ideas and approaches. By linking relevant information you increase findability and memorability.
 
-A piece of information is best found when there are many links on it. This is predetermined by the brain's system. You use this when you create your note. Therefore, linking relevant information increases the findability and memorability of the information. Note-taking is also important for this. It keeps the information in the Zettelkasten together and makes it accessible so that you can think and work with it on a deeper level (your long-term memory).
+Do you still have open questions?
+Are you still on track and have your learning goal clearly in mind or has your goal changed and should therefore be readjusted?
 
-The more notes you have in your box, the more important and clear it becomes. Even if you only have a few notes in your Zettelkasten, it's worth starting now so that it grows. This way you will save knowledge and deepen it at the same time.
+Outlook:
+- Finding information,
+- Create a "map of content" and think in a box of notes,
+- Establish a workflow so that you can expand and use your knowledge in the best possible way in the future.
+
 
 ### Exercises
-In the last kata, you already made notes more atomic, so now you can capture the idea of the note more quickly.
+- Do your current goals still fit for you and how can you make sure you achieve them in the remaining 5 weeks?
+	- If they no longer fit, change them so that they fit for you again (this is also possible).
+- Write down the three basic questions you have regarding the notebook.
+- Share your progress of your goals with your circle
+- Discuss your questions with your circle
 
-Go through the notes in your Zettelkasten and if you notice that two ideas belong together, can look out for each other, or are otherwise connected, link them together.
+### Reflection part
+- Do you feel confident using your slip box?
+- Do you feel comfortable with your goal and how you have achieved it so far?
 
-If questions come to mind as you read the note, look for answers in your Zettelkasten and link them if you find notes that match.
-
-Break down other notes into smaller components (keyword atomicity, from week 6), linking them as you go, as soon as you get the impression that they should be related.
-
-You can also create direct links to other notes that you know are related when adding permanent notes.
-
-You can put the link in the Footer^[The bottom area of a note] area, or you can link inline^[Insert directly into the text or sentence].
-
-And keep in mind, a link is not only to the same topics, but can also be a completely new link, just the one you see.
-You could also create a new note explaining for yourself why you see a connection between the two notes. The following image illustrates this.
-![erklärende Notiz zwischen zwei Notizen](images/erklaerende-Notiz-zwischen-zwei-Notizen.png)
-
-Note: If you are working a lot and intensively on a topic, it might make sense to set up an additional time per week where you only focus on linking ideas to each other. Tags like they exist in Obisidian can be helpful to link not yet linked notes.
-
-### Reflection section
-- Would you do things differently the next time you get bogged down?
-	- What do you like about what you've done so far?
-	- What would you do differently next time?
-	- What would help you do that?
-- Are you satisfied with the result?
-
-
-### Learning goal
-- You have received new associations and made connections
-- You have formed new topic clusters
+### Learning objective
+- Check whether your own goal can be achieved
+- Determine which questions are open with regard to the slip box

@@ -1,52 +1,45 @@
-![Verlinkung von relevanten Informationen](images/woche6.png)
+![Stopp](images/Hand-Stopp.jpeg)
 
-## Woche 6 - Verzetteln
+Autor/in: Maksim Kostenko
+
+## Woche 7 - Boxenstop
+
 
 ### Theorie
-Wir starten bei einem Gedanken und kommen von dort sequenziell zu einem nächsten Gedanken. Am Ende sind wir durch eine Verkettung von einem Startpunkt zu einem ganz anderem Punkt gekommen.
 
-![Modells des Gedankengangs mit Notizen](images/thought-chain.png)
+Herzlichen Glückwunsch, du hast es bis hierhin geschafft und bist sehr weit gekommen! Du besitzt nun die wichtigsten Grundlagen für dein persönliches Wissensmanagement, und zwar:
 
-Das Gleiche passiert nun auch mit dem Verlinken von Notizen. Ein Gedanke startet in einer Notiz, die zu einem weiteren Gedanken (Notiz) führt, und immer weiter. Das ist ein grundlegender Aspekt des Verzettelns, das Verbinden von Informationen die miteinander zu tun haben.
+Eine wichtige Grundlage ist deine PKM-Umgebung. Hier findest du alle deine Informationen und Notizen. Du hast bereits verschiedene Arten von Notizen kennengelernt:
 
-Aus diesem Verbinden der Informationen entstehen Themen-Cluster. Das ist es, was man in diesem Zusammenhang unter Bottom-Up versteht. Es werden nicht im Vorfeld Bereiche/Themen definiert, sondern die Themen bilden sich durch das Ansammeln von Wissen und Vernetzen miteinander zu Themen-Bereichen.
+- flüchtige Notizen,
+- Literaturnotizen,
+- permanente Notizen und
+- den "map of contents"
 
-![Entstehung von Themen-Clustern bottom-up](images/bottom-up-example.png)
+Eine weitere wichtige Grundlage ist die Struktur einer Notiz. Durch einen konsistenten Aufbau kannst du dich schnell orientieren und Informationen besser erfassen und ergänzen. Ein einzigartiger Titel, am besten ein Sprechender Titel, und den Gedanken prägnant auf den Punkt zu bringen unterstützt dich in deiner Wissensarbeit. Metadaten helfen dir, um Informationen zu finden.
 
-So entstehen durch das Verzetteln nicht nur Themen-Cluster, sondern auch natürliche Einstiegspunkte für Themen. Es _wachsen_ Verbindungen zwischen Themen, die so vorher noch nicht bekannt waren. Daraus können neue Ideen entstehen oder gar völlig neue Ansätze: etwas Neues entsteht dabei. Auf diese Weise verbindet dein Wissen sich in deinem eigenen Zettelkasten ganz so, wie es in der neuronalen Struktur deines Gehirns angelegt ist und dabei sinkt es immer tiefer ein.
+Ein weiteres wichtiges Konzept ist das Verzetteln. Verknüpfe deine Gedanken und schaffe natürliche Einstiegspunkte in Themen. So entstehen Verbindungen zwischen verschiedenen Themen und es kann zu neuen Ideen und Ansätzen führen. Durch das Verlinken von relevanten Informationen erhöhst du die Auffindbarkeit und Merkfähigkeit.
 
-Eine Information wird am besten gefunden, wenn viele Verlinkungen auf ihr sind. Das ist durch das System des Gehirns so vorgegeben. Dies nutzt du beim Anlegen deiner Notiz. Daher wird mit dem Verlinken von relevanten Informationen die Auffindbarkeit und die Merkfähigkeit der Information gesteigert. Auch dafür ist das Verzetteln wichtig. Es hält die Informationen im Zettelkasten nämlich zusammen und macht sie so erreichbar, dass du damit auf einer tieferen Ebene (deines Langzeitgesdächtnisses) damit denken und arbeiten kannst.
+Hast du nocch offene Fragen?
+Bist du noch auf Kurs und hast dein Lernziel klar vor Augen oder hat sich dein Ziel verändert und sollte deshalb nachjustiers werden?
 
-Das Verzetteln wird umso wichtiger und klarer, desto mehr Notizen in deinem Zettelkasten sind. Auch wenn du erst wenige Notizen in deinem Zettelkasten hast, lohnt es sich jetzt damit anzufangen, damit er wächst. Dadurch speicherst du den Wissen und vertiefst et gleichzeitig.
+Ausblick:
+- finden von Informationen,
+- Erstellen einer "Map of Content" und Denken im Zettelkasten,
+- einen Workflow etablieren, damit du dein Wissen auch zukünftig bestmöglich erweitern und nutzen kannst.
+
 
 ### Übungen
-In der letzten Kata hast du bereits Notizen atomarer gemacht, so dass du den Gedanken der Notiz nun schneller erfassen kannst.
-
-Geh durch die Notizen in deinem Zettelkasten und wenn dir auffällt, dass zwei Ideen zusammengehören, aufeinander aufpassen können oder in sonst einer Verbindung zueinander stehen, verlinke sie miteinander.
-
-Wenn dir beim Lesen der Notiz Fragen in den Sinn kommen, such nach Antworten in deinem Zettelkasten und verlinke diese, wenn du passende Notizen dazu findest.
-
-Zerlege weitere Notizen in kleinere Bestandteile (Stichwort Atomarität, von Woche 6) und verlinke sie dabei, sobald du den Eindruck bekommst, dass sie in einer Beziehung zueinander stehen sollten.
-
-Du kannst auch beim Einpflegen permanenter Notizen direkt Links zu anderen Notizen erstellen bei denen du weißt, dass eine Beziehung zueinander besteht.
-
-Du kannst den Link in den Footer^[Der unterste Bereich einer Notiz] Bereich setzen oder auch inline^[Direkt in den Text bzw. Satz einbauen] verlinken.
-
-Und behalte dabei im Hinterkopf, eine Verbindung besteht nicht nur zu denselben Themen, sondern kann auch eine völlig neue Verbindung sein, eben jene, die du siehst.
-Du könntest auch eine neue Notiz erstellen, in der du für dich erläuterst, warum du eine Verbindung zwischen den beiden Notizen siehst. Das folgende Bild verdeutlicht dies.
-![erklärende Notiz zwischen zwei Notizen](images/erklaerende-Notiz-zwischen-zwei-Notizen.png)
-
-Anmk.: Falls du sehr viel verzettelst und intensiv an einem Thema arbeitest kann es Sinn machen dir einen zusätzlichen Termin pro Woche einzurichten bei dem du dich nur um das Verlinken von Ideen untereinander konzentrierst. Tags wie es sie in Obisidian gibt können hierbei hilfreich sein noch nicht verlinkte Notizen zu verlinken.
-
+- Passen deine aktuellen Ziele immer noch für dich und wie kannst du sicherstellen, dass du sie in den verbleibenden 5 Wochen erreichst?
+	- Wenn sie nicht mehr passen, ändere sie doch, so dass sie wieder für dich passen (Auch das ist möglich).
+- Notiere dir die drei grundsätzlichen Fragen die du im Hinblick auf den Zettelkasten hast.
+- Teile deinen Fortschritt deiner Ziele mit deinem Zirkel
+- Diskutiere deine Fragen in deinem Zirkel
 
 ### Reflexionsteil
-- Würdest du beim nächsten Verzetteln anders vorgehen?
-	- Was gefällt dir an deinem bisherigen Vorgehen?
-	- Was würdest du beim nächsten Mal anders machen?
-	- Was würde dir dabei helfen?
-- Bist du mit dem Ergebnis zufrieden?
-
+- Fühlst du dich sicher im Umgang mit deinem Zettelkasten?
+- Fühlst du dich wohl mit deinem Ziel und der bisherigen Erreichung?
 
 ### Lernziel
-- Du hast neue Assoziationen erhalten und Verbindungen geknüpft
-- Du hast neue Themen-Cluster gebildet
+- Überprüfen, ob das eigene Ziel erreicht werden kann
+- Feststellen, welche Fragen offen sind im Hinblick auf den Zettelkasten

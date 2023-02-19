@@ -1,87 +1,49 @@
-![Wählen eines Programms für die PKM-Umgebung](images/woche2.png)
-## Week 2 - PKM Environment Setup
+![Flüchtige Notizen](images/woche4.png)
+
+## Week 4 - Create first notes
 
 ### Theory
 
-When it comes to organizing your personal knowledge management, choosing the right program can be helpful. A good program will give you the ability to store your notes in one place and ensure that you have access to the information you need at any time.
+Successful personal knowledge management in the notebook requires regular work. By taking time to regularly create and process notes, you can continuously increase your knowledge. Often it is enough to create a few, but regular notes. Every note, every linking of notes, and the thoughts that arise from them contribute to the increase of your knowledge. It is important to understand that knowledge management is a marathon and not a sprint, so you should also take time to take small steps.
 
-There are many different programs on the market that focus on different ways of working and personal preferences. It may be wise to take the time to look into different programs to find the one that best fits your needs.
+To make note-taking easier and more energy-efficient, it's helpful to establish routines. You can do this, for example, by setting specific days or times when you create and process notes.
 
-It is important that your knowledge is stored in a format that considers future viability. However, it is important to remember that programs can change over time and it may be necessary to choose a different program.
+Fleeting notes, such as those created during a meeting or lecture, should be processed as quickly as possible to help you remember them later. The shorter the interval between the creation of the note and its processing, the better you can remember it later.
 
-It is important to note that your choice of program is not set in stone and you have the ability to change your decision at any time. To help you with your decision, we have created a questionnaire to give you a start. However, it is important to note that this is only a guide and it is not the only option.
-
-There are also programs like OneNote and Evernote that may not be for everyone, depending on what features and requirements you have. It's important to review the different options and choose the program that best fits your needs.
+To create your first note in the note box, you can use the information from Week 3 (Getting to Know Notes). The topic of your first note is not that important, it should just be something that interests you but is not so important that it paralyzes you. It's perfectly fine to create multiple notes and link them - try it out and see how it works for you.
 
 
-#### Questionnaire to choose a program
-You can use the questionnaire to support your choice for a tool:
+#### Tip
+If you're unsure about what information to include in your Zettelkasten, you can check the information against the following criteria:
+- the information speaks to me
+- the information makes me think
+- I need the information for a topic I am working on.
+If necessary, look again at _week 3 - Getting to Know Notes_.
 
-1. what kind of data do you want to store and organize (e.g. texts, images, audio files)?
-	1. i want to store and organize mainly text files. (A)
-	2. i want to store and organize mainly text files and images. (B)
-	3. i want to store and organize mainly text files, images and audio files. (C)
-2. Which features do you need (e.g. branch structure, version history, markdown support)?
-	1. i need branch structure and version history. (A)
-	2. i need branch structure, version history and markdown support. (B)
-	3. i need a branch structure, version history, markdown support and the ability to view multiple branches at once. (C)
-3. How important is the ability to access your data from anywhere?
-	1. It is very important to me to be able to access my data from anywhere. (A)
-	2. it is important to me to be able to access my data from anywhere, but it is not the most important feature for me. (B)
-	3. It is not that important to me to be able to access my data from anywhere. (C)
-4. How important is the ability to collaborate with others to you?
-	1. it is very important to me to be able to collaborate with other people. (B)
-	2. it is important to me to be able to collaborate with other people, but it is not the most important feature for me. (A, C)
-	3. it is not so important for me to be able to cooperate with other people. (A, B, C)
-5. How important is the ability to export and backup your data to you?
-	1. it is very important to me to be able to export and backup my data. (A, B, C)
-	2. it is important to me to be able to export and backup my data, but it is not the most important feature for me. (A, B, C)
-	3. it is not so important for me to be able to export and save my data. (A, B, C)
-6. How important is the customizability and extensibility of the software to you?
-	1. it is very important to me that the software is customizable and extensible. (B,C)
-	2. it is important to me that the software is customizable and extensible, but it is not the most important feature for me. (A)
-	3. it is not so important to me that the software is customizable and extensible. (A, B)
-7. What platforms does the software support (e.g., Windows, Mac, Linux, iOS, Android)?
-	1. I need the software on Windows and Mac. (A, B, C)
-	2. i need the software on Windows, Mac and Linux. (A, B, C)
-	3. i need the software on Windows, Mac, Linux, iOS and Android. (A, B, C)
-8. what pricing and subscription models does the software offer?
-	1. I am willing to pay for the software and agree to a subscription model. (A, B, C)
-	2. I am willing to pay for the software, but I prefer a one-time purchase model. (A, B, C)
-	3. I am not willing to pay for the software and am looking for a free alternative. (A, B, C)
-9. what kind of visualizations and diagrams do you need?
-	1. I need the ability to visualize my data in mind-map form and graph-based charts. (A)
-	2. i need the ability to present my data in mind-map form, graph-based diagrams, and other types of diagrams and visualizations. (B)
-	3. I do not need special features for visualization and diagrams. (C)
+#### Tip 2
+To create links in Mark-Down just put \[\[ \]\] around the note name and it becomes a link.
 
-Count the letters together. Depending on which letter you have the most choices, A: Roam, B: Obsidian, C: Logseq could be the most suitable for you.
-
-This questionnaire is only a help and there is no guarantee that one of the above tools is the best for you. It is recommended to test the tools yourself to make sure it meets your requirements.
-(And they are not the only tools, they are only common tools)
-
-If it is not possible for you to use a program optimized for knowledge management, e.g. due to restrictions of company IT policies, you can also start with OneNote. In the appendix (Guide to implement PKM with OneNote) you will find some notes. Also how to switch from a proprietary format to Mark-Down.
-
-##### Links to common PKM programs
-- Obsidian^[http://obsidian.md]
-- Logseq^[https://logseq.com/]
-- Roam^[https://roamresearch.com]
-
-If Markdown is foreign to you, and you want to use it in your Zettelkasten, check out the attachment. There is a crash course there. (In principle three characters are enough to use it)
+![Create links](images/links-erstellen.png)
 
 
 ### Exercises
-- Choose a program, either with the help of the questionnaire or otherwise
-- Install your chosen program
-- Familiarize yourself with the program
-- Create a note
-	- Title: Hello world
-	- Text: My first note
+- Create note(s)
+	- Read an article/book/topic that you are currently interested in and create note(s) from it.
+- Optional: set a rule date that goes beyond the sprint to process your cursory notes at a set time.
+	- In addition to the sprint deadline, you can create another deadline for your Zettelkasten.
 
-### Reflection section
-1. what aspects are most important to you when choosing a program for personal knowledge management?
-2. what kinds of notes do you take most often and what features would you need in a program to organize them?
-3. how do you deal with the possibility that programs will change and possibly disappear from the market?
+
+### Reflection part
+- In the circle, discuss the experience and the outcome (not the content of the note)
+- What interested you most in reading the article/book/topic and why?
+- From the material you read, what information/thoughts did you think were important enough to record in a note?
+- What were the challenges in creating the note(s) and how did you overcome them?
+- How did you process your cursory notes and how did it help you remember them?
+- How did setting regular appointments for processing notes help you? What were the benefits and challenges of doing this?
+- What insights did you gain about your habits, functioning, and learning needs after doing this task?
+
 
 ### Learning Objective
-- You have installed and set up your Zettelkasten environment
-- You have become aware of what is important to you for your box work.
+- You can create a note in your notebook that will still be understandable to you 10 years from now.
+- You are now committed to meeting your rule deadlines.
+- You regularly file notes in your note box.

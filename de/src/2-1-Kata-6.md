@@ -1,40 +1,52 @@
-![Länge der Notiz](images/woche5.png)
+![Verlinkung von relevanten Informationen](images/woche6.png)
 
-## Woche 5 - dauerhafte Notizen erstellen
+## Woche 6 - Verzetteln
 
 ### Theorie
-Um dein persönliches Wissensmanagement effektiv zu gestalten, solltest du dich mit dem Begriff Atomarität vertraut machen:
+Wir starten bei einem Gedanken und kommen von dort sequenziell zu einem nächsten Gedanken. Am Ende sind wir durch eine Verkettung von einem Startpunkt zu einem ganz anderem Punkt gekommen.
 
-Atomarität bedeutet, dass jede Notiz sich auf genau eine Idee bezieht. Diese Idee sollte elementar und auf den Punkt gebracht sein, ohne Prosa oder unnötige Details. Durch die atomare Struktur der Notizen, lassen sich aus vielen kleinen Bausteinen große Ideen oder abstrakte Betrachtungen erstellen, oder auch Gedankengänge miteinander verbinden.
+![Modells des Gedankengangs mit Notizen](images/thought-chain.png)
 
-Ein wichtiger Bestandteil einer Notiz ist der Titel. Dieser sollte einzigartig sein und möglichst sprechend gestaltet werden. Auf diese Weise kann bereits am Titel erkannt werden, worum es in der Notiz geht und ob sie für das aktuelle Projekt von Nutzen sein kann. Es empfiehlt sich, die Länge des Titels auf ~20 Wörter^[256 Zeichen inklusive Dateipfad] zu beschränken.
+Das Gleiche passiert nun auch mit dem Verlinken von Notizen. Ein Gedanke startet in einer Notiz, die zu einem weiteren Gedanken (Notiz) führt, und immer weiter. Das ist ein grundlegender Aspekt des Verzettelns, das Verbinden von Informationen die miteinander zu tun haben.
 
-In Bezug auf die Länge der Notiz, sollte der Text kurz gehalten werden, um den Gedanken schnell erfassen zu können. Als Richtwert kann man sich an 450 Wörtern oder einer DINA 6 Seite orientieren.
+Aus diesem Verbinden der Informationen entstehen Themen-Cluster. Das ist es, was man in diesem Zusammenhang unter Bottom-Up versteht. Es werden nicht im Vorfeld Bereiche/Themen definiert, sondern die Themen bilden sich durch das Ansammeln von Wissen und Vernetzen miteinander zu Themen-Bereichen.
 
-Zusammengefasst, Notizen im Zettelkasten-Stil effektiv zu erstellen erfordert:
+![Entstehung von Themen-Clustern bottom-up](images/bottom-up-example.png)
 
-- Atomarität: jede Notiz sollte sich auf eine elementare Idee beziehen, ohne Prosa oder unnötige Details.
-- Einzigartiger, sprechender Titel: der Titel sollte die Idee der Notiz auf den Punkt bringen und möglichst auf 20 Wörter beschränkt werden.
-- Kurze Textlänge: Der Text sollte kurz gehalten werden, um den Gedanken schnell erfassen zu können, Richtwert sind 450 Wörter oder eine DINA 6 Seite.
+So entstehen durch das Verzetteln nicht nur Themen-Cluster, sondern auch natürliche Einstiegspunkte für Themen. Es _wachsen_ Verbindungen zwischen Themen, die so vorher noch nicht bekannt waren. Daraus können neue Ideen entstehen oder gar völlig neue Ansätze: etwas Neues entsteht dabei. Auf diese Weise verbindet dein Wissen sich in deinem eigenen Zettelkasten ganz so, wie es in der neuronalen Struktur deines Gehirns angelegt ist und dabei sinkt es immer tiefer ein.
 
+Eine Information wird am besten gefunden, wenn viele Verlinkungen auf ihr sind. Das ist durch das System des Gehirns so vorgegeben. Dies nutzt du beim Anlegen deiner Notiz. Daher wird mit dem Verlinken von relevanten Informationen die Auffindbarkeit und die Merkfähigkeit der Information gesteigert. Auch dafür ist das Verzetteln wichtig. Es hält die Informationen im Zettelkasten nämlich zusammen und macht sie so erreichbar, dass du damit auf einer tieferen Ebene (deines Langzeitgesdächtnisses) damit denken und arbeiten kannst.
+
+Das Verzetteln wird umso wichtiger und klarer, desto mehr Notizen in deinem Zettelkasten sind. Auch wenn du erst wenige Notizen in deinem Zettelkasten hast, lohnt es sich jetzt damit anzufangen, damit er wächst. Dadurch speicherst du den Wissen und vertiefst et gleichzeitig.
 
 ### Übungen
-- Hast du einen Zettel, der die drei oben genannten Kriterien nicht erfüllt?
-- Schreibe den Zettel um,
-	- Teile ihn in mehrere Zettel wenn nötig, pro Zettel eine Idee
-	- Streiche unnötigen Text (Prosa)
-	- Mache den Titel kurz und aussagekräftig so dass er die Idee direkt wiedergibt.
-		- Kannst du ihn als Satz direkt in einem Text verwenden?
+In der letzten Kata hast du bereits Notizen atomarer gemacht, so dass du den Gedanken der Notiz nun schneller erfassen kannst.
+
+Geh durch die Notizen in deinem Zettelkasten und wenn dir auffällt, dass zwei Ideen zusammengehören, aufeinander aufpassen können oder in sonst einer Verbindung zueinander stehen, verlinke sie miteinander.
+
+Wenn dir beim Lesen der Notiz Fragen in den Sinn kommen, such nach Antworten in deinem Zettelkasten und verlinke diese, wenn du passende Notizen dazu findest.
+
+Zerlege weitere Notizen in kleinere Bestandteile (Stichwort Atomarität, von Woche 6) und verlinke sie dabei, sobald du den Eindruck bekommst, dass sie in einer Beziehung zueinander stehen sollten.
+
+Du kannst auch beim Einpflegen permanenter Notizen direkt Links zu anderen Notizen erstellen bei denen du weißt, dass eine Beziehung zueinander besteht.
+
+Du kannst den Link in den Footer^[Der unterste Bereich einer Notiz] Bereich setzen oder auch inline^[Direkt in den Text bzw. Satz einbauen] verlinken.
+
+Und behalte dabei im Hinterkopf, eine Verbindung besteht nicht nur zu denselben Themen, sondern kann auch eine völlig neue Verbindung sein, eben jene, die du siehst.
+Du könntest auch eine neue Notiz erstellen, in der du für dich erläuterst, warum du eine Verbindung zwischen den beiden Notizen siehst. Das folgende Bild verdeutlicht dies.
+![erklärende Notiz zwischen zwei Notizen](images/erklaerende-Notiz-zwischen-zwei-Notizen.png)
+
+Anmk.: Falls du sehr viel verzettelst und intensiv an einem Thema arbeitest kann es Sinn machen dir einen zusätzlichen Termin pro Woche einzurichten bei dem du dich nur um das Verlinken von Ideen untereinander konzentrierst. Tags wie es sie in Obisidian gibt können hierbei hilfreich sein noch nicht verlinkte Notizen zu verlinken.
+
 
 ### Reflexionsteil
-Was ist der Nutzen von sprechenden Titeln?
-- Wie kann man sicherstellen, dass eine Notiz sich tatsächlich auf eine einzelne Idee bezieht?
-- Wie kann man den Titel einer Notiz so gestalten, dass er möglichst aussagekräftig ist und einen schnellen Überblick über den Inhalt der Notiz gibt?
-- Wie kann man sicherstellen, dass die Länge einer Notiz angemessen ist und den Gedanken schnell erfassen lässt?
-- Inwieweit hilft es beim Wissensmanagement, Notizen in atomare Einheiten zu gliedern?
-- Wie geht man vor, wenn man auf eine Notiz stößt, die sich nicht an die Kriterien hält? Welche Schritte sind notwendig, um sie anzupassen?
-- Inwieweit ist es förderlich, die Titel der Notizen als Satz aufzubauen und wie kann man das umsetzen?
+- Würdest du beim nächsten Verzetteln anders vorgehen?
+	- Was gefällt dir an deinem bisherigen Vorgehen?
+	- Was würdest du beim nächsten Mal anders machen?
+	- Was würde dir dabei helfen?
+- Bist du mit dem Ergebnis zufrieden?
+
 
 ### Lernziel
-- eine Notiz auf eine einzelne Idee reduzieren.
-- Notizen kurz und essential halten, um das Wissen schnell abrufen zu können.
+- Du hast neue Assoziationen erhalten und Verbindungen geknüpft
+- Du hast neue Themen-Cluster gebildet

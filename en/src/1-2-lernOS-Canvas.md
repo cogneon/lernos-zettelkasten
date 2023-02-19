@@ -11,7 +11,7 @@ Du kannst es zum Beispiel auch für die parallele Bearbeitung mehrerer Bereiche 
 
 Alex Osterwalder hatte als erster die Idee für einen lernOS Canvas. Er entwickelte auch den [Business Model Canvas (https://en.wikipedia.org/wiki/Business_Model_Canvas), den man für die Erarbeitung von Geschäftsmodellen nutzt.
 Beide folgend derselben Grundstruktur und sollten von dir zunächst als Einstieg ausgefüllt werden. Auf diese Weise bekommst du einen passenden Überblick.
-Der [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/master/en/src/images/lernOS-Canvas-for-you-Canvas-de.png)
+Der [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/main/en/src/images/lernOS-Canvas-for-you-Canvas-de.png) 
 **ProTip:** Sei flexibel und arbeite mit Haftnotizen, die du jederzeit nach Bedarf verwenden kannst.
 
 ![lernOS Canvas](images/lernOS-Canvas-for-you-Canvas-de.png)

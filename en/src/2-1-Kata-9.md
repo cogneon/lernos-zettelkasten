@@ -1,33 +1,49 @@
-![Wiederauffindbarkeit des Wissens](images/woche8.png)
+![Kompass](images/woche9.png)
+## Week 9 - MOC in 3 stages
 
-## Week 8 - Knowledge retrieval
 ### Theory
-You have now already created some notes in your note box. But your notes are still easy to keep track of. However, if your note box continues to grow, it may start to become confusing. Therefore, it is now a question of how you can find your knowledge in your note box again, if it becomes more and more extensive. An important requirement of your system is the retrievability of information.
+You may be wondering, what is a MOC and why do you need MOCs in your Zettelkasten? MOCs are entry points to larger subject areas. They are a map to your knowledge with which you can safely orient yourself within a topic area. They allow you to get a quick overview without having to read all the details again. If necessary, you can of course read deeper into the details. As I said, you can get an overview of a topic with a lot of notes by using a MOC and you can also elaborate it more. Think of a MOC as a room where all the notes on a topic can exist without you having to combine them directly in a meaningful way, but you could. You can just create a room in your Zettelkasten that contains all the notes on a topic and you don't have a compulsion to link them directly now in a logical and sequential way. They may all be in there.
 
-Retrievability means being able to find information you once stored later when you need it. This contrasts with information retrieval, where you know the information you are looking for is in a specific document and you have to search that document specifically. An important aspect of linking knowledge is the ability to link to notes that fit the topic. Of course, this is most easily done if you remember that you have that information in your Zettelkasten. Otherwise, we are already in the topic, how do you find information back in your note box?
+Now you may ask yourself, when should you create a MOC? You should create a MOC when you have the feeling to lose the overview of a topic. Then it is really high time. An indication could also be if you keep looking for information, but can't find it directly.
 
-Successful knowledge management should therefore originate bottom-up topic oriented and have indexes, or map of content notes, as entry points. This way, you can avoid getting lost in the flood of notes and instead search specifically for information that you had in your head but can no longer name precisely. Or even "stumbles" across information that you had "forgotten" was in the system.
 
-Factors that influence the retrievability of information include the structure and organization of the notes, the use of keywords and tags, the possibility of full-text search, and the use of metadata.
+1. get all notes about the topic into a new note
+2. weigh the notes against each other, work out thoughts, divide, structure. This is where new insights emerge because you are intensely engaged with your thoughts. This process can take several days. You create an overview of the topic based on your notes.
+3. Link the MOC in the system and ensure findability
 
-One way to improve retrievability is to create indexes or a Map of Content (MOC). This defines major points of contact from which more detailed information can be accessed. Another option is the use of tags to quickly browse topic affiliations. However, the TAGs should be used rather sparingly, too many TAGs can lead to not seeing the forest for the trees. TAGs should also be maintained regularly to remain useful. A full-text search within the notes makes it possible to search specifically for certain terms. By using metadata, such as aliases, authors or book titles, notes can be filtered and sorted specifically. Another way to make notes retrievable is to link them to each other. This makes it easy to move from one topic to the next and keep the information thematically coherent. What emerges in the previous exercise when you get bogged down. Train of thought.
 
-### Exercise
-- Use keywords and tags: Try to add keywords and tags to the notes in your Zettelkasten to make it easier to identify topics.
-- Create an overview of the keywords and tags you use in your Zettelkasten and think about how you can target them to improve information retrieval.
-- Try out full-text search: Experiment with full-text search within your Zettelkasten to target specific terms.
-- Experiment with how you might navigate along a thread to find information within the thread. Even if you know exactly where the information is, how would you navigate to it if you only knew it was _somewhere_ in the thread?
+Keep in mind that MOCs will continue to evolve, they are not static. As your knowledge grows the time will come to update a MOC. The notes will be weighed against each other again. A MOC can in turn contain several MOCs and thus a whole hierarchy of MOCs on a topic can emerge.
+
+Here again the most important points to MOCs
+- offers entry points to larger topics and helps to get an overview and to work out topics with many notes.
+- Should be created when there is a feeling of losing track of a topic.
+- MOCs can evolve
+- a MOC can contain several MOCs.
+
+
+### Exercises
+- Choose a topic for which you want to create a MOC.
+	- It makes sense to choose a topic for which you have several notes in your Zettelkasten.
+- Gather all your notes on that topic into a new note.
+- Go through all the notes and weigh them against each other. Revise them, reducing them to single ideas and removing unnecessary information.
+- Create a subdividing structure from the remaining notes.
+	- (optional) write an overview of the topic.
+- Connect your new MOC to the rest of the note system by tagging it appropriately.
+- Make sure the MOC is easy to find by choosing a meaningful title and adding relevant keywords.
+- (Optional) Consider whether it is possible to further subdivide the topic and if so create appropriate sub-MOCs.
+
+Hints:
+- The process can take a lot of time
+- It is not necessary to structure the notes hierarchically, experiment with different structures to find the best one for the topic.
+- It is recommended to practice creating a MOC regularly.
 
 ### Reflection section
-- What methods and tools do I currently use to improve the retrievability of information in my Zettelkasten?
-- What other ways of improving retrievability, could I use in my Zettelkasten?
-- Analyze your box in terms of how do you find your information?
-	- How long does it take you to find information?
-	- What paths do you take?
-- What thoughts do you have about the above information? Have you written them down?
-- To what extent do you currently use linking notes to each other to make the knowledge in your Zettelkasten accessible?
-- What are your current challenges with retrieving information in your Zettelkasten and how can you solve them?
+- How did creating the MOC impact my understanding of the topic and what insights did I gain through the process?
+- What were the biggest challenges in collecting my notes on the topic?
+- What type of structure did I choose for my MOC and why?
+- What can I do to ensure that my MOC is easily findable?
+- How often should I update my MOC and why?
+- How can I improve the creation of MOCs in the future? What methods or tools would I like to try?
 
 ### Learning Objective
-- Understand how different entry points can be used to find information.
-- Know the entry points in your own note box.
+You understand the process for creating a MOC and have put it into practice.

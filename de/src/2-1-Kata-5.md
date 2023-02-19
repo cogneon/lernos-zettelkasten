@@ -1,51 +1,40 @@
+![Länge der Notiz](images/woche5.png)
 
-![Flüchtige Notizen](images/woche4.png)
-
-## Woche 4 - Erste Notizen erstellen
+## Woche 5 - dauerhafte Notizen erstellen
 
 ### Theorie
+Um dein persönliches Wissensmanagement effektiv zu gestalten, solltest du dich mit dem Begriff Atomarität vertraut machen:
 
-Ein erfolgreiches persönliches Wissensmanagement im Zettelkasten ist kein Sprint sondern ein Marathon. Nimm dir deshalb Zeit, um regelmäßig Notizen anzulegen und zu verarbeiten. Jede Notiz, jede Verlinkung von Notizen und die dabei entstehenden Gedanken helfen dir dabei die  Zettelkasten-Methode zu verinnerlichen.
+Atomarität bedeutet, dass jede Notiz sich auf genau eine Idee bezieht. Diese Idee sollte elementar und auf den Punkt gebracht sein, ohne Prosa oder unnötige Details. Durch die atomare Struktur der Notizen, lassen sich aus vielen kleinen Bausteinen große Ideen oder abstrakte Betrachtungen erstellen, oder auch Gedankengänge miteinander verbinden.
 
-Um das Anlegen und Verarbeiten von Notizen einfacher und energieeffizienter zu gestalten, solltest du Routinen aufbauen.  Am besten du trägst Zeiten in deinem Kalender ein, an denen du Notizen erstellst und verarbeitest.
+Ein wichtiger Bestandteil einer Notiz ist der Titel. Dieser sollte einzigartig sein und möglichst sprechend gestaltet werden. Auf diese Weise kann bereits am Titel erkannt werden, worum es in der Notiz geht und ob sie für das aktuelle Projekt von Nutzen sein kann. Es empfiehlt sich, die Länge des Titels auf ~20 Wörter^[256 Zeichen inklusive Dateipfad] zu beschränken.
 
-Flüchtige Notizen, (z.B aus Meetings oder Vorlesung), solltest du zeitnah verarbeiten, um dich später besser daran erinnern zu können. Je kürzer der Abstand zwischen dem Entstehen der flüchtigen Notiz und ihrer Verarbeitung ist, desto besser kannst du dich noch an den Kontext beim Notieren der flüchtigen Notiz erinnern und in eine permanente Notiz schreiben.
+In Bezug auf die Länge der Notiz, sollte der Text kurz gehalten werden, um den Gedanken schnell erfassen zu können. Als Richtwert kann man sich an 450 Wörtern oder einer DINA 6 Seite orientieren.
 
-Um deine erste Notiz im Zettelkasten anzulegen, kannst du die Informationen aus Woche 3 (Notizen kennenlernen) nutzen. Das Thema deiner ersten Notiz ist dabei nicht so wichtig, es sollte einfach etwas sein, das dich interessiert, aber nicht so wichtig ist, dass es dich lähmt. Du kannst alle deine Gedanken in eine Notiz schreiben oder für jeden Gedanken eine einzelne Notiz anlegen. In der nächsten Woche (Woche 6) werden wir dieses Thema noch mal geziehl aufgreifen.
+Zusammengefasst, Notizen im Zettelkasten-Stil effektiv zu erstellen erfordert:
 
-
-#### Tipp
-Wenn du dir unsicher bist, welche Informationen du in deinen Zettelkasten mit aufnehmen solltest, kannst du die Information auf folgende Kriterien hin prüfen: die Information,
-- spricht mich an
-- macht mich nachdenklich
-- brauche ich für ein Thema, an dem ich arbeite.
-Schau bei Bedarf noch einmal in die Kata  _Woche 3 - Notizen kennenlernen_ rein.
-
-
-#### Tipp 2
-Um in Mark-Down Links zu erstellen einfach \[\[ \]\] um den Notiznamen setzen und es wird daraus ein Link.
-
-![Links erstellen](images/links-erstellen.png)
+- Atomarität: jede Notiz sollte sich auf eine elementare Idee beziehen, ohne Prosa oder unnötige Details.
+- Einzigartiger, sprechender Titel: der Titel sollte die Idee der Notiz auf den Punkt bringen und möglichst auf 20 Wörter beschränkt werden.
+- Kurze Textlänge: Der Text sollte kurz gehalten werden, um den Gedanken schnell erfassen zu können, Richtwert sind 450 Wörter oder eine DINA 6 Seite.
 
 
 ### Übungen
-- Notiz(en) erstellen
-	- Lies einen Artikel/Buch/Thema, das dich interessiert und erstelle daraus Notiz(en)
-- Optional: Setze dir einen Regeltermin, der über den Sprint hinausgeht, um zu einem festgelegten Zeitpunkt deine flüchtigen Notizen zu verarbeiten.
-	- zusätzlich zum Regeltermin für den Sprint kannst du einen weiteren Termin für deinen Zettelkasten ins Leben rufen
-
+- Hast du einen Zettel, der die drei oben genannten Kriterien nicht erfüllt?
+- Schreibe den Zettel um,
+	- Teile ihn in mehrere Zettel wenn nötig, pro Zettel eine Idee
+	- Streiche unnötigen Text (Prosa)
+	- Mache den Titel kurz und aussagekräftig so dass er die Idee direkt wiedergibt.
+		- Kannst du ihn als Satz direkt in einem Text verwenden?
 
 ### Reflexionsteil
-- Diskutiert im Zirkel über die Erfahrung und das Ergebnis (nicht den Inhalt der Notiz)
-- Was hat dich beim Lesen des Artikels/Buches/Themas am meisten interessiert und warum?
-- Welche Informationen/Gedanken hast du aus dem gelesenen Material für wichtig genug gehalten um sie in einer Notiz festzuhalten?
-- Was waren deine Herausforderungen beim Erstellen der Notiz(en) und wie hast du sie überwunden?
-- Wie hast du deine flüchtigen Notizen verarbeitet und was hat dir geholfen, dich an die Notizen zu erinnern?
-- Hat dir ein regelmäßiger Termin geholfen, deine Notizen zu verarbeiten? Was waren die Vorteile und Herausforderungen dabei?
-- Welche Erkenntnisse hast du über deine Gewohnheiten, deine Arbeitsweise und deine Lernbedürfnisse gewonnen, nachdem du diese Aufgabe abgeschlossen hast?
-
+Was ist der Nutzen von sprechenden Titeln?
+- Wie kann man sicherstellen, dass eine Notiz sich tatsächlich auf eine einzelne Idee bezieht?
+- Wie kann man den Titel einer Notiz so gestalten, dass er möglichst aussagekräftig ist und einen schnellen Überblick über den Inhalt der Notiz gibt?
+- Wie kann man sicherstellen, dass die Länge einer Notiz angemessen ist und den Gedanken schnell erfassen lässt?
+- Inwieweit hilft es beim Wissensmanagement, Notizen in atomare Einheiten zu gliedern?
+- Wie geht man vor, wenn man auf eine Notiz stößt, die sich nicht an die Kriterien hält? Welche Schritte sind notwendig, um sie anzupassen?
+- Inwieweit ist es förderlich, die Titel der Notizen als Satz aufzubauen und wie kann man das umsetzen?
 
 ### Lernziel
-- Du kannst, eine Notiz im Zettelkasten erstellen, die du auch in 10 Jahren verstehst.
-- Du hältst deine Regeltermine ein.
-- Du legst regelmäßig Notizen in deinem Zettelkasten ab.
+- eine Notiz auf eine einzelne Idee reduzieren.
+- Notizen kurz und essential halten, um das Wissen schnell abrufen zu können.

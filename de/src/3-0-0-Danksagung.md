@@ -5,7 +5,7 @@ Geschrieben wurde der Leitfaden von: [Andreas Trebing](https://www.linkedin.com/
 
 Geholfen haben dabei:
 
-- 
+-
 -
 -
 

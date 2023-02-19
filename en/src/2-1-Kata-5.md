@@ -1,49 +1,43 @@
-![Flüchtige Notizen](images/woche4.png)
+![Länge der Notiz](images/woche5.png)
 
-## Week 4 - Create first notes
+## Week 5 - Create permanent notes
 
 ### Theory
+Creating notes requires some thought in order to effectively manage personal knowledge. An important foundation here is the atomicity of notes.
 
-Successful personal knowledge management in the notebook requires regular work. By taking time to regularly create and process notes, you can continuously increase your knowledge. Often it is enough to create a few, but regular notes. Every note, every linking of notes, and the thoughts that arise from them contribute to the increase of your knowledge. It is important to understand that knowledge management is a marathon and not a sprint, so you should also take time to take small steps.
+Atomicity means that each note refers to exactly one idea. This idea should be elementary and to the point, without prose or unnecessary details. Because of the atomic structure of notes, large ideas or abstract considerations can be created from many small building blocks, or thought processes can be connected.
 
-To make note-taking easier and more energy-efficient, it's helpful to establish routines. You can do this, for example, by setting specific days or times when you create and process notes.
+An important component of a note is the title. This should be unique and designed to be as eloquent as possible. In this way, it is already possible to recognize from the title what the note is about and whether it can be useful for the current project. It is recommended to limit the length of the title to ~20 words^[256 characters including file path].
 
-Fleeting notes, such as those created during a meeting or lecture, should be processed as quickly as possible to help you remember them later. The shorter the interval between the creation of the note and its processing, the better you can remember it later.
+Regarding the length of the note, the text should be kept short to be able to capture the thought quickly. As a guideline, you can use 450 words or a DINA 6 page.
 
-To create your first note in the note box, you can use the information from Week 3 (Getting to Know Notes). The topic of your first note is not that important, it should just be something that interests you but is not so important that it paralyzes you. It's perfectly fine to create multiple notes and link them - try it out and see how it works for you.
+In summary, creating notebook-style notes effectively requires:
 
-
-#### Tip
-If you're unsure about what information to include in your Zettelkasten, you can check the information against the following criteria:
-- the information speaks to me
-- the information makes me think
-- I need the information for a topic I am working on.
-If necessary, look again at _week 3 - Getting to Know Notes_.
-
-#### Tip 2
-To create links in Mark-Down just put \[\[ \]\] around the note name and it becomes a link.
-
-![Create links](images/links-erstellen.png)
+- Atomicity: each note should relate to one elementary idea, without prose or unnecessary details.
+- Unique, speaking title: the title should get to the heart of the note's idea and be limited to 20 words if possible.
+- Short text length: the text should be kept short in order to capture the idea quickly, guideline is 450 words or one DINA 6 page.
 
 
 ### Exercises
-- Create note(s)
-	- Read an article/book/topic that you are currently interested in and create note(s) from it.
-- Optional: set a rule date that goes beyond the sprint to process your cursory notes at a set time.
-	- In addition to the sprint deadline, you can create another deadline for your Zettelkasten.
+- Find a piece of paper that does not fit into the criteria. The criteria are
+	- Only one idea on the note?
+	- Does the note fit on a DINA6 page (~450 words)?
+	- the title reflects the basic idea
+- Rewrite the note so that the criteria are met.
+	- divide it into several notes if necessary, one idea per note
+	- Delete unnecessary text (prose)
+	- Make the title short, concise and meaningful so that it directly reflects the idea.
+		- Ideally, it can be used as a sentence directly in a text.
 
+### Reflection section
+What is the benefit of talking titles?
+- How can you make sure that a note actually refers to a single idea?
+- How can you make the title of a note as meaningful as possible and give a quick overview of the note's content?
+- How can one ensure that the length of a note is appropriate and allows the idea to be captured quickly?
+- To what extent does it help knowledge management to organize notes into atomic units?
+- How do you proceed when you come across a note that does not adhere to the criteria? What steps are necessary to adjust it?
+- To what extent is it beneficial to build the titles of notes as a sentence and how can you implement this?
 
-### Reflection part
-- In the circle, discuss the experience and the outcome (not the content of the note)
-- What interested you most in reading the article/book/topic and why?
-- From the material you read, what information/thoughts did you think were important enough to record in a note?
-- What were the challenges in creating the note(s) and how did you overcome them?
-- How did you process your cursory notes and how did it help you remember them?
-- How did setting regular appointments for processing notes help you? What were the benefits and challenges of doing this?
-- What insights did you gain about your habits, functioning, and learning needs after doing this task?
-
-
-### Learning Objective
-- You can create a note in your notebook that will still be understandable to you 10 years from now.
-- You are now committed to meeting your rule deadlines.
-- You regularly file notes in your note box.
+### Learning objective
+- Reduce a note to a single idea.
+- Keep notes short and essential to be able to recall knowledge quickly.
