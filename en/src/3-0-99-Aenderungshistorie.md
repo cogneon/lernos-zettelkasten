@@ -1,5 +1,3 @@
 ## Change history
 
-| Version | Edited by | Description Change | Date |
-| ------- | -------------- | --------------------------------------- | ---------- |
-| 0.82 | Andreas Trebing | First version of the guide | 15.02.2023 |
+All changes to the guide can be found in the [Release Notes on Github](https://github.com/cogneon/lernos-zettelkasten/releases). The sources of all previous guide versions are also available there.

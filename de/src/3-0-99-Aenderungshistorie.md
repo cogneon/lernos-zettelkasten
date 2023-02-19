@@ -1,5 +1,3 @@
 ## Änderungshistorie
 
-| Version | Bearbeitet von | Beschreibung Änderung                   | Datum      |
-| ------- | -------------- | --------------------------------------- | ---------- |
-|  0.82   | Andreas Trebing  | Erste Version des Leitfadens | 15.02.2023 |
+Alle Änderungen des Leitfadens können in den [Release Notes auf Github](https://github.com/cogneon/lernos-zettelkasten/releases) nachgesehen werden. Dort stehen auch die Quellen aller früherer Leitfaden-Versionen zur Verfügung.
