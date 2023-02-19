@@ -1,24 +1,24 @@
-## lernOS Flow - Arbeitsablauf für modernes Arbeiten und Lernen
+## lernOS Flow - Workflow for modern working and learning
 
-Mit [Flow](https://de.wikipedia.org/wiki/Flow_(Psychologie)) wird das als beglückend erlebte Gefühl eines mentalen Zustand bezeichnet, bei dem du konzentriert bist und völlig in einer Tätigkeit aufgehst. Im Flow gibt es eine gute Balance zwischen den Anforderungen der Tätigkeit und den eigenen Fähigkeiten, so dass weder Überforderung noch Unterforderung auftreten. Um in unserer schnellen und komplexen Lebens- und Arbeitswelt Konzentration und Fokussierung zusammenzubringen, braucht es dafür ein gutes System, mit dem man in der Lage ist sich selbst zu organisieren.
+Flow](https://de.wikipedia.org/wiki/Flow_(Psychologie)) refers to the feeling of a mental state experienced as blissful, in which you are concentrated and completely absorbed in an activity. In flow, there is a good balance between the demands of the activity and one's own abilities, so that there is neither overload nor underload. In order to bring concentration and focus together in our fast and complex world of life and work, you need a good system for this, with which you are able to organize yourself.
 
-Für den lernOS Flow sind deswegen auf 13-wöchige Zyklen, die in Anlehnung an [Scrum](https://scrumguides.org) **lernOS Sprints** genannt werden. Jeder Sprint beginnt mit Planung und Zielfindung (Woche 0) und endet mit einer Retrospektive (Woche 12). Als Rhythmus bieten sich die vier Quartale eines Jahres an, das kannst du aber an deine Vorliebe anpassen.
+For the lernOS Flow are therefore on 13-week cycles, which are called **lernOS Sprints** in the style of [Scrum](https://scrumguides.org). Each sprint begins with planning and goal setting (week 0) and ends with a retrospective (week 12). The four quarters of a year are a good rhythm, but you can adapt this to your preference.
 
 ![lernOS Sprint](images/lernOS-Sprint.png)
 
-Der lernOS Flow ist ein Arbeitsablauf, den Wissensarbeiter_innen und Lebenslang Lernende für ihr Selbstorganisation verwenden können. Hierfür wird auf Praxis-erprobte Methoden und Ansätze zurückgegriffen:
+The lernOS Flow is a workflow that knowledge workers and lifelong learners can use for their self-organization. For this purpose, practice-proven methods and approaches are used:
 
-1. **Objektives & Key Results (OKR)** für zielgerichtetes und fokussiertes Arbeiten und Lernen durch die Definition von Lernzielen und gewünschten Ergebnissen (s.a. [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) bei Google).
-2. **Getting Things Done (GTD)** für produktives und stressfreies Arbeiten und Lernen, indem die Selbstorganisation durch einen 5-Schritte-Prozess strukturiert wird (s.a. [GTD](https://gettingthingsdone.com) von David Allen).
-3. **Working Out Loud (WOL)** für das offene Teilen von Arbeitsergebnissen im Netzwerk und das Erzählen von Hintergrundgeschichten (s.a. [WOL Definition](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/) von Bryce Williams, [WOL Circle Guides](https://workingoutloud.com/de/fur-dich) von John Stepper).
+1. **Objectives & Key Results (OKR)** for goal-oriented and focused work and learning by defining learning objectives and desired outcomes (see also [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) at Google).
+2. **Getting Things Done (GTD)** for productive and stress-free working and learning by structuring self-organization through a 5-step process (see also [GTD](https://gettingthingsdone.com) by David Allen).
+3. **Working Out Loud (WOL)** for openly sharing work results across the network and telling backstories (see also [WOL Definition](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/) by Bryce Williams, [WOL Circle Guides](https://workingoutloud.com/de/fur-dich) by John Stepper).
 
-Im Diagramm zum lernOS Flow kannst du die Elemente aus den einzelnen Methoden anhand der farblichen Markierung erkennen (OKR: rot, GTD: grün, WOL: blau):
+In the lernOS Flow diagram, you can see the elements from each method by the color coding (OKR: red, GTD: green, WOL: blue):
 
 ![](./images/lernOS-for-You-Flow.png)
 
-Das Bild ist am besten von links nach rechts zu lesen.  Es gibt zwei mögliche Startpunkte (grüne Kreise) und einen Endpunkt (roter Kreis). Mit dem unteren Startpunkt befasst man sich eher mit dem kurzfristigen und operativen Umgang mit Wissen und Lernen. Der obere Startpunkt bildet die langfristige und strategische Perspektive ab (s.a. [GTD - The 6 Horizons of Focus](https://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/)).
+The image is best read from left to right.  There are two possible starting points (green circles) and one end point (red circle). With the lower starting point, one is more concerned with the short-term and operational handling of knowledge and learning. The upper starting point maps the long-term and strategic perspective (see also [GTD - The 6 Horizons of Focus](https://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/)).
 
-**ProTip:** wenn du privat oder beruflich mit Microsoft 365 arbeitest, findest du im Anhang die Microsoft 365 Edition des lernOS Flows.
+**ProTip:** if you work privately or professionally with Microsoft 365, you will find the Microsoft 365 edition of the lernOS flow in the appendix.
 
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"

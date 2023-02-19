@@ -1,48 +1,49 @@
-![Zettelkasten-Methode hilft, Wissen zu verknüpfen und auszubauen](images/grundlagen.png)
+![Slip box method helps to link and expand knowledge](images/grundlagen.png)
 
-# Persönliches Wissensmanagement Grundlagen
+# Personal Knowledge Management Basics
 
-In der heutigen Zeit ist es wichtiger denn je, ständig neues Wissen und Informationen zu erlangen. Wissen alleine reicht jedoch nicht aus, um erfolgreich zu sein. Es ist ebenso wichtig, wenn nicht sogar wichtiger Wissen weiter zu denken, um es zu etwas Neuem zu verbinden.
-z.B. um Aufgaben und Projekte effizienter zu erfüllen, sich schnell an neue Anforderungen und Herausforderungen anzupassen, Ziele und Pläne besser zu verstehen und zu verfolgen oder die Studienzeit effizienter zu nutzen.
-Das ist jedoch leichter gesagt als getan. Glücklicherweise gibt es Methoden des persönlichen Wissensmanagements, die dabei helfen können. Eine dieser Methoden ist die Zettelkasten-Methode.
+In today's world, it is more important than ever to constantly acquire new knowledge and information. However, knowledge alone is not enough to be successful. It is just as important, if not more important, to think knowledge further in order to combine it into something new.
+For example, to accomplish tasks and projects more efficiently, to adapt quickly to new demands and challenges, to better understand and pursue goals and plans, or to use study time more efficiently.
+However, this is easier said than done. Fortunately, there are personal knowledge management methods that can help. One of these methods is the note box method.
 
-Die Zettelkasten-Methode basiert auf einer Bottom-Up Themenstruktur und hat das Ziel, Gedanken und Ideen an einem zentralen Ort abzulegen und diese miteinander zu verbinden, um neue Erkenntnisse zu gewinnen, Wissen zu internalisieren und fundierte Texte entstehen zu lassen. Es kann eine Weile dauern, bis man die ersten Erfolge sieht, doch wenn man die Zettelkasten-Methode kontinuierlich anwendet, wird man von der reichen Ernte profitieren.
+The notebox method is based on a bottom-up topic structure and aims to put thoughts and ideas in one central place and connect them to each other in order to gain new insights, internalize knowledge and create sound texts. It may take a while to see the first results, but if you use the slip box method continuously, you will benefit from the rich harvest.
 
-Um die Zettelkasten-Methode erfolgreich anzuwenden, ist es wichtig, sie täglich zu nutzen. Lies und notiere deine Gedanken zum gelesenem. Formuliere deine Notizen präzise aus und verknüpfe dein Wissen miteinander. Verbinde deine Ideen und schaffe übergreifende Verbindungen. Stelle dir selbst Fragen und versuche diese zu beantworten. Durch dieses kontinuierliche Denken im Zettelkasten wirst du dein Wissen vertiefen und neue Ideen generieren.
+In order to use the note box method successfully, it is important to use it on a daily basis. Read and jot down your thoughts on what you read. Precisely formulate your notes and link your knowledge together. Connect your ideas and create overlapping connections. Ask yourself questions and try to answer them. Through this continuous thinking in the notebook, you will deepen your knowledge and generate new ideas.
 
-In der Praxis kann die Zettelkasten-Methode sowohl im Berufsalltag als auch im Studium und im privaten Bereich eingesetzt werden. Sie kann dazu beitragen, fundierte Beiträge zu schreiben, umfangreiche Gedanken greifbar zu machen und das eigene Wissen zu vertiefen. Sie ist auch beim Schreiben von Artikeln, Forum-Beiträge, Social-Media Beiträge hilfreich, denn du sammelst Gedanken, bereitest sie auf und kannst sie in einem Outline direkt einfügen und hast deine Beiträge mit Tiefgang bereits zu 90% fertig.
+In practice, the slip box method can be used in everyday work, study, and personal life. It can help to write well-founded articles, to make extensive thoughts tangible and to deepen your own knowledge. It is also helpful when writing articles, forum posts, social media posts, because you collect thoughts, prepare them and can insert them directly in an outline and have your contributions with depth already 90% ready.
 
-Wobei die Methode dich unterstützen kann
-- Beruflich
-	- Es erleichtert die effiziente und erfolgreiche Erfüllung von Aufgaben und Projekten.
-	- Es unterstützt die Karriereentwicklung, indem es dabei hilft, relevantes Wissen und Fähigkeiten aufzubauen und zu demonstrieren.
-	- Es ermöglicht eine schnellere Anpassung an neue Anforderungen und Herausforderungen im Beruf.
-	- Es erhöht die Produktivität und die Fähigkeit, schnell Entscheidungen zu treffen.
-	- Es verbessert die Kommunikation und Zusammenarbeit innerhalb des Unternehmens.
-- Privat
-	- Es hilft dabei, die eigenen Ziele und Pläne besser zu verstehen und zu verfolgen.
-	- Es unterstützt die Selbstorganisation und ermöglicht eine bessere Verwaltung von Zeit und Aufgaben.
-	- Es fördert die persönliche und intellektuelle Entwicklung, indem es dabei hilft, neues Wissen und Fähigkeiten aufzubauen.
-	- Es ermöglicht eine bessere Verwaltung von Finanzen und Ressourcen.
-	- Es erhöht die Fähigkeit, schneller und effektiver Probleme zu lösen und Entscheidungen zu treffen.
-- Im Studium
-	- Es unterstützt das Verstehen und Behalten von Lerninhalten und erleichtert die Vorbereitung auf Prüfungen.
-	- Es fördert die Entwicklung von Selbstlernstrategien und die Fähigkeit, sich selbstständig Wissen anzueignen.
-	- Es ermöglicht eine effizientere Nutzung der Studienzeit und Ressourcen.
-	- Es fördert die Fähigkeit, Zusammenhänge zwischen verschiedenen Fächern und Disziplinen herzustellen.
-	- Es erhöht die Möglichkeiten für eine erfolgreiche Karriere und berufliche Entwicklung.
+Where the method can support you
+- Professionally
+	- It facilitates efficient and successful completion of tasks and projects.
+	- It supports career development by helping to build and demonstrate relevant knowledge and skills.
+	- It enables faster adaptation to new job demands and challenges.
+	- It increases productivity and the ability to make decisions quickly.
+	- It improves communication and collaboration within the organization.
+- Private
+	- It helps to better understand and follow one's goals and plans.
+	- It supports self-organization and enables better management of time and tasks.
+	- It promotes personal and intellectual development by helping to build new knowledge and skills.
+	- It enables better management of finances and resources.
+	- It increases the ability to solve problems and make decisions more quickly and effectively.
+- In studies
+	- It supports the understanding and retention of learning content and facilitates preparation for exams.
+	- It promotes the development of self-learning strategies and the ability to acquire knowledge independently.
+	- It enables more efficient use of study time and resources.
+	- It promotes the ability to make connections between different subjects and disciplines.
+	- It increases opportunities for successful career and professional development.
 
-Die Zettelkasten-Methode wurde vom Soziologen Niklas Luhmann (\*8.12.1927) entwickelt, der mit ihrer Hilfe ca. 70 Bücher und 400 Artikel publizieren konnte. Und alle von hoher Qualität. Er hat seinen Zettelkasten analog benutzt. Was hätte er wohl mit einem digitalen Zettelkasten erreichen können? Finde heraus, was du erreichen kannst!
+The slip box method was developed by sociologist Niklas Luhmann (\*8.12.1927), who was able to publish about 70 books and 400 articles with its help. And all of them of high quality. He used his slip box analog. What do you think he could have accomplished with a digital slip box? Find out what you can achieve!
 
 
 
-## Links zu weiteren Informationen über das Thema Zettelkasten oder auch Persönliches Wissensmanagement (PKM)
-* [Niklas Luhmann erläutert wie er mit seinem Zettelkasten arbeitet](https://youtu.be/qRSCKSPMuDc?t=2246) - 27:26 - 39:47
-* https://youtu.be/gt6nRZQTYD4
-* https://www.wissen-kommunizieren.de/category/persoenliches-wissensmanagement/
-* [Niklas Luhmann - Ich denke ja nicht alles allein (Zettelkasten als Zeitgedächtnis)](https://youtu.be/NbncA7bDl70?t=18)
-* PKM - Harold Jarche: https://jarche.com/pkm/
-* PKM Video: https://www.youtube.com/watch?v=HQbnoLxgx7I&ab_channel=HaroldJarche
+
+## Links to further information on the subject of note boxes or personal knowledge management (PKM)
+* [Niklas Luhmann explains how he works with his box of notes](https://youtu.be/qRSCKSPMuDc?t=2246) - 27:26 - 39:47
+* [Niklas Luhmann's slip box - Gabriele Vollmar](https://youtu.be/gt6nRZQTYD4)
+* [Vollmar - Personal knowledge management](https://www.wissen-kommunizieren.de/category/persoenliches-wissensmanagement/)
+* [Niklas Luhmann - I don't think everything alone (note box as time memory)](https://youtu.be/NbncA7bDl70?t=18)
+* [PKM - Harold Jarche](https://jarche.com/pkm/)
+* [PKM Video - Harold Jarche](https://www.youtube.com/watch?v=HQbnoLxgx7I&ab_channel=HaroldJarche)
 
 
 ![Tablett Zettelkasten](images/Tablet-Zettelkasten.jpeg)

@@ -1,32 +1,32 @@
 
 ![AdobeStock_262034783](https://user-images.githubusercontent.com/117161147/205623406-5585277b-28cc-4203-8834-d681cc14ae12.jpeg)
-Autor/in: Nali
+Author: Nali
 
 
-## Dein lernOS Canvas - Überblick über Wissens- und Lernbedarfe
+## Your lernOS Canvas - Overview of knowledge and learning needs
 
-Mit diesem Canvas kannst du dein Lernen planen und dabei einen guten Überblick behalten, also nichts Wichtiges vergessen.
-Die visuelle Struktur erleichtert dir auch, die einzelnen Bestandteile aus denen dein aktueller Wissens- und Lernbedarf besteht, zu überprüfen und vorhandene Ressourcen mit deinem Lernbedarf abzugleichen. Denn ein Bild sagt mehr als Tausend Worte!
-Du kannst es zum Beispiel auch für die parallele Bearbeitung mehrerer Bereiche verwenden.
+With this canvas you can plan your learning and keep a good overview, so you don't forget anything important.
+The visual structure also makes it easier for you to review the individual components that make up your current knowledge and learning needs and to match existing resources with your learning needs. A picture is worth a thousand words!
+For example, you can use it to work on several areas at the same time.
 
-Alex Osterwalder hatte als erster die Idee für einen lernOS Canvas. Er entwickelte auch den [Business Model Canvas (https://en.wikipedia.org/wiki/Business_Model_Canvas), den man für die Erarbeitung von Geschäftsmodellen nutzt.
-Beide folgend derselben Grundstruktur und sollten von dir zunächst als Einstieg ausgefüllt werden. Auf diese Weise bekommst du einen passenden Überblick.
-Der [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/main/en/src/images/lernOS-Canvas-for-you-Canvas-de.png)
-**ProTip:** Sei flexibel und arbeite mit Haftnotizen, die du jederzeit nach Bedarf verwenden kannst.
+Alex Osterwalder was the first to come up with the idea for a lernOS Canvas. He also developed the [Business Model Canvas (https://en.wikipedia.org/wiki/Business_Model_Canvas), which is used for the development of business models.
+Both follow the same basic structure and should be filled out by you as a start. This way you get a suitable overview.
+The [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/main/en/src/images/lernOS-Canvas-for-you-Canvas-de.png)
+**ProTip: Be flexible and work with sticky notes that you can use at any time as needed.
 
 ![lernOS Canvas](images/lernOS-Canvas-for-you-Canvas-de.png)
 
-Im oberen Teil des Canvas kannst du deinen Namen und das Datum der Erstellung bzw. letzten Änderung eintragen. Wenn du mit dem Canvas elektronisch arbeiten willst, kannst du ihn z.B. in OneNote oder ein digitales Whiteboard kopieren. Für die erste Befüllung des Canvas kannst du dir z.B. folgende Fragen stellen:
+In the upper part of the canvas you can enter your name and the date of creation or last change. If you want to work with the canvas electronically, you can copy it e.g. into OneNote or a digital whiteboard. For the first filling of the Canvas, you can ask yourself the following questions, for example:
 
-* **Zweck & Purpose:** Wofür lebst du? Was möchtest du in deinem Leben erreichen?
-* **Ziele & Schlüsselergebnisse:** Welche Ziele hast du in den nächsten 12 Wochen? Welche messbaren Ergebnisse gibt es zu den Zielen?
-* **Meine Rollen:** Was sind deine aktuellen Rollen? Welche Ziele ergeben sich aus diesen?
-* **Meine Aufgaben:**  Was sind deine aktuellen Aufgaben? Welche Ziele ergeben sich daraus?
-* **Meine Projekte:** Was sind deine aktuellen Projekte? Welche Ziele ergeben sich aus diesen?
-* **Meine Sozialen Netzwerke:** Welche internen und externen sozialen Netzwerke (digital und analog) helfen dir bei der Vernetzung?
-* **Meine Lern- und Arbeitsumgebung:** Wie sieht deine Lern- und Arbeitsumgebung aus (Infrastruktur, Inhalte, Tools, Methoden etc.)?
-* **Mein Wissen & Meine Fähigkeiten:** Welche Wissensgebiete und Fähigkeiten sind für deine Ziele, Rollen, Aufgaben und Projekte wichtig? Was musst du noch lernen?
-* **Meine Wissenswerte:** Welche WissensWerte (Dokumente, Checklisten, Videos etc.) hast du? Welche davon kannst du deinem Netzwerk anbieten?
+* **Purpose & Purpose:** What do you live for? What do you want to achieve in your life?
+* **Goals & Key Results:** What are your goals for the next 12 weeks? What are the measurable outcomes to the goals?
+* **My Roles:** What are your current roles? What are the goals that flow from them?
+* **My Tasks:** What are your current tasks? What are the goals that result from them?
+* **My Projects:** What are your current projects? What are the goals that result from these?
+* **My Social Networks:** What internal and external social networks (digital and analog) help you network?
+* **My Learning and Working Environment:** What does your learning and working environment look like (infrastructure, content, tools, methods, etc.)?
+* **My Knowledge & Skills:** What knowledge areas and skills are important to your goals, roles, tasks, and projects? What do you still need to learn?
+* **My Knowledge Assets:** What knowledge assets (documents, checklists, videos, etc.) do you have? Which of these can you offer to your network?
 
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"

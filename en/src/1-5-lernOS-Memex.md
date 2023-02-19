@@ -1,12 +1,12 @@
-## lernOS Memex - das "2nd Brain" der Lernenden
+## lernOS Memex - the "2nd Brain" of the learners
 
-Die einzelnen Wissens- und Lernumgebungen sind eben so individuell, wie jeder einzelne Mensch es ist. Die Idee des lernOS Memex will hier eine gemeinsame Bezugsgröße schaffen. Memex steht für "Memory Extender" und kann als digitaler Zwilling des eigenen Gehirns, im Englischen auch "second brain" genannt, verstanden werden. Also das worum es in diesem Lernpfad u.a. geht.
+The individual knowledge and learning environments are just as individual as every single person is. The idea of lernOS Memex aims to create a common reference point here. Memex stands for "Memory Extender" and can be understood as a digital twin of one's own brain, also called "second brain". So that is what this learning path is about among other things.
 
-Der Memex im lernOS ist ein System, dem der Nutzer vertraut und der neben allen Organisations- und Planungselementen von lernOS auch Verweise und Beschreibungen auf alle weiteren System enthält, die im Rahmen der lernOS Praxis verwendet werden.
+The Memex in lernOS is a system that the user trusts and which, in addition to all the organizational and planning elements of lernOS, also contains references and descriptions to all other systems used in lernOS practice.
 
-Theoretisch kann der Memex auch analog z.B. in Form eines Notizbuchs umgesetzt werden. In der Praxis kommen aber meist digitale Notizbücher oder Scratchpads zum Einsatz (z.B. Obsidian, Logseq, Roam), da diese gegenüber analogen Varianten viele Vorteile bieten. So bieten sie z.B. unbegrenzten Platz, können durchsucht werden sowie Audio- und Videoinhalte enthalten. Mehr dazu im Lernpfad selber.
+Theoretically, the Memex can also be implemented in analog form, e.g., in the form of a notebook. In practice, however, digital notebooks or scratchpads are mostly used (e.g. Obsidian, Logseq, Roam), as they offer many advantages over analog variants. For example, they offer unlimited space, can be searched, and contain audio and video content. More on this in the learning path itself.
 
-![Beispiel eines lernOS Memex in Microsoft OneNote von Simon Dückert](./images/lernOS-Memex-Beispiel-OneNote.png)
+![Example of a lernOS Memex in Microsoft OneNote by Simon Dückert](./images/lernOS-Memex-Beispiel-OneNote.png)
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"

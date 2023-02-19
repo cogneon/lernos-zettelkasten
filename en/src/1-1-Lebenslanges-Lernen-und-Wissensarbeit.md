@@ -1,74 +1,73 @@
+## Lifelong learning and knowledge work
 
-## Lebenslanges Lernen und Wissensarbeit
+We are currently in a very dynamic transition from an industrial to a [knowledge society](https://de.wikipedia.org/wiki/Wissensgesellschaft): Characteristic of this is that rules and norms are continuously questioned through learning processes (see also [Characteristics of the knowledge society](https://www.researchgate.net/publication/283061140_Merkmale_der_Wissensgesellschaft)).
 
-Wir befinden uns gerade in einem sehr dynamischen Übergang von einer Industrie- zu einer [Wissensgesellschaft](https://de.wikipedia.org/wiki/Wissensgesellschaft): Kennzeichnend hierfür ist, dass Regeln und Normen durch Lernprozesse kontinuierlich in Frage gestellt werden (s.a. [Merkmale der Wissensgesellschaft](https://www.researchgate.net/publication/283061140_Merkmale_der_Wissensgesellschaft)).
+In this society, we as individuals can actually only be successful through learning and contribute to the well-being of all together with others.
 
-In dieser Gesellschaft können wir als Einzelpersonen eigentlich nur durch Lernen erfolgreich sein und zusammen mit Anderen zum Wohlergehen aller beitragen.
+![Lifelong learning](images/LebenslangesLernen.jpeg)
+Author: geschmacksRaum®
 
-![Lebenslanges Lernen](images/LebenslangesLernen.jpeg)
-Autor/in: geschmacksRaum®
+Learning is the intentional or incidental acquisition of knowledge or skills. This learning process leads to relatively stable changes in behavior, thinking or feeling, based on experience or new knowledge.
 
-Unter Lernen versteht man den absichtlichen oder beiläufigen Erwerb von Wissen oder Fähigkeiten. Dieser Lernprozess führt zu relativ stabilen Veränderungen des Verhaltens, Denkens oder Fühlens, aufgrund von Erfahrungen oder neuen Erkenntnissen.
+In 1996, the [Delors Report](https://en.wikipedia.org/wiki/Delors_Report) of the European Commission drew an overall picture of lifelong learning ("learning throughout life") and named the four pillars that should be integrated into education and training in particular:
 
-1996 wurde mit dem [Delors Report](https://en.wikipedia.org/wiki/Delors_Report) von der Europäischen Kommission ein Gesamtbild des Lebenslangen Lernens ("learning throughout life") gezeichnet und die vier Säulen, die insbesondere in die Aus- und Weiterbildung integriert werden sollten, benannt:
+* **Learning to know** - a broad general knowledge with the possibility to deepen a small number of topics.
+* **Learning to do** - to acquire not only professional skills, but also the competence to deal with many situations and to work in teams.
+* **Learning to be** - to develop one's own personality and to be able to act with growing autonomy, judgment and personal responsibility.
+* **Learning to live together** - by developing an understanding of other people and an appreciation of interdependence.
 
-* **Learning to know** - ein breites Allgemeinwissen mit der Möglichkeit, eine kleine Anzahl von Themen zu vertiefen.
-* **Learning to do** - nicht nur berufliche Fähigkeiten zu erwerben, sondern auch die Kompetenz, mit vielen Situationen umzugehen und in Teams zu arbeiten.
-* **Learning to be** - die eigene Persönlichkeit zu entwickeln und mit wachsender Autonomie, Urteilsvermögen und Eigenverantwortung, handeln zu können.
-* **Learning to live together** - durch die Entwicklung eines Verständnisses für andere Menschen und die Wertschätzung von wechselseitigen Abhängigkeiten.
+But there are also very practical reasons that make lifelong learning necessary for you. As you can see from the [half-life of knowledge](http://www.online-lehrbuch-bwl.de/lehrbuch/kap3/oe_le/oe_le.pdf) graph, some types of knowledge quickly become outdated, making continuous learning simply necessary. Even if areas such as school knowledge remain reasonably stable, the need to learn new things - especially in the technology and IT sectors - is particularly great.
 
-Es gibt aber auch ganz praktische Gründe, die lebenslanges Lernen für dich notwendig machen. Wie man an der Grafik der [Halbwertzeit des Wissens](http://www.online-lehrbuch-bwl.de/lehrbuch/kap3/oe_le/oe_le.pdf) erkennen kann, so verlieren einige Wissensarten schnell an Aktualität und machen daher ständiges Lernen schlichtweg erforderlich. Auch wenn Bereiche wie das Schulwissen einigermaßen stabil bleiben, ist der Bedarf Neues zu Lernen - besonders im Technik- und IT-Bereich - besonders groß.
+![Half-life of knowledge (from Schüppel, J.: Wissensmanagment. Organizational learning in the area of conflict between knowledge and learning barriers, own presentation.)](./images/halbwertzeit-des-wissens.png)
 
-![Halbwertszeit des Wissens (aus Schüppel, J.: Wissensmanagment. Organisatorisches Lernen im Spannungsfeld von Wissens- und Lernbarrieren, eigene Darstellung)](./images/halbwertzeit-des-wissens.png)
+For the citizens of a society, this means that even after completing their education through school and university, they should continue to learn in order not to lose touch. This learning process, which extends from birth to death, is referred to as lifelong or [lifelong learning](https://de.wikipedia.org/wiki/Lebenslanges_Lernen).
 
-Das bedeutet für die Bürger einer Gesellschaft, dass sie sich auch nach absolvierter Ausbildung durch Schule und Hochschule kontinuierlich weiterbilden sollten, um nicht den Anschluss zu verlieren. Diesen Lernprozess, der von der Geburt bis zum Tod hin reicht, bezeichnet man als lebensbegleitendes oder [lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen).
-
-Bis zur ersten Ausbildung kümmern sich in den meisten Fällen nicht nur die Eltern, sondern auch der Staat um Lernen und Bildung. Anschließend muss man es für sich [selbst organisieren](https://de.wikipedia.org/wiki/Selbstorganisation).
+Until the first education, in most cases not only the parents but also the state take care of learning and education. After that, you have to [organize it for yourself](https://de.wikipedia.org/wiki/Selbstorganisation).
 ![AdobeStock_265312833](https://user-images.githubusercontent.com/117161147/205277408-e05ec31a-ee9b-439c-af25-f6fceab19955.jpeg)
-Autor: Daniel Berkmann
+Author: Daniel Berkmann
 
-### Wissensarbeit
+### Knowledge work
 
-Peter Drucker weist in seinem Buch Landmarks of Tomorrow schon Ende der 1950er Jahre auf einen Wandel in der Arbeitswelt in Richtung wissensintensiver Arbeitsaufgaben, kurz [Wissensarbeit](https://en.wikipedia.org/wiki/Knowledge_worker), hin.
-Der Wissensarbeiter zeichnet sich dadurch aus, dass er über die Arbeitsaufgabe und das notwendige Wissen besser Bescheid weiß als die Manager der Organisation, und sich deshalb - im Gegensatz zum [Taylorismus](https://de.wikipedia.org/wiki/Taylorismus) bzw. dem [Scientific Management](https://de.wikipedia.org/wiki/Scientific_Management), bei dem zwischen Kopf- und Handarbeit getrennt wird - weitestgehend selbst organisiert.
+In his book Landmarks of Tomorrow, Peter Drucker points to a change in the world of work toward knowledge-intensive work tasks, or [knowledge work](https://en.wikipedia.org/wiki/Knowledge_worker), as early as the late 1950s.
+The knowledge worker is characterized by the fact that he knows better about the work task and the necessary knowledge than the managers of the organization, and therefore - in contrast to [Taylorism](https://de.wikipedia.org/wiki/Taylorismus) or [Scientific Management](https://de.wikipedia.org/wiki/Scientific_Management), in which there is a separation between head work and manual work - organizes himself to the greatest possible extent.
 
-Der Organisationssoziologe Hellmut Willke [definiert Wissensarbeit](https://www.researchgate.net/publication/41011087_Organisierte_Wissensarbeit) als Tätigkeiten wie Kommunikation, Transaktion und Interaktion, die dadurch gekennzeichnet sind, dass sie Wissen erfordern, das nicht einmalig im Leben, etwa durch Erfahrung, Initiation, Lehre, Fachausbildung oder Professionalisierung, erworben wurde und dann kontinuierlich angewendet werden kann. Stattdessen ist genau das Wissen, das im lebenslangen Lernprozess entsteht für die Wissensarbeit charaketistisch und handlungsanleitend. Aus diesem Grund ist relevantes Wissen nicht statisch, sondern sollte
+The organizational sociologist Hellmut Willke [defines knowledge work](https://www.researchgate.net/publication/41011087_Organisierte_Wissensarbeit) as activities such as communication, transaction and interaction, which are characterized by the fact that they require knowledge that has not been acquired once in life, for example through experience, initiation, teaching, specialized training or professionalization, and can then be continuously applied. Instead, it is precisely the knowledge that emerges in the lifelong learning process that is charaketistic and action-guiding for knowledge work. For this reason, relevant knowledge is not static, but should be
 
-1. kontinuierlich revidiert,
-2. permanent als verbesserungsfähig angesehen,
-3. prinzipiell nicht als Wahrheit, sondern als Ressource betrachtet werden und
-4. untrennbar mit Nichtwissen gekoppelt sein.
+1. Continuously revised,
+2. permanently regarded as capable of improvement
+3. in principle not be regarded as truth, but as a resource, and
+4. be inseparably coupled with non-knowledge.
 
-Offensichtlich birgt Wissensarbeit Risiken, denn was heute gilt, kann morgen bereits ungültig sein.
+Obviously, knowledge work involves risks, because what is valid today may already be invalid tomorrow.
 
-Folgende Tätigkeiten gelten, laut der Studie [Tätigkeiten und berufliche Anforderungen  in wissensintensiven Berufen](https://lit.bibb.de/vufind/Record/DS-131131), als besonders wissensintensiv:
+The following activities are considered particularly knowledge-intensive, according to the study [Activities and occupational requirements in knowledge-intensive occupations](https://lit.bibb.de/vufind/Record/DS-131131):
 
-* Forschen
-* Entwickeln
-* Recherchieren
-* Dokumentieren
-* Ausbilden
-* Unterrichten
-* Organisieren fremder Arbeitsabläufe (ja, Manager und Führungskräfte sind auch Wissensarbeiter :-)
+* Research
+* Developing
+* Researching
+* Documenting
+* Training
+* Teaching
+* Organizing other people's workflows (yes, managers and executives are knowledge workers too :-)
 
-Wenn dein Arbeitsalltag zu großen Teilen aus einer oder mehrere dieser Tätigkeiten besteht, kannst du dich zu den Wissensarbeitenden zählen und du gehörst zur Kernzielgruppe dieses Leitfadens.
+If your workday consists largely of one or more of these activities, you can count yourself among the knowledge workers and you belong to the core target group of this guide.
 
 ![AdobeStock_159072372](https://user-images.githubusercontent.com/117161147/205277690-6949bc29-aaac-4408-a08d-d22ad0df5624.jpeg)
-Autor: timothyh
+Author: timothyh
 
 
-### Produktivität von Wissensarbeit
+### Productivity of knowledge work
 
-Die [Produktivität](https://de.wikipedia.org/wiki/Produktivit%C3%A4t) ist klassisch definiert als das Verhältnis von erzeugten Produkten zu den dafür benötigten Produktionsfaktoren. Peter Drucker fasst im Buch "Management Challenges for the 21st Century" die Produktivität von Wissensarbeitern in sechs Faktoren zusammen:
+Productivity](https://de.wikipedia.org/wiki/Produktivit%C3%A4t) is classically defined as the ratio of products produced to the factors of production required to produce them. Peter Drucker, in the book Management Challenges for the 21st Century, summarizes knowledge worker productivity in six factors:
 
-1. Die Produktivität der Wissensarbeiter erfordert, dass wir uns als erstes fragen **Was ist die Aufgabe?**
-2. Wissensarbeit verlangt von uns, dass wir die Verantwortung für die Produktivität auf einzelne Wissensarbeitende übertragen, dazu müssen wir ihnen einen Vertrauensvorschuss geben, denn **Wissensarbeitende müssen sich selbst managen.** Dafür muss ein autonomer Handlungsspielraum vorhanden sein.
-3. **Kontinuierliche Innovation** ist ein Teil der Arbeit, die in der Aufgabe und Verantwortung von Wissensarbeitenden steht.
-4. Wissensarbeit geht einerseits mit einem **kontinuierlichen Lernprozess** und andererseits mit einem **kontinuierlichen Lehren** durch die Wissensarbeitenden einher.
-5. Die **Produktivität der Wissensarbeitenden Fachkraft** ist primär keine Frage der Quantität der Ergebnisse. Der Teufel steckt oftmals im Detail, deshalb ist Qualität mindestens genauso wichtig.
-6. Abschließend erfordert die Produktivität von Wissensarbeitenden, dass **Wissensarbeitende ein "Aktivposten"** und nicht ein "Kostenfaktor" sind und demgemäß behandelt werden. Wissensarbeitende sind folglich dann besonders produktiv, wenn sie für die Organisation arbeiten wollen und nicht eine der vielen Wahl-Möglichkeiten wählen.
+1. knowledge worker productivity requires that the first thing we ask ourselves is **what is the task?**
+2. knowledge work requires us to transfer responsibility for productivity to individual knowledge workers; to do this, we must give them the benefit of the doubt, because **knowledge workers must manage themselves.** To do this, there must be autonomous room for maneuver.
+3. **Continuous innovation** is a part of the work that is the task and responsibility of knowledge workers.
+4. knowledge work goes hand in hand with **continuous learning** on the one hand and **continuous teaching** by knowledge workers on the other hand.
+5. the **productivity of the knowledge worker** is primarily not a question of the quantity of the results. The devil is often in the details, so quality is at least as important.
+6. in conclusion, the productivity of knowledge workers requires that **knowledge workers are an "asset "** and not a "cost factor" and are treated accordingly. Knowledge workers are consequently especially productive when they want to work for the organization and do not choose one of the many elective options.
 
-Der viel beachtete TED-Vortrag von Dan Pink zeigt genau diesen Zusammenhang der Bedeutung von Autonomie, dem kontinuierlichen Lernen (Mastery) und der selbständigen Exploration bzw. dem Herausfinden einer relevanten Arbeitsaufgabe (Purpose), die für die Arbeit im 21. Jahrhundert charakteristisch ist [Über die überraschende Wissenschaft der Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y).
+Dan Pink's well-received TED talk demonstrates precisely this connection of the importance of autonomy, continuous learning (mastery), and independent exploration or figuring out a relevant work task (purpose) that characterizes work in the 21st century [On the Surprising Science of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y).
 
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
