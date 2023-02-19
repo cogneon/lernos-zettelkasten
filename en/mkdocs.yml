@@ -71,7 +71,6 @@ extra:
           link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
-    disqus: lernos
     analytics:
        provider: custom
     alternate:

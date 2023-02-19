@@ -118,3 +118,18 @@ Check your calendar and look for possible dates with yourself. An hour or even 3
 
 - You make a commitment to yourself to give yourself this learning space for the exercises.
 - You create the necessary conditions to carry out the Circle successfully.
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

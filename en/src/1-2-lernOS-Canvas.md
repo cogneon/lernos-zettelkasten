@@ -11,7 +11,7 @@ Du kannst es zum Beispiel auch für die parallele Bearbeitung mehrerer Bereiche 
 
 Alex Osterwalder hatte als erster die Idee für einen lernOS Canvas. Er entwickelte auch den [Business Model Canvas (https://en.wikipedia.org/wiki/Business_Model_Canvas), den man für die Erarbeitung von Geschäftsmodellen nutzt.
 Beide folgend derselben Grundstruktur und sollten von dir zunächst als Einstieg ausgefüllt werden. Auf diese Weise bekommst du einen passenden Überblick.
-Der [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/main/en/src/images/lernOS-Canvas-for-you-Canvas-de.png) 
+Der [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/main/en/src/images/lernOS-Canvas-for-you-Canvas-de.png)
 **ProTip:** Sei flexibel und arbeite mit Haftnotizen, die du jederzeit nach Bedarf verwenden kannst.
 
 ![lernOS Canvas](images/lernOS-Canvas-for-you-Canvas-de.png)
@@ -27,3 +27,19 @@ Im oberen Teil des Canvas kannst du deinen Namen und das Datum der Erstellung bz
 * **Meine Lern- und Arbeitsumgebung:** Wie sieht deine Lern- und Arbeitsumgebung aus (Infrastruktur, Inhalte, Tools, Methoden etc.)?
 * **Mein Wissen & Meine Fähigkeiten:** Welche Wissensgebiete und Fähigkeiten sind für deine Ziele, Rollen, Aufgaben und Projekte wichtig? Was musst du noch lernen?
 * **Meine Wissenswerte:** Welche WissensWerte (Dokumente, Checklisten, Videos etc.) hast du? Welche davon kannst du deinem Netzwerk anbieten?
+
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

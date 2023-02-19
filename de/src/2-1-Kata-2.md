@@ -81,3 +81,18 @@ Wenn Markdown für dich Fremd ist, und du es in deinem Zettelkasten verwenden m�
 ### Lernziel
 - Du hast deine Zettelkasten-Umgebung installiert und eingerichtet
 - Du hast dir Bewusst gemacht was dir für deine Zettelkasten-Arbeit wichtig ist
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="de"
+        crossorigin="anonymous"
+        async>
+</script>

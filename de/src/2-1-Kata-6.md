@@ -50,3 +50,18 @@ Anmk.: Falls du sehr viel verzettelst und intensiv an einem Thema arbeitest kann
 ### Lernziel
 - Du hast neue Assoziationen erhalten und Verbindungen geknüpft
 - Du hast neue Themen-Cluster gebildet
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="de"
+        crossorigin="anonymous"
+        async>
+</script>

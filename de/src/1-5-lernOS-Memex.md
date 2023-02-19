@@ -7,3 +7,18 @@ Der Memex im lernOS ist ein System, dem der Nutzer vertraut und der neben allen 
 Theoretisch kann der Memex auch analog z.B. in Form eines Notizbuchs umgesetzt werden. In der Praxis kommen aber meist digitale Notizbücher oder Scratchpads zum Einsatz (z.B. Obsidian, Logseq, Roam), da diese gegenüber analogen Varianten viele Vorteile bieten. So bieten sie z.B. unbegrenzten Platz, können durchsucht werden sowie Audio- und Videoinhalte enthalten. Mehr dazu im Lernpfad selber.
 
 ![Beispiel eines lernOS Memex in Microsoft OneNote von Simon Dückert](./images/lernOS-Memex-Beispiel-OneNote.png)
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="de"
+        crossorigin="anonymous"
+        async>
+</script>

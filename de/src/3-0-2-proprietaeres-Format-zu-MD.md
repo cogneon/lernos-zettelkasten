@@ -7,3 +7,18 @@ Leider gibt es jedoch Schwierigkeiten und Risiken bei der Verwendung von proprie
 Eine Lösung hierfür könnte sein, eine Wechselstrategie zu implementieren. Eine Möglichkeit wäre, ab jetzt alle neuen Notizen in einem offenen Format wie Markdown, in einem geeignetem Programm, zu erstellen. Wenn man dann später nach alten Notizen sucht, kann man diese in dem alten Programm suchen und sie dann in das neue Programm übertragen. Der Vorteil hierbei wäre, dass der Übertrag nur dann stattfindet, wenn es wirklich notwendig ist und die Energie dafür verteilt wird.
 
 Ein weiterer Vorschlag für eine Wechselstrategie könnte sein, nach Tools zu suchen, die das proprietäre Format in ein offenes Format wie Markdown umwandeln können. Auf diese Weise könnten Sie Ihre alten Notizen in ein Format exportieren, das von vielen verschiedenen Anwendungen unterstützt wird und Sie sich nicht länger von einem bestimmten Unternehmen oder Entwickler abhängig fühlen müssen.
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="de"
+        crossorigin="anonymous"
+        async>
+</script>
