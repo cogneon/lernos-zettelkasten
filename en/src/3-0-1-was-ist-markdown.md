@@ -1,5 +1,6 @@
 # Appendix
 
+![Markdown](images/Markdown.png)
 ## What is Mark-Down?
 
 Markdown is a markup language. This means that control characters are used in the text to indicate how the text should be displayed. So the control characters really go directly into the text. It could be compared to HTML^[Web pages are described with HTML] or LaTeX^[A markup language used especially in science]. But don't worry, you don't have to program here, very few characters are enough and the programs then display the text without the control characters.

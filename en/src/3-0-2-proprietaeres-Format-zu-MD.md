@@ -1,3 +1,4 @@
+![The risks and limitations of proprietary formats](images/The_risks_and_limitations_of_proprietary_formats.png)
 ## Change from proprietary format to Mark-Down
 
 This is for you if you have not used mark-down before. There are many programs that use proprietary formats. Proprietary formats are formats created by a particular company or developer that can only be used with their products. An example of this would be the format of a note in the Evernote app that cannot be opened in other note apps.

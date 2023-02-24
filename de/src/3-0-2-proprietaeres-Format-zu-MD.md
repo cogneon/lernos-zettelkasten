@@ -1,3 +1,4 @@
+![Die Risiken und Grenzen proprietärer Formate](images/The_risks_and_limitations_of_proprietary_formats.png)
 ## Wechsel von proprietärem Format zu Mark-Down
 
 Dies ist für dich, wenn du bisher kein Mark-Down genutzt hast. Es gibt viele Programme die proprietäre Formate nutzen. Proprietäre Formate sind Formate, die von einem bestimmten Unternehmen oder Entwickler erstellt wurden und nur mit dessen Produkten genutzt werden können. Ein Beispiel hierfür wäre das Format einer Notiz in der Evernote-App, das nicht in anderen Notiz-Apps geöffnet werden kann.
