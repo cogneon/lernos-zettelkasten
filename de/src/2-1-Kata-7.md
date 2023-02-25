@@ -1,7 +1,5 @@
 ![Stopp](images/Boxenstopp.png)
 
-Autor/in: Maksim Kostenko
-
 ## Woche 7 - Boxenstop
 
 
