@@ -1,4 +1,4 @@
-![Stopp](images/Hand-Stopp.jpeg)
+![Stopp](images/Boxenstopp.png)
 
 Autor/in: Maksim Kostenko
 
