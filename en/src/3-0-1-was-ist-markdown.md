@@ -47,7 +47,7 @@ Some programs also offer you buttons for this like in WYSIWYG programs^[What you
   - \^ for blocks --> \[\[example\#^reference\]\]
   - \# for headings --> \[example\#heading\]\]
 
-There are more MD syntaxes. If you are interested in more possibilities you can look them up [here](https://www.markdownguide.org/basic-syntax/).
+There are more MD syntaxes. If you are interested in more possibilities you can look them up [here](https://www.markdownguide.org/extended-syntax/).
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"
