@@ -1,6 +1,4 @@
-![Stopp](images/Hand-Stopp.jpeg)
-
-Autor/in: Maksim Kostenko
+![Stop](images/Boxenstopp.png)
 
 ## Week 7 - Pit stop
 
