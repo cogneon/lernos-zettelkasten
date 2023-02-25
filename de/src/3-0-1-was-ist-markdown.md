@@ -47,7 +47,7 @@ Manche Programme bieten dir auch wie in WYSIWYG-Programmen^[What you see, is wha
   - \^ für Blöcke --> \[\[Beispiel\#^Verweis\]\]
   - \# für Überschriften --> \[\[Beispiel\#Überschrift\]\]
 
-Es gibt noch weitere MD-Syntax. Wenn dich noch mehr Möglichkeiten interessieren kannst du [hier](https://www.markdownguide.org/basic-syntax/) nachschlagen.
+Es gibt noch weitere MD-Syntax. Wenn dich noch mehr Möglichkeiten interessieren kannst du [hier](https://www.markdownguide.org/extended-syntax/) nachschlagen.
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"
