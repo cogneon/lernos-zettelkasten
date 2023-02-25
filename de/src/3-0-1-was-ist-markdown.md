@@ -26,7 +26,7 @@ Das ist im Grunde alles was du brauchst um loszulegen.
 Hier sind noch ein paar Steuerzeichen mehr, die sehr praktisch sind, doch nicht nötig sind. Nimm nur die, mit denen du dich wohl fühlst und welche du denkst als Formatierung zu brauchen.
 
 - \*\****Fett formatiert**\*\*
-- \__Kursiv formatiert_\_
+- \**Kursiv formatiert*\*
 - \=\===Marker Markiert==\=\=
 - \\# --> Erzeugt ein TAG, soetwas wie ein Sticker
 - \[Text\](http Link) --> Erzeugt einen Link zu beliebigen Adressen. Bsp \[Google\](http://www.google.de)
@@ -47,7 +47,7 @@ Manche Programme bieten dir auch wie in WYSIWYG-Programmen^[What you see, is wha
   - \^ für Blöcke --> \[\[Beispiel\#^Verweis\]\]
   - \# für Überschriften --> \[\[Beispiel\#Überschrift\]\]
 
-Es gibt noch weitere MD-Syntax. Wenn dich noch mehr Möglichkeiten interessieren kannst du hier (https://www.markdownguide.org/basic-syntax/) nachschlagen.
+Es gibt noch weitere MD-Syntax. Wenn dich noch mehr Möglichkeiten interessieren kannst du [hier](https://www.markdownguide.org/basic-syntax/) nachschlagen.
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"

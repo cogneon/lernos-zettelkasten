@@ -25,8 +25,8 @@ That's basically all you need to get started.
 
 Here are a few more control characters that are very handy, but not necessary. Just use the ones you feel comfortable with and which you think you need as formatting.
 
-- \*\****Bold formatted**\*\*
-- \__Cursive formatted_\_
+- \*\***Bold formatted**\*\*
+- \**Cursive formatted*\*
 - \=\==Marker Marked==\=
 - \\# --> Creates a TAG, something like a sticker
 - \[Text\](http Link) --> Creates a link to any address. E.g. \[Google\](http://www.google.de)
@@ -47,7 +47,7 @@ Some programs also offer you buttons for this like in WYSIWYG programs^[What you
   - \^ for blocks --> \[\[example\#^reference\]\]
   - \# for headings --> \[example\#heading\]\]
 
-There are more MD syntaxes. If you are interested in more possibilities you can look them up here (https://www.markdownguide.org/basic-syntax/).
+There are more MD syntaxes. If you are interested in more possibilities you can look them up [here](https://www.markdownguide.org/basic-syntax/).
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"
