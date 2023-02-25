@@ -1,5 +1,5 @@
 ![Verlinkung von relevanten Informationen](images/woche6.png)
-## Woche 6 - Frittering
+## Week 6 - Frittering
 
 ### Theory
 We start at one thought and move sequentially from there to the next thought. In the end, we have come from one starting point to a completely different point by chaining.
@@ -25,7 +25,7 @@ Go through the notes in your Zettelkasten and if you notice that two ideas belon
 
 If questions come to mind as you read the note, look for answers in your Zettelkasten and link them if you find notes that match.
 
-Break down other notes into smaller components (keyword atomicity, from week 6), linking them as you go, as soon as you get the impression that they should be related.
+Break down other notes into smaller components (keyword atomicity, from week 5), linking them as you go, as soon as you get the impression that they should be related.
 
 You can also create direct links to other notes that you know are related when adding permanent notes.
 
