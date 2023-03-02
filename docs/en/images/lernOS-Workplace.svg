@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 296.99999 210.00004"
    version="1.1"
    id="svg311"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="lernOS-Workplace.svg"
-   inkscape:export-filename="/Users/simondueckert/OneDrive - Cogneon GmbH/Dokumente/GitHub/lernos-for-you/de/src/images/lernOS-Workplace.png"
+   inkscape:export-filename="lernOS-Workplace.png"
    inkscape:export-xdpi="136.84"
-   inkscape:export-ydpi="136.84">
+   inkscape:export-ydpi="136.84"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs305">
     <linearGradient
@@ -814,19 +814,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7570488"
-     inkscape:cx="627.43464"
-     inkscape:cy="587.06504"
+     inkscape:zoom="2.0002186"
+     inkscape:cx="414.95465"
+     inkscape:cy="22.497541"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g391"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="900"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="2880"
+     inkscape:window-height="1496"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
      units="mm"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata308">
     <rdf:RDF>
@@ -1005,7 +1008,7 @@
            y="91.441261"
            x="262.70877"
            id="tspan852-8-6"
-           sodipodi:role="line">Datum:</tspan></text>
+           sodipodi:role="line">Date:</tspan></text>
       <rect
          y="89.703751"
          x="261.40063"
@@ -2123,14 +2126,14 @@
     <text
        id="text854-9-7-7-0-1-1"
        y="269.34048"
-       x="277.40228"
+       x="271.83069"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
        xml:space="preserve"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.154558"
          y="269.34048"
-         x="277.40228"
+         x="271.83069"
          sodipodi:role="line"
-         id="tspan163-6">Aufgaben- &amp; Zeitmanagement</tspan></text>
+         id="tspan163-6">Tasks- &amp; Timemanagement</tspan></text>
     <text
        id="text854-9-7-7-0-1-16"
        y="208.22029"
@@ -2152,7 +2155,7 @@
          y="172.2589"
          x="252.59448"
          sodipodi:role="line"
-         id="tspan163-9">Podcsat &amp; Vlog</tspan></text>
+         id="tspan163-9">Podcast &amp; Vlog</tspan></text>
     <text
        id="text854-9-7-7-0-1-9"
        y="126.71905"
@@ -2163,7 +2166,7 @@
          y="126.71905"
          x="257.95889"
          sodipodi:role="line"
-         id="tspan163-7">Webseite</tspan></text>
+         id="tspan163-7">Website</tspan></text>
     <text
        id="text854-9-7-7-0-1-92"
        y="236.52783"
@@ -2199,15 +2202,15 @@
          id="tspan163-1">Filesharing</tspan></text>
     <text
        id="text854-9-7-7-0-1-0"
-       y="215.76392"
-       x="256.40833"
+       y="215.61333"
+       x="250.38496"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
        xml:space="preserve"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.154558"
-         y="215.76392"
-         x="256.40833"
+         y="215.61333"
+         x="250.38496"
          sodipodi:role="line"
-         id="tspan163-71">Soziale Netzwerke</tspan></text>
+         id="tspan163-71">Sozial Network</tspan></text>
     <text
        id="text854-9-7-7-0-1-74"
        y="152.44649"
@@ -2222,14 +2225,14 @@
     <text
        id="text854-9-7-7-0-1-3"
        y="126.71905"
-       x="183.36168"
+       x="178.99474"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
        xml:space="preserve"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.154558"
          y="126.71905"
-         x="183.36168"
+         x="178.99474"
          sodipodi:role="line"
-         id="tspan163-15">Digitales Notizbuch &amp; Wiki</tspan></text>
+         id="tspan163-15">Digital Notebook &amp; Wiki</tspan></text>
     <text
        id="text854-9-7-7-0-1-1-2"
        y="115.18512"
@@ -2327,15 +2330,15 @@
        ry="4.1846313" />
     <text
        id="text854-9-7-7-0-1"
-       y="221.02466"
-       x="51.939686"
+       y="221.17525"
+       x="48.928005"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
        xml:space="preserve"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.154558"
-         y="221.02466"
-         x="51.939686"
+         y="221.17525"
+         x="48.928005"
          sodipodi:role="line"
-         id="tspan163">Digitale Endgeräte</tspan></text>
+         id="tspan163">Digital Devices</tspan></text>
     <rect
        style="fill:#ffffff;stroke-width:0.884477;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2752-6"
@@ -2355,7 +2358,7 @@
          y="129.44987"
          x="27.002008"
          sodipodi:role="line"
-         id="tspan163-24">Suche</tspan></text>
+         id="tspan163-24">Search</tspan></text>
     <rect
        style="fill:#ffffff;stroke-width:0.720479"
        id="rect2752-6-8"
@@ -2406,14 +2409,14 @@
        rx="3.8960361" />
     <text
        id="text854-9-7-7-0-1-74-4"
-       y="181.75404"
-       x="181.94234"
+       y="181.90463"
+       x="186.15869"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
        xml:space="preserve"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.154558"
-         y="181.75404"
-         x="181.94234"
+         y="181.90463"
+         x="186.15869"
          sodipodi:role="line"
-         id="tspan163-65-4">Videokonferenz</tspan></text>
+         id="tspan163-65-4">Video conference</tspan></text>
   </g>
 </svg>
