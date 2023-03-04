@@ -54,9 +54,7 @@ Im Footer könnten z.B. links zu relevanten anderen Notizen stehen die nicht im 
 Wenn du einen Gedanken in eigenen Worten wiedergeben kannst, dann hast du den Gedanken verstanden. Im Wesentlichen kannst du damit überprüfen, ob du das Wissen nun erworben hast oder nicht. Wenn du den Gedanken in eigenen Worten ausformulierst und dafür nicht die passenden Worte findest, merkst du, dass du es doch nicht verstanden hast oder üben solltest. Kannst du es hingegen in eigenen Worten ausdrücken, wirst du dafür bereits dein eigenes sprachliches (oder eben auch visuelles) Meta-Model verwenden. All das garantiert dir mit großer Wahrscheinlichkeit, dass du auch in ein paar Jahren noch die Idee wiedergeben kannst und sie verstanden ist. Auf dieses Thema wird in der Kata _dauerhafte Notizen erstellen_ ausführlich eingegangen.
 
 
-![Sprechblasen](images/Sprechblasen.jpeg)
-Autor/in: PicoStudio
-
+![Sprechblasen](images/Sprechblasen.png)
 
 
 #### Progressive Summarization
