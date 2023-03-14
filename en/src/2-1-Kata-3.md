@@ -57,9 +57,7 @@ In the footer could be links to other relevant notes that are not in the text, b
 If you can reproduce a thought in your own words, then you have understood the thought. In essence, you can check whether you have acquired the knowledge or not. If you express the thought in your own words and can't find the right words for it, you realize that you didn't understand it after all or maybe you need to practice to improve your performance. If you can express it in your own words, you will already use your own linguistic (or visual) meta-model. All this will most likely guarantee that in a few years you will still be able to express the idea and that it will be understood. This topic will be discussed again in detail in the kata _Creating durable notes_.
 
 
-![Speech bubbles](images/Sprechblasen.jpeg)
-Autor/in: PicoStudio
-
+![Sprechblasen](images/Sprechblasen.png)
 
 
 #### Progressive Summarization
