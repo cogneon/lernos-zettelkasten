@@ -67,6 +67,10 @@ The question that can help you to define the Key Results is: How do I know that 
 - Book [The Beginner's Guide To OKR by Felipe Castro](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) (english)
 
 #### exercises
+- Using a method of your choice, define your goal(s) for this learning sprint.
+- Share your goal(s) with the Circle
+
+
 #### Reflection part
 What is already going well?
 What have you already achieved?
