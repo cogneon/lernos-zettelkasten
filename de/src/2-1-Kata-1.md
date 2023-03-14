@@ -67,6 +67,9 @@ Die Frage, die einem dabei helfen kann, welche Key Results erreicht werden soll 
 -   Buch [The Beginner’s Guide To OKR von Felipe Castro](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) (englisch)
 
 #### Übungen
+- Definiere mit einer Methode deiner Wahl dein(e) Ziel(e) für diesen Lernsprint
+- Teile dein(e) Ziel(e) mit dem Circle
+
 #### Reflexionsteil
 Was läuft bereits gut?
 Was hast du bereits erreicht?
