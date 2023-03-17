@@ -54,6 +54,9 @@ Die Frage, die einem dabei helfen kann, welche Key Results erreicht werden soll 
 1. Key Result: Das Schlüsselergebnis, dass auf der Hand liegt, sind die 15 geschriebenen Seiten.
 2. Key Result: Nima hat einen vollständigen Workflow erarbeitet. Dazu zählt eine Leseroutine, die Übertragung der Notizen in permanente Notizen, die Verlinkung von Gedanken,....
 
+**Weitere Methoden zur Zielsetzung**
+WOOP, PACT, OKR: https://youtu.be/ogfCDKw2lbU
+
 **Weitere Informationen:**
 
 -   Wikipedia Artikel [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria) (englisch)
