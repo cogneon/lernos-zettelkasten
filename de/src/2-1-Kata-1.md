@@ -55,7 +55,9 @@ Die Frage, die einem dabei helfen kann, welche Key Results erreicht werden soll 
 2. Key Result: Nima hat einen vollständigen Workflow erarbeitet. Dazu zählt eine Leseroutine, die Übertragung der Notizen in permanente Notizen, die Verlinkung von Gedanken,....
 
 **Weitere Methoden zur Zielsetzung**
-WOOP, PACT, OKR: https://youtu.be/ogfCDKw2lbU
+WOOP, PACT, OKR:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogfCDKw2lbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Weitere Informationen:**
 
