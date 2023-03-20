@@ -6,7 +6,7 @@
 Markdown ist eine Auszeichnungssprache. Das bedeutet, es werden Steuerzeichen im Text verwendet um anzuweisen wie der Text dargestellt werden soll. Die Steuerzeichen kommen also wirklich direkt in den Text. Es ließe sich mit HTML^[Internetseiten werden mit HTML beschrieben.] oder LaTeX^[Eine Zeichensetzsprache die besonders in der Wissenschaft angewendet wird.] vergleichen. Doch keine Sorge, du musst hier nicht programmieren, sehr wenige Zeichen reichen aus und die Programme stellen den Text dann ohne die Steuerzeichen da.
 Damit du dir das jetzt auch vorstellen kannst, hier ein praktisches Beispiel worum es geht.
 
-links ist der Text mit den Formatierungszeichen. Links ist, was du dann in der Darstellung siehst.
+links ist der Text mit den Formatierungszeichen. Rechts ist, was du dann in der Darstellung siehst.
 ![Vegleich zu Mark-Down Syntax und gerenderter Ansicht](images/Vergleich-MarkDown-Gerendert.png)
 
 Der große Vorteil ist, dadurch das es alles nur Text Dateien sind (wie mit der Endung .txt die du manchmal auf dem Computer siehst). Sie sind also auf jedem System lesbar. die Endung .md sagt also nur aus, das Syntax zur Interpretation in dem Format Mark-Down enthalten sind.
