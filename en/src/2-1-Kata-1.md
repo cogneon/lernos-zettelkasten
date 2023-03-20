@@ -54,8 +54,12 @@ The question that can help you to define the Key Results is: How do I know that 
 1st Key Result: The key result that is obvious is the 15 pages written.
 2nd Key Result: Nima has developed a complete workflow. This includes a reading routine, transferring notes to permanent notes, linking thoughts,....
 
+**Other methods for goal setting**.
+WOOP, PACT, OKR:
+
 **Additional Information.
 
+- WOOP, PACT, OKR: https://youtu.be/ogfCDKw2lbU
 - Wikipedia article [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria) (English).
 - MIT Sloan article [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart) (English)
 - Article [OKR - Google's Wonder Weapon for Business Success or: Get Out of the Comfort Zone](https://t3n.de/news/okr-google-wunderwaffe-valley-ziele-530092/) (German)

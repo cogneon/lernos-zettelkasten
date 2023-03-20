@@ -6,7 +6,7 @@
 Markdown is a markup language. This means that control characters are used in the text to indicate how the text should be displayed. So the control characters really go directly into the text. It could be compared to HTML^[Web pages are described with HTML] or LaTeX^[A markup language used especially in science]. But don't worry, you don't have to program here, very few characters are enough and the programs then display the text without the control characters.
 To give you an idea of what this is all about, here is a practical example.
 
-On the left is the text with the formatting characters. On the left is what you then see in the display.
+On the left is the text with the formatting characters. On the right is what you then see in the display.
 ![Comparison to mark-down syntax and rendered view](images/Vergleich-MarkDown-Gerendert.png)
 
 The big advantage is that they are all text files (like the .txt extension you sometimes see on your computer). So they are readable on any system. The extension .md says only that syntax for interpretation is included in the format mark-down.
