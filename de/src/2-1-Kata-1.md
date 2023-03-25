@@ -55,11 +55,11 @@ Die Frage, die einem dabei helfen kann, welche Key Results erreicht werden soll 
 2. Key Result: Nima hat einen vollständigen Workflow erarbeitet. Dazu zählt eine Leseroutine, die Übertragung der Notizen in permanente Notizen, die Verlinkung von Gedanken,....
 
 **Weitere Methoden zur Zielsetzung**
-WOOP, PACT, OKR: 
+WOOP, PACT, OKR:
 
 **Weitere Informationen:**
 
--   WOOP, PACT, OKR: https://youtu.be/ogfCDKw2lbU
+-   [WOOP, PACT, OKR](https://youtu.be/ogfCDKw2lbU) (deutsch)
 -   Wikipedia Artikel [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria) (englisch)
 -   MIT Sloan Artikel [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart) (englisch)
 -   Artikel [OKR – Googles Wunderwaffe für den Unternehmenserfolg oder: Raus aus der Komfortzone](https://t3n.de/news/okr-google-wunderwaffe-valley-ziele-530092/) (deutsch)

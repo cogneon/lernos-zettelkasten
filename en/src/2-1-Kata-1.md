@@ -59,7 +59,7 @@ WOOP, PACT, OKR:
 
 **Additional Information.
 
-- WOOP, PACT, OKR: https://youtu.be/ogfCDKw2lbU
+- [WOOP, PACT, OKR](https://youtu.be/ogfCDKw2lbU) (german)
 - Wikipedia article [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria) (English).
 - MIT Sloan article [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart) (English)
 - Article [OKR - Google's Wonder Weapon for Business Success or: Get Out of the Comfort Zone](https://t3n.de/news/okr-google-wunderwaffe-valley-ziele-530092/) (German)
