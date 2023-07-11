@@ -22,6 +22,7 @@ Do you still have open questions?
 Are you still on track and have your learning goal clearly in mind or has your goal changed and should therefore be readjusted?
 
 Outlook:
+
 - Finding information,
 - Create a "map of content" and think in a box of notes,
 - Establish a workflow so that you can expand and use your knowledge in the best possible way in the future.
