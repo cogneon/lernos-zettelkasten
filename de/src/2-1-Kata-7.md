@@ -18,10 +18,11 @@ Eine weitere wichtige Grundlage ist die Struktur einer Notiz. Durch einen konsis
 
 Ein weiteres wichtiges Konzept ist das Verzetteln. Verknüpfe deine Gedanken und schaffe natürliche Einstiegspunkte in Themen. So entstehen Verbindungen zwischen verschiedenen Themen und es kann zu neuen Ideen und Ansätzen führen. Durch das Verlinken von relevanten Informationen erhöhst du die Auffindbarkeit und Merkfähigkeit.
 
-Hast du nocch offene Fragen?
-Bist du noch auf Kurs und hast dein Lernziel klar vor Augen oder hat sich dein Ziel verändert und sollte deshalb nachjustiers werden?
+Hast du noch offene Fragen?
+Bist du noch auf Kurs und hast dein Lernziel klar vor Augen oder hat sich dein Ziel verändert und sollte deshalb nachjustiert werden?
 
 Ausblick:
+
 - finden von Informationen,
 - Erstellen einer "Map of Content" und Denken im Zettelkasten,
 - einen Workflow etablieren, damit du dein Wissen auch zukünftig bestmöglich erweitern und nutzen kannst.
