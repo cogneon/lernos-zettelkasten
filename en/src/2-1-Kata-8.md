@@ -6,7 +6,7 @@ You have now already created some notes in your note box. But your notes are sti
 
 Retrievability means being able to find information you once stored later when you need it. This contrasts with information retrieval, where you know the information you are looking for is in a specific document and you have to search that document specifically. An important aspect of linking knowledge is the ability to link to notes that fit the topic. Of course, this is most easily done if you remember that you have that information in your Zettelkasten. Otherwise, we are already in the topic, how do you find information back in your note box?
 
-Successful knowledge management should therefore originate bottom-up topic oriented and have indexes, or map of content notes, as entry points. This way, you can avoid getting lost in the flood of notes and instead search specifically for information that you had in your head but can no longer name precisely. Or even "stumbles" across information that you had "forgotten" was in the system.
+Successful knowledge management should therefore originate bottom-up topic oriented and have indexes, or Map Of Content (MOC) notes, as entry points. This way, you can avoid getting lost in the flood of notes and instead search specifically for information that you had in your head but can no longer name precisely. Or even "stumbles" across information that you had "forgotten" was in the system.
 
 Factors that influence the retrievability of information include the structure and organization of the notes, the use of keywords and tags, the possibility of full-text search, and the use of metadata.
 

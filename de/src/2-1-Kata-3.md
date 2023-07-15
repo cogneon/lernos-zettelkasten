@@ -59,7 +59,7 @@ Wenn du einen Gedanken in eigenen Worten wiedergeben kannst, dann hast du den Ge
 
 #### Progressive Summarization
 
-Progressive Summarization ist eine Technik um einen Text in iterativen Schritten zusammen zu fassen und auf das Wesentliche zu reduzieren.
+Progressive Summarization, der Begriff wurde von Tiago Forte geprägt, ist eine Technik um einen Text in iterativen Schritten zusammen zu fassen und auf das Wesentliche zu reduzieren.
 Idealerweise bleibt nach jeder Iteration 10% Text übrig.
 
 * Stufe 1: der Vollständige Textausschnitt aus einer Quelle

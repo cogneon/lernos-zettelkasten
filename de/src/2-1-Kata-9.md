@@ -1,12 +1,12 @@
 ![Kompass](images/woche9.png)
 
-## Woche 9 - MOC in 3 Stufen
+## Woche 9 - Map Of Content in 3 Stufen
 
 
 ### Theorie
-Du fragst dich vielleicht, was ist eine MOC und wofür du MOCs in deinem Zettelkasten brauchst? MOC stellen Einstiegspunkte zu größeren Themenfeldern dar. Sie sind eine Karte zu deinem Wissen mit dem du dich innerhalb eines Themenfeldes sicher orientieren kannst. Sie ermöglichen dir einen schnellen Überblick, ohne dabei in alle Details noch mal reinlesen zu müssen. Bei Bedarf kannst du natürlich auch tiefer in die Details reinlesen. Wie gesagt, du kannst ein Thema mit vielen Notizen mittels einer MOC überblicken und es auch stärker herausarbeiten. Stell dir eine MOC wie einen Raum vor, in dem alle Notizen zu einem Thema existieren können, ohne dass du sie direkt sinnvoll miteinander kombinieren musst, aber könntest. Du kannst einfach in deinem Zettelkasten einen Raum erstellen in dem alle Notizen zu einem Thema enthalten sind und du keinen Zwang hast sie jetzt direkt logisch und aufeinander aufbauend verlinken zu müssen. Sie dürfen alle dort drin sein.
+Du fragst dich vielleicht, was ist eine Mape Of Content (MOC) und wofür du MOCs in deinem Zettelkasten brauchst? MOC stellen Einstiegspunkte zu größeren Themenfeldern dar. Sie sind eine Karte zu deinem Wissen mit dem du dich innerhalb eines Themenfeldes sicher orientieren kannst. Sie ermöglichen dir einen schnellen Überblick, ohne dabei in alle Details noch mal reinlesen zu müssen. Bei Bedarf kannst du natürlich auch tiefer in die Details reinlesen. Wie gesagt, du kannst ein Thema mit vielen Notizen mittels einer MOC überblicken und es auch stärker herausarbeiten. Stell dir eine MOC wie einen Raum vor, in dem alle Notizen zu einem Thema existieren können, ohne dass du sie direkt sinnvoll miteinander kombinieren musst, aber könntest. Du kannst einfach in deinem Zettelkasten einen Raum erstellen in dem alle Notizen zu einem Thema enthalten sind und du keinen Zwang hast sie jetzt direkt logisch und aufeinander aufbauend verlinken zu müssen. Sie dürfen alle dort drin sein.
 
-Nun fragst du dich vielleicht, wann du eine MOC erstellen solltest? Du solltest eine MOC erstellen, wenn du das Gefühl hast, den Überblick über ein Thema zu verlieren. Dann ist es wirklich höchste Zeit. Ein Indiz könnte auch sein wenn du immer wieder nach Informationen suchst, sie aber nicht direkt findest.
+Nun fragst du dich vielleicht, wann du eine MOC erstellen solltest? Nick Milo hat hier einen hilfreichen Rat und auch gleich eine Methode vorgeschlagen die wir hier nutzen. Du solltest eine MOC erstellen, wenn du das Gefühl hast, den Überblick über ein Thema zu verlieren. Dann ist es wirklich höchste Zeit. Ein Indiz könnte auch sein wenn du immer wieder nach Informationen suchst, sie aber nicht direkt findest.
 
 
 1. Alle Notizen zum Thema in eine neue Notiz holen
