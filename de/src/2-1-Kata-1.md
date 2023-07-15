@@ -1,10 +1,8 @@
 ![Wenn du die Geschichte deines Lebens schreibst, lass niemand anderen den Stift in die Hand nehmen](images/woche1-1.png)
 
-## Woche 1 - Zieldefinition & Termin mit dir selber
+## Kata 1
 
-Woche 1 besteht als einzige Woche aus zwei Themen. Deine Zieldefinition und einen Termin mit dir selber vereinbaren.
-
-### Zieldefinition
+### Mein Ziel für die nächsten 12 Wochen
 
 #### Theorie
 Was willst du in den nächsten zwölf Wochen erreichen? Du kannst ein Ziel auswählen, das dir wirklich, wirklich wichtig ist und mit dem du beim Sprint ganz konkrete Fortschritte machst. Besonders für Persönliches Wissensmanagement (PKM) - Einsteiger*innen ist es jedoch nicht die oberste Priorität, das Ziel zu erreichen. Im Fokus steht neben dem Erlernen des Basiswissens, der Umgebung, der Auffindbarkeit und Dauerhaftigkeit von Notizen, immer noch ganz besonders das regelmäßige Anwenden der neu gewonnenen Fähigkeiten.

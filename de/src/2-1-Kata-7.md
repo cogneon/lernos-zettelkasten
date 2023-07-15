@@ -1,47 +1,45 @@
-![Stopp](images/Boxenstopp.png)
 
-## Woche 7 - Boxenstop
+![Flüchtige Notizen](images/woche4.png)
 
+## Kata 7 - Erste Notizen erstellen
 
 ### Theorie
 
-Herzlichen Glückwunsch, du hast es bis hierhin geschafft und bist sehr weit gekommen! Du besitzt nun die wichtigsten Grundlagen für dein persönliches Wissensmanagement, und zwar:
+Ein erfolgreiches persönliches Wissensmanagement im Zettelkasten ist kein Sprint sondern ein Marathon. Nimm dir deshalb Zeit, um regelmäßig Notizen anzulegen und zu verarbeiten. Jede Notiz, jede Verlinkung von Notizen und die dabei entstehenden Gedanken helfen dir dabei die  Zettelkasten-Methode zu verinnerlichen.
 
-Eine wichtige Grundlage ist deine PKM-Umgebung. Hier findest du alle deine Informationen und Notizen. Du hast bereits verschiedene Arten von Notizen kennengelernt:
+Um das Anlegen und Verarbeiten von Notizen einfacher und energieeffizienter zu gestalten, solltest du Routinen aufbauen.  Am besten du trägst Zeiten in deinem Kalender ein, an denen du Notizen erstellst und verarbeitest.
 
-- flüchtige Notizen,
-- Literaturnotizen,
-- permanente Notizen und
-- den "map of contents"
+Flüchtige Notizen, (z.B aus Meetings oder Vorlesung), solltest du zeitnah verarbeiten, um dich später besser daran erinnern zu können. Je kürzer der Abstand zwischen dem Entstehen der flüchtigen Notiz und ihrer Verarbeitung ist, desto besser kannst du dich noch an den Kontext beim Notieren der flüchtigen Notiz erinnern und in eine permanente Notiz schreiben.
 
-Eine weitere wichtige Grundlage ist die Struktur einer Notiz. Durch einen konsistenten Aufbau kannst du dich schnell orientieren und Informationen besser erfassen und ergänzen. Ein einzigartiger Titel, am besten ein Sprechender Titel, und den Gedanken prägnant auf den Punkt zu bringen unterstützt dich in deiner Wissensarbeit. Metadaten helfen dir, um Informationen zu finden.
+Um deine erste Notiz im Zettelkasten anzulegen, kannst du die Informationen aus Woche 3 (Notizen kennenlernen) nutzen. Das Thema deiner ersten Notiz ist dabei nicht so wichtig, es sollte einfach etwas sein, das dich interessiert, aber nicht so wichtig ist, dass es dich lähmt. Du kannst alle deine Gedanken in eine Notiz schreiben oder für jeden Gedanken eine einzelne Notiz anlegen. In der nächsten Woche (Woche 6) werden wir dieses Thema noch mal geziehl aufgreifen.
 
-Ein weiteres wichtiges Konzept ist das Verzetteln. Verknüpfe deine Gedanken und schaffe natürliche Einstiegspunkte in Themen. So entstehen Verbindungen zwischen verschiedenen Themen und es kann zu neuen Ideen und Ansätzen führen. Durch das Verlinken von relevanten Informationen erhöhst du die Auffindbarkeit und Merkfähigkeit.
 
-Hast du noch offene Fragen?
-Bist du noch auf Kurs und hast dein Lernziel klar vor Augen oder hat sich dein Ziel verändert und sollte deshalb nachjustiert werden?
+#### Tipp
+Wenn du dir unsicher bist, welche Informationen du in deinen Zettelkasten mit aufnehmen solltest, kannst du die Information auf folgende Kriterien hin prüfen: die Information,
+- spricht mich an
+- macht mich nachdenklich
+- brauche ich für ein Thema, an dem ich arbeite.
+Schau bei Bedarf noch einmal in die Kata  _Woche 3 - Notizen kennenlernen_ rein.
 
-Ausblick:
 
-- finden von Informationen,
-- Erstellen einer "Map of Content" und Denken im Zettelkasten,
-- einen Workflow etablieren, damit du dein Wissen auch zukünftig bestmöglich erweitern und nutzen kannst.
+#### Tipp 2
+Um in Mark-Down Links zu erstellen einfach \[\[ \]\] um den Notiznamen setzen und es wird daraus ein Link, das Funktioniert auch in OneNote um Links auf Seiten zu erzeugen.
+
+![Links erstellen](images/links-erstellen.png)
 
 
 ### Übungen
-- Passen deine aktuellen Ziele immer noch für dich und wie kannst du sicherstellen, dass du sie in den verbleibenden 5 Wochen erreichst?
-	- Wenn sie nicht mehr passen, ändere sie doch, so dass sie wieder für dich passen (Auch das ist möglich).
-- Notiere dir die drei grundsätzlichen Fragen die du im Hinblick auf den Zettelkasten hast.
-- Teile deinen Fortschritt deiner Ziele mit deinem Zirkel
-- Diskutiere deine Fragen in deinem Zirkel
+- Notiz(en) erstellen
+	- Lies einen Artikel/Buch/Thema, das dich interessiert und erstelle daraus Notiz(en)
+- Optional: Setze dir einen Regeltermin, der über den Sprint hinausgeht, um zu einem festgelegten Zeitpunkt deine flüchtigen Notizen zu verarbeiten.
+	- zusätzlich zum Regeltermin für den Sprint kannst du einen weiteren Termin für deinen Zettelkasten ins Leben rufen
 
-### Reflexionsteil
-- Fühlst du dich sicher im Umgang mit deinem Zettelkasten?
-- Fühlst du dich wohl mit deinem Ziel und der bisherigen Erreichung?
+
 
 ### Lernziel
-- Überprüfen, ob das eigene Ziel erreicht werden kann
-- Feststellen, welche Fragen offen sind im Hinblick auf den Zettelkasten
+- Du kannst, eine Notiz im Zettelkasten erstellen, die du auch in 10 Jahren verstehst.
+- Du hältst deine Regeltermine ein.
+- Du legst regelmäßig Notizen in deinem Zettelkasten ab.
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"
