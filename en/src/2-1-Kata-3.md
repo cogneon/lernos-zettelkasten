@@ -62,7 +62,7 @@ If you can reproduce a thought in your own words, then you have understood the t
 
 #### Progressive Summarization
 
-Progressive Summarization is a technique to summarize a text in iterative steps and reduce it to the essentials.
+Progressive Summarization, the term was defined by Tiago Forte,  is a technique to summarize a text in iterative steps and reduce it to the essentials.
 Ideally, 10% text remains after each iteration.
 
 Step 1: the complete text excerpt from a source
