@@ -6,7 +6,7 @@
 
 Als Vorbereitung
 
-[ ] `Kata 12: Wiederauffindbarkeit des Wissens`
+[ ] [Kata 12](2-1-Kata-12.md): Wiederauffindbarkeit des Wissens
 
 Im Weekly
 

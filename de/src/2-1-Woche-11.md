@@ -5,7 +5,7 @@
 
 Als Vorbereitung
 
-[ ] `Kata 15: Finde deinen Workflow`
+[ ] [Kata 15](2-1-Kata-15.md): Finde deinen Workflow
 
 Im Weekly
 

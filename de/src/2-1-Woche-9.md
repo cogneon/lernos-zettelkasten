@@ -6,7 +6,7 @@ Wie findest du deine Notizen wieder, wenn es allmählich mehr werden? Noch sind 
 
 Als Vorbereitung
 
-[ ] `Kata 13: Map Of Content in 3 Stufen`
+[ ] [Kata 13](2-1-Kata-13.md): Map Of Content in 3 Stufen
 
 Im Weekly
 

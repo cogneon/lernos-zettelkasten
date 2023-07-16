@@ -6,7 +6,7 @@ Notizen sammeln ist schön und gut. Geht es dir nicht auch so, dass du Gedanken 
 
 Als Vorbereitung
 
-[ ] `Kata 14: Denken im Zettelkasten`
+[ ] [Kata 14](2-1-Kata-14.md): Denken im Zettelkasten
 
 Im Weekly
 

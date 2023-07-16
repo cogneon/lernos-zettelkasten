@@ -6,7 +6,7 @@ du wirst dich mit dauerhaten Notizen beschäfigen, Notizen die du immer wieder v
 
 Als Vorbereitung
 
-[ ] `Kata 9: Verzetteln`
+[ ] [Kata 9](2-1-Kata-9.md): Verzetteln
 
 Im Weekly
 
