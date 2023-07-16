@@ -4,23 +4,25 @@
 
 du wirst dich mit dauerhaten Notizen beschäfigen, Notizen die du immer wieder verwdenden kannst.
 
-Als Vorbereitung
+### Als Vorbereitung
 
 [ ] [Kata 9](2-1-Kata-9.md): Verzetteln
 
-Im Weekly
+### Im Weekly
 
 [ ] Check in (2 Minuten pro Member)
 
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
-Leitfragen:
+#### Leitfragen
+
 - Würdest du beim nächsten Verzetteln anders vorgehen?
 	- Was gefällt dir an deinem bisherigen Vorgehen?
 	- Was würdest du beim nächsten Mal anders machen?
 	- Was würde dir dabei helfen?
 - Bist du mit dem Ergebnis zufrieden?
 
+### Schluss
 
 [ ] Check-Out (1 Minute pro Member)
 

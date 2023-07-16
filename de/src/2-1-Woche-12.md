@@ -4,12 +4,12 @@
 
 Du hast dich auf den Weg gemacht: Aber bist du auch schon am Ziel? Wie geht es weiter? Hast du deine Passion gefunden? Ist nach dem Circle vor dem Circle? Und wann gehen wir eigentlich feiern?
 
-Als Vorbereitung
+### Als Vorbereitung
 
 [ ] [Kata 16](2-1-Kata-16.md): Retrospektive
 [ ] Wie geht es weiter? Was nimmst du dir als nächstes vor?
 
-Im Weekly
+### Im Weekly
 
 [ ] Check in (2 Minuten pro Member)
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
@@ -28,6 +28,7 @@ Bestimmt habt ihr in eurem Circle auch ganz eigene Ideen, woran ihr weiter arbei
 [ ] Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern.
 [ ] Wie geht es weiter?
 [ ] Check out (1 Minute pro Member)
+
 
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
