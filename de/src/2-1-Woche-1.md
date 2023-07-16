@@ -6,9 +6,9 @@ In dieser Woche wählst du dein Ziel für den Sprint.
 
 Als Vorbereitung
 
-[ ] Kata 1: Mein Ziel für die nächsten 12 Wochen
+[ ] [Kata 1](2-1-Kata-1.md): Mein Ziel für die nächsten 12 Wochen
 
-[ ] Kata 2: Ein Termin mit dir selbst
+[ ] [Kata 2](2-1-Kata-2.md): Ein Termin mit dir selbst
 
 Im Weekly
 
@@ -16,7 +16,7 @@ Im Weekly
 
 Austausch: Eure Ziele im Sprint (10 Minuten pro Member)
 
-[ ] Teilt eure Ziele aus Kata 1 miteinander.
+[ ] Teilt eure Ziele aus [Kata 1](2-1-Kata-1.md) miteinander.
 Leitfragen:
 
 Warum machst du das?

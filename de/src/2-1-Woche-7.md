@@ -6,9 +6,9 @@ Hey, Herzlichen Glückwunsch! Du bist bis hierhin gekommen, das ist bereits ein 
 
 Als Vorbereitung
 
-[ ] `Kata 10: bist du on Track?`
+[ ] [Kata 10](2-1-Kata-10.md): bist du on Track?
 
-[ ] `Kata 11: Ausblick`
+[ ] [Kata 11](2-1-Kata-11.md): Ausblick
 
 Im Weekly
 

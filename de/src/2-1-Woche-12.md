@@ -6,7 +6,7 @@ Du hast dich auf den Weg gemacht: Aber bist du auch schon am Ziel? Wie geht es w
 
 Als Vorbereitung
 
-[ ] `Kata 16: Retrospektive`
+[ ] [Kata 16](2-1-Kata-16.md): Retrospektive
 [ ] Wie geht es weiter? Was nimmst du dir als nächstes vor?
 
 Im Weekly

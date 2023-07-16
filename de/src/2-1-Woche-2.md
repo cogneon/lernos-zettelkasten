@@ -6,7 +6,7 @@ In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umge
 
 Als Vorbereitung
 
-[ ] Kata 3: PKM-Umgebung Einrichten
+[ ] [Kata 3](2-1-Kata-3.md): PKM-Umgebung Einrichten
 
 Im Weekly
 

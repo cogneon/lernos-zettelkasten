@@ -6,7 +6,7 @@ In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umge
 
 Als Vorbereitung
 
-[ ] `Kata 7: Erste Notizen erstellen` lesen und Notizen erstellen
+[ ] [Kata 7](2-1-Kata-7.md): Erste Notizen erstellen lesen und Notizen erstellen
 
 Im Weekly
 

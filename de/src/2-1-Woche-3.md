@@ -6,9 +6,9 @@ In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umge
 
 Als Vorbereitung
 
-[ ] `Kata 5: Notizen kennenlernen` lesen
+[ ] [Kata 5](2-1-Kata-5.md): Notizen kennenlernen lesen
 
-[ ] `Kata 6: Progressive Summarization` lesen und an einem Artikel/Website ausprobieren
+[ ] [Kata 6](2-1-Kata-6.md): Progressive Summarization lesen und an einem Artikel/Website ausprobieren
 
 Im Weekly
 

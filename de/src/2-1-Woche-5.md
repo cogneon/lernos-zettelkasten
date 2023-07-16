@@ -6,7 +6,7 @@ du wirst dich mit dauerhaten Notizen beschäfigen, Notizen die du immer wieder v
 
 Als Vorbereitung
 
-[ ] `Kata 8: dauerhafte Notizen erstellen`
+[ ] [Kata 8](2-1-Kata-8.md): dauerhafte Notizen erstellen
 
 Im Weekly
 

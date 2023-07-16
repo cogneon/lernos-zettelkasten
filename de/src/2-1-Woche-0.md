@@ -8,16 +8,16 @@ Im Weekly
 
 [ ] Check in (2 Minuten pro Member)
 
-Leitfragen:
+**Leitfragen**
 
 Worum geht es dir bei deinem persönlichem Wissensmanagement?
 
 Fängst du gerade an oder hast du bereits ein persönliches Wissensmanagement
 
 
-[ ] Kata 0: Circle Setup (20 Minuten)
+[ ] [Kata 0](2-1-Kata-0.md): Circle Setup (20 Minuten)
 
-[ ] Kata 4: Feedback (10 Minuten)
+[ ] [Kata 4](2-1-Kata-4.md): Feedback (10 Minuten)
 
 [ ] Check Out (1 Minute pro Member)
 
