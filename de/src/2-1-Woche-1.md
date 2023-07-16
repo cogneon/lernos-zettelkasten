@@ -4,34 +4,33 @@
 
 In dieser Woche wählst du dein Ziel für den Sprint.
 
-Als Vorbereitung
+### Als Vorbereitung
 
 [ ] [Kata 1](2-1-Kata-1.md): Mein Ziel für die nächsten 12 Wochen
 
 [ ] [Kata 2](2-1-Kata-2.md): Ein Termin mit dir selbst
 
-Im Weekly
+### Im Weekly
 
 [ ] Check in (2 Minuten pro Member)
 
 Austausch: Eure Ziele im Sprint (10 Minuten pro Member)
 
 [ ] Teilt eure Ziele aus [Kata 1](2-1-Kata-1.md) miteinander.
-Leitfragen:
 
-Warum machst du das?
+#### Leitfragen
 
-Was inspiriert dich daran ?
+- Warum machst du das?
+- Was inspiriert dich daran ?
+- Was heißt es für dich, ein Ziel erreicht zu haben?
+- Wie hast du deine Ziele nach OKR quantitativ messbar gemacht?
+- Wie feierst du, wenn du dein Ziel erreicht hast?
 
-Was heißt es für dich, ein Ziel erreicht zu haben?
-
-Wie hast du deine Ziele nach OKR quantitativ messbar gemacht?
-
-Wie feierst du, wenn du dein Ziel erreicht hast?
-
-Austausch: Ein Termin mit dir selbst (5 Minuten)
+- Austausch: Ein Termin mit dir selbst (5 Minuten)
 
 [ ] Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat euch dabei geholfen?
+
+### Schluss
 
 [ ] Check-Out (1 Minute pro Member)
 
