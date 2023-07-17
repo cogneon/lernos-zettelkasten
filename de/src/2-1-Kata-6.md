@@ -2,6 +2,8 @@
 
 ### Theorie
 
+Verwendet in [Woche 3](2-1-Woche-3.md)
+
 Progressive Summarization, der Begriff wurde von Tiago Forte geprägt, ist eine Technik um einen Text in iterativen Schritten zusammen zu fassen und auf das Wesentliche zu reduzieren.
 Idealerweise bleibt nach jeder Iteration 10% Text übrig.
 

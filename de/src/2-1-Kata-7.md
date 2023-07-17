@@ -3,6 +3,8 @@
 
 ## Kata 7 - Erste Notizen erstellen
 
+Verwendet in [Woche 4](2-1-Woche-4.md)
+
 ### Theorie
 
 Ein erfolgreiches persönliches Wissensmanagement im Zettelkasten ist kein Sprint sondern ein Marathon. Nimm dir deshalb Zeit, um regelmäßig Notizen anzulegen und zu verarbeiten. Jede Notiz, jede Verlinkung von Notizen und die dabei entstehenden Gedanken helfen dir dabei die  Zettelkasten-Methode zu verinnerlichen.

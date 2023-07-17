@@ -1,5 +1,7 @@
 ## Kata 0 - Circle Setup
 
+Verwendet in [Woche 0](2-1-Woche-0.md)
+
 ### Theorie
 Wenn ihr euch im Circle noch nicht kennt, lernt euch in der Woche 0 kennen. Plant, wann Ihr euch trefft, welche Tools zum Austausch ihr nutzt, wer die Moderation und wer das Zeitmanagement übernimmt. Ein Tipp für die Terminisierung ist, alle Termine gleich zu Beginn zu planen. Ihr könnt dabei jeden Termin einzeln planen oder euch ein wöchentliches Jour fixe für den Sprint festlegen. Protipp: Plant 2 zusätzliche Termine, falls krankheitsbedit etc. mal ein Treffen ausfällt.
 
