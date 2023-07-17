@@ -6,11 +6,11 @@ In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umge
 
 ### Als Vorbereitung
 
-[ ] [Kata 3](2-1-Kata-3.md): PKM-Umgebung Einrichten
+- [ ] [Kata 3](2-1-Kata-3.md): PKM-Umgebung Einrichten
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 Austausch: einrichten der PKM Umgebung
 
@@ -22,7 +22,7 @@ Austausch: einrichten der PKM Umgebung
 
 ### Schluss
 
-[ ] Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 

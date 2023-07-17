@@ -6,7 +6,7 @@ Bevor es losgeht, investiert etwas Zeit um euch kennenzulernen und die Rahmenbed
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 #### Leitfragen
 
@@ -14,13 +14,13 @@ Bevor es losgeht, investiert etwas Zeit um euch kennenzulernen und die Rahmenbed
 - Fängst du gerade an oder hast du bereits ein persönliches Wissensmanagement
 
 
-[ ] [Kata 0](2-1-Kata-0.md): Circle Setup (20 Minuten)
+- [ ] [Kata 0](2-1-Kata-0.md): Circle Setup (20 Minuten)
 
-[ ] [Kata 4](2-1-Kata-4.md): Feedback (10 Minuten)
+- [ ] [Kata 4](2-1-Kata-4.md): Feedback (10 Minuten)
 
 ### Schluss
 
-[ ] Check Out (1 Minute pro Member)
+- [ ] Check Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 

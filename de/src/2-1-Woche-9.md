@@ -6,11 +6,11 @@ Wie findest du deine Notizen wieder, wenn es allmählich mehr werden? Noch sind 
 
 ### Als Vorbereitung
 
-[ ] [Kata 13](2-1-Kata-13.md): Map Of Content in 3 Stufen
+- [ ] [Kata 13](2-1-Kata-13.md): Map Of Content in 3 Stufen
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
@@ -25,7 +25,7 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 
 ### Schluss
 
-[ ] Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 
