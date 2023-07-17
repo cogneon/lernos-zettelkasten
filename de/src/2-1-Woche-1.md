@@ -10,6 +10,8 @@ In dieser Woche wählst du dein Ziel für den Sprint.
 
 - [ ] [Kata 2](2-1-Kata-2.md): Ein Termin mit dir selbst
 
+- [ ] [Kata 3](2-1-Kata-3.md): Umgebung einrichten
+
 ### Im Weekly
 
 - [ ] Check in (2 Minuten pro Member)

@@ -2,7 +2,7 @@
 
 ## Kata 5 - Notizen kennenlernen
 
-Verwendet in [Woche 3](2-1-Woche-3.md)
+Verwendet in [Woche 2](2-1-Woche-2.md)
 
 ### Theorie
 
