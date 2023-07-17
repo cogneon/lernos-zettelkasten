@@ -2,7 +2,7 @@
 
 ## Kata 9 - Verzetteln
 
-Verwendet in [Woche 9](2-1-Woche-9.md)
+Verwendet in [Woche 6](2-1-Woche-6.md)
 
 ### Theorie
 Wir starten bei einem Gedanken und kommen von dort sequenziell zu einem nächsten Gedanken. Am Ende sind wir durch eine Verkettung von einem Startpunkt zu einem ganz anderem Punkt gekommen.

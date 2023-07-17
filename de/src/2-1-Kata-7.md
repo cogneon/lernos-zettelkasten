@@ -3,7 +3,7 @@
 
 ## Kata 7 - Erste Notizen erstellen
 
-Verwendet in [Woche 4](2-1-Woche-4.md)
+Verwendet in [Woche 3](2-1-Woche-3.md)
 
 ### Theorie
 
