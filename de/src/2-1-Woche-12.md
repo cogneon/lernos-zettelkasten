@@ -6,12 +6,12 @@ Du hast dich auf den Weg gemacht: Aber bist du auch schon am Ziel? Wie geht es w
 
 ### Als Vorbereitung
 
-[ ] [Kata 16](2-1-Kata-16.md): Retrospektive
-[ ] Wie geht es weiter? Was nimmst du dir als nächstes vor?
+- [ ] [Kata 16](2-1-Kata-16.md): Retrospektive
+- [ ] Wie geht es weiter? Was nimmst du dir als nächstes vor?
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
 
@@ -25,9 +25,9 @@ Wow, du hast es geschafft und der Sprint ist vollendet. Herzlichen Glückwunsch!
 
 Bestimmt habt ihr in eurem Circle auch ganz eigene Ideen, woran ihr weiter arbeiten wollt. Vielleicht bringt ihr Anwendungsideen aus euren eigenen Arbeitsfeldern oder Interessensgebieten ein und kreiert daraus Übungen. Besprecht, mit was ihr die Wochen nach dem Sprint ausfüllen wollt, denn es ist auf jeden Fall wichtig, dran zu bleiben, damit die Skills und die positiven Gewohnheiten, die ihr im Sprint aufgebaut habt, weiter gefestigt werden.
 
-[ ] Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern.
-[ ] Wie geht es weiter?
-[ ] Check out (1 Minute pro Member)
+- [ ] Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern.
+- [ ] Wie geht es weiter?
+- [ ] Check out (1 Minute pro Member)
 
 
 <script src="https://giscus.app/client.js"

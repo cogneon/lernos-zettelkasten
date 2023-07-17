@@ -6,17 +6,17 @@ In dieser Woche wählst du dein Ziel für den Sprint.
 
 ### Als Vorbereitung
 
-[ ] [Kata 1](2-1-Kata-1.md): Mein Ziel für die nächsten 12 Wochen
+- [ ] [Kata 1](2-1-Kata-1.md): Mein Ziel für die nächsten 12 Wochen
 
-[ ] [Kata 2](2-1-Kata-2.md): Ein Termin mit dir selbst
+- [ ] [Kata 2](2-1-Kata-2.md): Ein Termin mit dir selbst
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 Austausch: Eure Ziele im Sprint (10 Minuten pro Member)
 
-[ ] Teilt eure Ziele aus [Kata 1](2-1-Kata-1.md) miteinander.
+- [ ] Teilt eure Ziele aus [Kata 1](2-1-Kata-1.md) miteinander.
 
 #### Leitfragen
 
@@ -28,11 +28,11 @@ Austausch: Eure Ziele im Sprint (10 Minuten pro Member)
 
 - Austausch: Ein Termin mit dir selbst (5 Minuten)
 
-[ ] Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat euch dabei geholfen?
+- [ ] Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat euch dabei geholfen?
 
 ### Schluss
 
-[ ] Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 

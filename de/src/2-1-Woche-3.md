@@ -6,13 +6,13 @@ In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umge
 
 ### Als Vorbereitung
 
-[ ] [Kata 5](2-1-Kata-5.md): Notizen kennenlernen lesen
+- [ ] [Kata 5](2-1-Kata-5.md): Notizen kennenlernen lesen
 
-[ ] [Kata 6](2-1-Kata-6.md): Progressive Summarization lesen und an einem Artikel/Website ausprobieren
+- [ ] [Kata 6](2-1-Kata-6.md): Progressive Summarization lesen und an einem Artikel/Website ausprobieren
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
@@ -24,7 +24,7 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 
 ### Schluss
 
-[ ] Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 

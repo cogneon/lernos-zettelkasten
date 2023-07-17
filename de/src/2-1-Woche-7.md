@@ -6,13 +6,13 @@ Hey, Herzlichen Glückwunsch! Du bist bis hierhin gekommen, das ist bereits ein 
 
 ### Als Vorbereitung
 
-[ ] [Kata 10](2-1-Kata-10.md): bist du on Track?
+- [ ] [Kata 10](2-1-Kata-10.md): bist du on Track?
 
-[ ] [Kata 11](2-1-Kata-11.md): Ausblick
+- [ ] [Kata 11](2-1-Kata-11.md): Ausblick
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
@@ -24,7 +24,7 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 
 ### Schluss
 
-[ ] Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 
