@@ -1,36 +1,35 @@
-![Wiederauffindbarkeit des Wissens](images/woche8.png)
+![Länge der Notiz](images/woche5.png)
 
-## Woche 8 - Wiederauffindbarkeit des Wissens
+## Kata 8 - dauerhafte Notizen erstellen
+
 ### Theorie
-Du hast nun schon einige Notizen in deinen Zettelkasten angelegt. Noch lassen sich deine Notizen gut überblicken. Wenn dein Zettelkasten weiter wächst, kann es unübersichtlich werden. Daher geht es nun darum, wie du dein Wissen in deinem Zettelkasten wiederfinden kannst, wenn er immer umfangreicher wird. Eine zentrale Anforderung an dein System ist die Wiederauffindbarkeit von Informationen.
+Um dein persönliches Wissensmanagement effektiv zu gestalten, solltest du dich mit dem Begriff Atomarität vertraut machen:
 
-Wiederauffindbarkeit bedeutet, dass man in der Lage ist, Informationen, die man einmal gespeichert hat, später wiederzufinden, wenn man sie benötigt. Im Gegensatz dazu steht die Informationsbeschaffung, bei der man weiß, dass die gesuchte Information in einem bestimmten Dokument vorhanden ist und dieses gezielt durchsucht werden muss. Ein wichtiger Aspekt beim Verlinken von Wissen ist die Möglichkeit, an Notizen anzuknüpfen, die zu dem Thema passen. Selbstredend geht das am leichtesten, wenn du dich erinnerst, dass du diese Information in deinem Zettelkasten hast. Andernfalls sind wir bereits im Thema, wie findest du Informationen wieder in deinem Zettelkasten?
+Atomarität bedeutet, dass jede Notiz sich auf genau eine Idee bezieht. Diese Idee sollte elementar und auf den Punkt gebracht sein, ohne Prosa oder unnötige Details. Durch die atomare Struktur der Notizen, lassen sich aus vielen kleinen Bausteinen große Ideen oder abstrakte Betrachtungen erstellen, oder auch Gedankengänge miteinander verbinden.
 
-Ein erfolgreiches Wissensmanagement sollte daher bottom-up Themen orientiert entstehen und Indexe, oder auch Map of Content (MOC) Notizen, als Einstiegspunkte aufweisen. So kann man vermeiden, dass man sich beim Verzetteln in der Flut von Notizen verliert und stattdessen gezielt nach Informationen suchen kann, die man im Kopf hatte, es aber nicht mehr präzise benennen kann. Oder eben auch über Informationen "stolpert" die man "vergessen" hatte das sie im System sind.
+Ein wichtiger Bestandteil einer Notiz ist der Titel. Dieser sollte einzigartig sein und möglichst sprechend gestaltet werden. Auf diese Weise kann bereits am Titel erkannt werden, worum es in der Notiz geht und ob sie für das aktuelle Projekt von Nutzen sein kann. Es empfiehlt sich, die Länge des Titels auf ~20 Wörter^[256 Zeichen inklusive Dateipfad] zu beschränken.
 
-Faktoren, die die Wiederauffindbarkeit von Informationen beeinflussen, sind unter anderem die Struktur und Organisation der Notizen, die Verwendung von Schlagworten und Tags, die Möglichkeit der Volltextsuche und die Verwendung von Metadaten.
+In Bezug auf die Länge der Notiz, sollte der Text kurz gehalten werden, um den Gedanken schnell erfassen zu können. Als Richtwert kann man sich an 450 Wörtern oder einer DINA 6 Seite orientieren.
 
-Eine Möglichkeit der Wiederauffindbarkeit ist die Erstellung von Indexen bzw. einer MOC. Dabei werden große Anlaufpunkte definiert, von denen aus man auf detailliertere Informationen zugreifen kann. Eine weitere Möglichkeit ist die Verwendung von Tags, um Themenzugehörigkeiten schnell durchsehen zu können. Dabei sollten die TAGs aber eher sparsam verwendet werden, eine zu große Zahl an TAGs kann dazu führen, dass man den Wald vor lauter Bäumen nicht mehr sieht. Auch die TAGs sollten regelmäßig gepflegt werden, um nützlich zu bleiben. Eine Volltextsuche innerhalb der Notizen ermöglicht es, gezielt nach bestimmten Begriffen zu suchen. Durch die Verwendung von Metadaten, wie zum Beispiel Aliase, Autoren oder Buchtitel, lassen sich Notizen gezielt filtern und sortieren. Eine weitere Möglichkeit der Wiederauffindbarkeit ist die Verlinkung von Notizen untereinander. Dadurch kann man leicht von einem Thema zum nächsten übergehen und die Informationen thematisch zusammenhängend erfassen. Das was in der vorherigen Übung beim Verzetteln entsteht. Ein Gedankengang.
+Zusammengefasst, Notizen im Zettelkasten-Stil effektiv zu erstellen erfordert:
+
+- Atomarität: jede Notiz sollte sich auf eine elementare Idee beziehen, ohne Prosa oder unnötige Details.
+- Einzigartiger, sprechender Titel: der Titel sollte die Idee der Notiz auf den Punkt bringen und möglichst auf 20 Wörter beschränkt werden.
+- Kurze Textlänge: Der Text sollte kurz gehalten werden, um den Gedanken schnell erfassen zu können, Richtwert sind 450 Wörter oder eine DINA 6 Seite.
+
 
 ### Übungen
-- Verwende Schlagworte und Tags: Versuche, die Notizen in deinem Zettelkasten mit Schlagworten und Tags zu versehen, um die Themenzugehörigkeit zu erleichtern.
-- Erstelle eine Übersicht über die Schlagworte und Tags, die du in deinem Zettelkasten verwendest, und überlege, wie du sie gezielt einsetzen kannst, um die Wiederauffindbarkeit von Informationen zu verbessern.
-- Probiere die Volltextsuche aus: Experimentiere mit der Volltextsuche innerhalb deines Zettelkastens, um gezielt nach bestimmten Begriffen suchen zu können.
-- Experimentiere wie du dich an einem Gedankengang entlanghangeln könntest um eine Information innerhalb des Strangs zu finden. Auch wenn du genau weißt wo die Information ist, wie würdest du dorthin navigieren wenn du nur wüsstest das sie _irgendwo_ in diesem Strang ist?
+- Hast du einen Zettel, der die drei oben genannten Kriterien nicht erfüllt?
+- Schreibe den Zettel um,
+	- Teile ihn in mehrere Zettel wenn nötig, pro Zettel eine Idee
+	- Streiche unnötigen Text (Prosa)
+	- Mache den Titel kurz und aussagekräftig so dass er die Idee direkt wiedergibt.
+		- Kannst du ihn als Satz direkt in einem Text verwenden?
 
-### Reflexionsteil
-- Welche Methoden und Tools nutze ich derzeit, um die Wiederauffindbarkeit von Informationen in meinem Zettelkasten zu verbessern?
-- Welche weiteren Möglichkeiten der Wiederauffindbarkeit, könnte ich in meinem Zettelkasten einsetzen?
-- analysiere deinen Zettelkasten im Hinblick, wie findest du deine Informationen
-	- Wie lange du brauchst, um eine Information zu finden?
-	- Welche Wege gehst du dabei?
-- Welche Gedanken hast du zu den oben genannten Informationen? Hast du sie Notiert?
-- Inwieweit nutzt du derzeit die Verlinkung von Notizen untereinander, um das Wissen in deinem Zettelkasten zugänglich zu machen?
-- Was sind deine aktuellen Herausforderungen bei der Wiederauffindbarkeit von Informationen in deinem Zettelkasten und wie kannst du diese lösen?
 
 ### Lernziel
-- Verstehen wie über unterschiedliche Einstiegspunkte Informationen gefunden werden können.
-- Die Einstiegspunkte im eigenem Zettelkasten kennen
+- eine Notiz auf eine einzelne Idee reduzieren.
+- Notizen kurz und essential halten, um das Wissen schnell abrufen zu können.
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"

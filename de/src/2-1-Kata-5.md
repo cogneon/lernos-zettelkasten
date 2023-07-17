@@ -1,43 +1,74 @@
-![Länge der Notiz](images/woche5.png)
+![Notizen kennenlernen](images/woche3.png)
 
-## Woche 5 - dauerhafte Notizen erstellen
+## Kata 5 - Notizen kennenlernen
 
 ### Theorie
-Um dein persönliches Wissensmanagement effektiv zu gestalten, solltest du dich mit dem Begriff Atomarität vertraut machen:
 
-Atomarität bedeutet, dass jede Notiz sich auf genau eine Idee bezieht. Diese Idee sollte elementar und auf den Punkt gebracht sein, ohne Prosa oder unnötige Details. Durch die atomare Struktur der Notizen, lassen sich aus vielen kleinen Bausteinen große Ideen oder abstrakte Betrachtungen erstellen, oder auch Gedankengänge miteinander verbinden.
+#### Typen von Notizen
+Die Begriffe müssen nicht zwingend genutzt werden, und die Typen können sich überschneiden und ineinander übergehen. Betrachte es einfach als hilfreiches Hintergrundwissen zur Orientierung und bleib in der Anwendung selber offen und flexibel. Der Zettelkasten ist ein lebendes System und somit passt er sich an dich an.
 
-Ein wichtiger Bestandteil einer Notiz ist der Titel. Dieser sollte einzigartig sein und möglichst sprechend gestaltet werden. Auf diese Weise kann bereits am Titel erkannt werden, worum es in der Notiz geht und ob sie für das aktuelle Projekt von Nutzen sein kann. Es empfiehlt sich, die Länge des Titels auf ~20 Wörter^[256 Zeichen inklusive Dateipfad] zu beschränken.
+##### Flüchtige Notizen
+Wenn du einen Text liest und dabei Untersteichst, Anmarkerst, ein paar Stichpunkte an den Rand schreibst, oder auch während dem gehörten Stichpunkte aufschreibst, so sind das Flüchtige Notizen. Flüchtig da in der Regel nach ein paar Stunden, nach ein paar Tagen du den Sinn deiner Unterstreichung, Stichpunkte nicht mehr so ganz erfassen kannst oder ganz vergessen hast. Vielleicht ist dir das schon mal in der Schule so ergangen als du dich für eine Klassenarbeit vorbereiten wolltest und deine Notizen durchgegangen bist? ;-)
 
-In Bezug auf die Länge der Notiz, sollte der Text kurz gehalten werden, um den Gedanken schnell erfassen zu können. Als Richtwert kann man sich an 450 Wörtern oder einer DINA 6 Seite orientieren.
+##### Literatur Notizen
+Die Literaturnotiz, oder auch bibliographische Notiz ist der Verweis auf die Quelle der Information. Die Literaturnotiz hat somit die Aufgabe die Quelle der Information fest zu halten. Je nachdem was dein Anspruch an dich selber ist wirst du hier also mehr oder weniger Informationen festhalten. Wenn du Wissenschaftlich arbeitest eher mehr, dazu gibt es in der Regel allgemeinübliche Vorgaben auf die wir hier nicht weiter eingehen. Davon abgesehen solltest du dir auf jeden Fall immer folgende Informationen notieren
+- Autor
+- Buchtitel/Internetlink
+- Datum
 
-Zusammengefasst, Notizen im Zettelkasten-Stil effektiv zu erstellen erfordert:
+##### Permanente Notizen
+Deine Gedanken zur Information befinden sich in den Permanenten Notizen. Jeder Zettel den du in deinen Zettelkasten steckst ist dafür vorgesehen für immer in deinem Zettelkasten zu bleiben. Daher auch permanent. Dabei ist es irrevlevant ob du den Zettel immer wieder mit den neuesten Erkenntnissen umschreibst, oder neue Zettel mit neuen Erkenntnissen anlegst und verlinkst.
 
-- Atomarität: jede Notiz sollte sich auf eine elementare Idee beziehen, ohne Prosa oder unnötige Details.
-- Einzigartiger, sprechender Titel: der Titel sollte die Idee der Notiz auf den Punkt bringen und möglichst auf 20 Wörter beschränkt werden.
-- Kurze Textlänge: Der Text sollte kurz gehalten werden, um den Gedanken schnell erfassen zu können, Richtwert sind 450 Wörter oder eine DINA 6 Seite.
+##### Map of Contents / Index
+Map of Content oder auch Index-Zettel bilden Einstiegspunkte auf höherer Ebene. Später (in Woche 9) werden wir noch dazu kommen wie solche Zettel erstellt werden. Hier geht es nur darum, dass du bereits weißt, dass es so etwas gibt. Wenn du irgendwann sehr viele Zettel in deinem System hast, wirst du eine Methode brauchen deine Gedanken wiederzufinden wenn du sie brauchst. Und dabei helfen diese Map Of Contents. Es kann übrigens mehrere Ebenen davon geben, je nachdem wie Umfangreich deine Gedanken zu einem Themenfeld sind.
+
+
+
+#### Struktur - DNA einer Notiz
+Eine Struktur für Notizen? Da es nicht ausreicht, den Gedanken einfach festzuhalten, sondern dieser schlüssig "in die Hand" genommen werden will, um kreativ in (d)einem Kontext zu stehen, gibt es hierfür eine Struktur. Der Gedanke selber ist sicherlich das wichtigste am ganzen, letztlich entstammt er aus einem Zusammenhang und wird in einem neuen gedacht. Direkt im Anschluss daran steht die Wiederauffindbarkeit des Gedankens. Einerseits musst du ihn schnell begreifen und andererseits geschieht dies nur, wenn du dem immer gleichen Aufbau der Notiz folgst. So hat dein Gehirn entsprechend die Kapazitäten, die es braucht, frei, um die Information tatsächlich dynamisch zu erfassen. Der Wiedererkennungseffekt, der in der DNA deiner Notiz liegt, kann dir tatsächlich gute Dienste leisten...
+
+Du kannst deine eigene Struktur verwenden. Vielleicht hast du bereits eine in der du dich wohl fühlst und möchtest sie weiter verwenden. Das ist völlig in Orndung. Du kannst dir auch eine nach deinen Vorstellungen erstellen. Wichtig ist, dass du darin möglichst konsequent bleibst. Änderungen über die Zeit sind mit steigenden Erkenntnissen natürlich. Jede Woche oder gar jede Notiz solltest du deine Struktur jedoch nicht neu erfinden. ;-)
+
+Hier nun ein Vorschlag einer Struktur
+
+![DNA einer Notiz](images/node-dna.png)
+
+##### Metadaten
+Hier lassen sich Informationen wie Autor, Quelle, Datum, Tags und Alias eintragen. Bei den meisten PKM-Programmen können diese Informationen auch geziehlt durchsucht und dargestellt werden. In den Metadaten können somit auch die Informationen der Literatur-Notiz eingebettet werden.
+
+##### Titel
+Jede Notiz braucht auch einen Titel mit dem sie eineindeutig identifiziert werden kann.
+
+##### Gedanke
+Hier steht nun die eigentliche Notiz. Der Gedanke den du hast. Wissen, Überlegungen, Schlüsse, sprich das was du dazu im Kopf hast.
+
+##### Fragen
+Wenn du dir selber Fragen stellst zu dem Gedanken kannst du sie in einem extra Fragen-Abschnitt setzen. So findest du deine noch unbeantworteten Fragen immer sofort.
+
+
+##### Footer
+Im Footer könnten z.B. links zu relevanten anderen Notizen stehen die nicht im Text unter gekommen sind, aber dennoch eine Relevanz zum Thema haben. Auch hier könnte die Quelle, die Literaturnoitz, untergebracht werden.
+
+
+#### Notiz in eigenen Worten
+Wenn du einen Gedanken in eigenen Worten wiedergeben kannst, dann hast du den Gedanken verstanden. Im Wesentlichen kannst du damit überprüfen, ob du das Wissen nun erworben hast oder nicht. Wenn du den Gedanken in eigenen Worten ausformulierst und dafür nicht die passenden Worte findest, merkst du, dass du es doch nicht verstanden hast oder üben solltest. Kannst du es hingegen in eigenen Worten ausdrücken, wirst du dafür bereits dein eigenes sprachliches (oder eben auch visuelles) Meta-Model verwenden. All das garantiert dir mit großer Wahrscheinlichkeit, dass du auch in ein paar Jahren noch die Idee wiedergeben kannst und sie verstanden ist. Auf dieses Thema wird in der Kata _dauerhafte Notizen erstellen_ ausführlich eingegangen.
+
+
+![Sprechblasen](images/Sprechblasen.png)
 
 
 ### Übungen
-- Hast du einen Zettel, der die drei oben genannten Kriterien nicht erfüllt?
-- Schreibe den Zettel um,
-	- Teile ihn in mehrere Zettel wenn nötig, pro Zettel eine Idee
-	- Streiche unnötigen Text (Prosa)
-	- Mache den Titel kurz und aussagekräftig so dass er die Idee direkt wiedergibt.
-		- Kannst du ihn als Satz direkt in einem Text verwenden?
+- Notiere dier als Vorbereitung zum Weekly deine Fragen die du zu dem oben beschriebenem hast um sie im Weekly zu besprechen
+- Habt ihr alles verstanden (Diskussion und Fragen)? Diskutiert euer Verständnis zu Notizen und klärt die Fragen die jeder hat
 
-### Reflexionsteil
-Was ist der Nutzen von sprechenden Titeln?
-- Wie kann man sicherstellen, dass eine Notiz sich tatsächlich auf eine einzelne Idee bezieht?
-- Wie kann man den Titel einer Notiz so gestalten, dass er möglichst aussagekräftig ist und einen schnellen Überblick über den Inhalt der Notiz gibt?
-- Wie kann man sicherstellen, dass die Länge einer Notiz angemessen ist und den Gedanken schnell erfassen lässt?
-- Inwieweit hilft es beim Wissensmanagement, Notizen in atomare Einheiten zu gliedern?
-- Wie geht man vor, wenn man auf eine Notiz stößt, die sich nicht an die Kriterien hält? Welche Schritte sind notwendig, um sie anzupassen?
-- Inwieweit ist es förderlich, die Titel der Notizen als Satz aufzubauen und wie kann man das umsetzen?
+
 
 ### Lernziel
-- eine Notiz auf eine einzelne Idee reduzieren.
-- Notizen kurz und essential halten, um das Wissen schnell abrufen zu können.
+- was eine Notiz mindestens beinhaltet
+- was optional in einer Notiz hilfreich ist
+- möglichkeit der Selbstprüfung ob du das Wissen verstanden hast
+- essentielle Aussagen aus Texten herausarbeiten können
+- verschiedene Arten von Notizen und deren Bedeutung kennenlernen
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"

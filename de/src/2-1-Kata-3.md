@@ -1,94 +1,82 @@
-![Notizen kennenlernen](images/woche3.png)
+![Wählen eines Programms für die PKM-Umgebung](images/woche2.png)
 
-## Woche 3 - Notizen kennenlernen
+## Kata 3 - PKM-Umgebung Einrichten
 
-### Theorie
+Wenn es darum geht, dein persönliches Wissensmanagement zu organisieren, kann die Wahl des richtigen Programms hilfreich sein. Ein gutes Programm gibt dir die Möglichkeit, deine Notizen an einem Ort zu speichern und sicherzustellen, dass du jederzeit Zugriff auf die Informationen hast, die du benötigst.
 
-#### Typen von Notizen
-Die Begriffe müssen nicht zwingend genutzt werden, und die Typen können sich überschneiden und ineinander übergehen. Betrachte es einfach als hilfreiches Hintergrundwissen zur Orientierung und bleib in der Anwendung selber offen und flexibel. Der Zettelkasten ist ein lebendes System und somit passt er sich an dich an.
+Es gibt viele verschiedene Programme auf dem Markt, die sich auf unterschiedliche Arbeitsweisen und persönliche Präferenzen konzentrieren. Es kann sinnvoll sein, dir die Zeit zu nehmen und dich mit verschiedenen Programmen zu beschäftigen, um das zu finden, das am besten zu deinen Bedürfnissen passt.
 
-##### Flüchtige Notizen
-Wenn du einen Text liest und dabei Untersteichst, Anmarkerst, ein paar Stichpunkte an den Rand schreibst, oder auch während dem gehörten Stichpunkte aufschreibst, so sind das Flüchtige Notizen. Flüchtig da in der Regel nach ein paar Stunden, nach ein paar Tagen du den Sinn deiner Unterstreichung, Stichpunkte nicht mehr so ganz erfassen kannst oder ganz vergessen hast. Vielleicht ist dir das schon mal in der Schule so ergangen als du dich für eine Klassenarbeit vorbereiten wolltest und deine Notizen durchgegangen bist? ;-)
+Es ist wichtig, dass dein Wissen in einem Format gespeichert ist, das die Zukunftsfähigkeit berücksichtigt. Es ist jedoch wichtig zu bedenken, dass sich Programme im Laufe der Zeit ändern können und es möglicherweise notwendig sein kann, ein anderes Programm zu wählen.
 
-##### Literatur Notizen
-Die Literaturnotiz, oder auch bibliographische Notiz ist der Verweis auf die Quelle der Information. Die Literaturnotiz hat somit die Aufgabe die Quelle der Information fest zu halten. Je nachdem was dein Anspruch an dich selber ist wirst du hier also mehr oder weniger Informationen festhalten. Wenn du Wissenschaftlich arbeitest eher mehr, dazu gibt es in der Regel allgemeinübliche Vorgaben auf die wir hier nicht weiter eingehen. Davon abgesehen solltest du dir auf jeden Fall immer folgende Informationen notieren
-- Autor
-- Buchtitel/Internetlink
-- Datum
+Es ist wichtig zu beachten, dass die Wahl des Programms nicht in Stein gemeißelt ist und du jederzeit die Möglichkeit hast, deine Entscheidung zu ändern. Um dir bei deiner Entscheidung zu helfen, haben wir einen Fragebogen erstellt, der dir einen Anfang bietet. Es ist jedoch wichtig zu beachten, dass dies nur eine Hilfestellung ist und es nicht die einzige Möglichkeit ist.
 
-##### Permanente Notizen
-Deine Gedanken zur Information befinden sich in den Permanenten Notizen. Jeder Zettel den du in deinen Zettelkasten steckst ist dafür vorgesehen für immer in deinem Zettelkasten zu bleiben. Daher auch permanent. Dabei ist es irrevlevant ob du den Zettel immer wieder mit den neuesten Erkenntnissen umschreibst, oder neue Zettel mit neuen Erkenntnissen anlegst und verlinkst.
+### Fragebogen um ein Programm auszuwählen
+Mit dem Fragebogen kannst du deine Wahl für ein Tool unterstützen:
 
-##### Map of Contents / Index
-Map of Content oder auch Index-Zettel bilden Einstiegspunkte auf höherer Ebene. Später (in Woche 9) werden wir noch dazu kommen wie solche Zettel erstellt werden. Hier geht es nur darum, dass du bereits weißt, dass es so etwas gibt. Wenn du irgendwann sehr viele Zettel in deinem System hast, wirst du eine Methode brauchen deine Gedanken wiederzufinden wenn du sie brauchst. Und dabei helfen diese Map Of Contents. Es kann übrigens mehrere Ebenen davon geben, je nachdem wie Umfangreich deine Gedanken zu einem Themenfeld sind.
+1.	Welche Art von Daten möchten Sie speichern und organisieren (z.B. Texte, Bilder, Audiodateien)
+	1.	Ich möchte hauptsächlich Textdateien speichern und organisieren. (A)
+	2.	Ich möchte hauptsächlich Textdateien und Bilder speichern und organisieren. (B)
+	3.	Ich möchte hauptsächlich Textdateien, Bilder und Audiodateien speichern und organisieren. (C)
+2.	Welche Funktionen benötigen Sie (z.B. Zweigstruktur, Versionsverlauf, Markdown- Unterstützung)?
+	1.	Ich benötige eine Zweigstruktur und Versionsverlauf. (A)
+	2.	Ich benötige eine Zweigstruktur, Versionsverlauf und Markdown-Unterstützung. (B)
+	3.	Ich benötige eine Zweigstruktur, Versionsverlauf, Markdown-Unterstützung und die Möglichkeit, mehrere Zweige gleichzeitig anzeigen zu können. (C)
+3.	Wie wichtig ist Ihnen die Möglichkeit, auf Ihre Daten von überall aus zugreifen zu können?
+	1.	Es ist mir sehr wichtig, auf meine Daten von überall aus zugreifen zu können. (A)
+	2.	Es ist mir wichtig, auf meine Daten von überall aus zugreifen zu können, aber es ist nicht die wichtigste Funktion für mich. (B)
+	3.	Es ist mir nicht so wichtig, auf meine Daten von überall aus zugreifen zu können. (C)
+4.	Wie wichtig ist Ihnen die Möglichkeit, mit anderen Personen zusammenzuarbeiten?
+	1.	Es ist mir sehr wichtig, mit anderen Personen Zusammenarbeiten zu können. (B)
+	2.	Es ist mir wichtig, mit anderen Personen Zusammenarbeiten zu können, aber es ist nicht die wichtigste Funktion für mich. (A, C)
+	3.	Es ist mir nicht so wichtig, mit anderen Personen Zusammenarbeiten zu können. (A, B, C)
+5.	Wie wichtig ist Ihnen die Möglichkeit, Ihre Daten zu exportieren und zu sichern?
+	1.	Es ist mir sehr wichtig, meine Daten exportieren und sichern zu können. (A, B, C)
+	2.	Es ist mir wichtig, meine Daten exportieren und sichern zu können, aber es ist nicht die wichtigste Funktion für mich. (A, B, C)
+	3.	Es ist mir nicht so wichtig, meine Daten exportieren und sichern zu können. (A, B, C)
+6.	Wie wichtig ist Ihnen die Anpassbarkeit und Erweiterbarkeit der Software?
+	1.	Es ist mir sehr wichtig, dass die Software anpassbar und erweiterbar ist. (B,C)
+	2.	Es ist mir wichtig, dass die Software anpassbar und erweiterbar ist, aber es ist nicht die wichtigste Funktion für mich. (A)
+	3.	Es ist mir nicht so wichtig, dass die Software anpassbar und erweiterbar ist. (A, B)
+7.  Welche Plattformen unterstützt die Software (z.B. Windows, Mac, Linux, iOS, Android)?
+	1. Ich benötige die Software auf Windows und Mac. (A, B, C)
+	2. Ich benötige die Software auf Windows, Mac und Linux. (A, B, C)
+	3. Ich benötige die Software auf Windows, Mac, Linux, iOS und Android. (A, B, C)
+8.  Welche Preis- und Abonnementmodelle bietet die Software an?
+	1. Ich bin bereit, für die Software zu bezahlen und bin mit einem Abonnementmodell einverstanden. (A, B, C)
+	2. Ich bin bereit, für die Software zu bezahlen, aber ich bevorzuge ein einmaliges Kaufmodell. (A, B, C)
+	3. Ich bin nicht bereit, für die Software zu bezahlen und suche nach einer kostenlosen Alternative. (A, B, C)
+9. Welche Art von Visualisierungen und Diagrammen benötigen Sie?
+	1. Ich benötige die Möglichkeit, meine Daten in Mind-Map-Form und graph-basierten Diagrammen darzustellen. (A)
+	2. Ich benötige die Möglichkeit, meine Daten in Mind-Map-Form, graph-basierten Diagrammen und in anderen Arten von Diagrammen und Visualisierungen darzustellen. (B)
+	3. Ich benötige keine spezielle Funktionen für die Visualisierung und Diagramme. (C)
 
+Zähle die Buchstaben jeweils zusammen. Je nachdem bei welchem Buchstaben du die meisten Auswahlen hast könnte für dich A: Roam, B: Obsidian, C: Logseq am geeignetstem sein.
 
+Dieser Fragebogen ist nur eine Hilfe und es gibt keine Garantie das eines der oben genannten Tools am besten für dich passt. Es ist empfehlenswert auch die Tools selbst zu testen um sicher zu gehen das es deine Anforderungen erfüllt.
+(Und es sind nicht die einzigen Tools, es sind nur gängige Tools)
 
-#### Struktur - DNA einer Notiz
-Eine Struktur für Notizen? Da es nicht ausreicht, den Gedanken einfach festzuhalten, sondern dieser schlüssig "in die Hand" genommen werden will, um kreativ in (d)einem Kontext zu stehen, gibt es hierfür eine Struktur. Der Gedanke selber ist sicherlich das wichtigste am ganzen, letztlich entstammt er aus einem Zusammenhang und wird in einem neuen gedacht. Direkt im Anschluss daran steht die Wiederauffindbarkeit des Gedankens. Einerseits musst du ihn schnell begreifen und andererseits geschieht dies nur, wenn du dem immer gleichen Aufbau der Notiz folgst. So hat dein Gehirn entsprechend die Kapazitäten, die es braucht, frei, um die Information tatsächlich dynamisch zu erfassen. Der Wiedererkennungseffekt, der in der DNA deiner Notiz liegt, kann dir tatsächlich gute Dienste leisten...
+Sollte es dir nicht möglich sein ein für das Wissentmanagement optimiertes Programm zu verwenden, z.B. durch ristriktionen von Firmen IT-Richtlinien, kannst du auch mit OneNote beginnen. Im Anhang (Guide um PKM mit OneNote umzusetzen) findest du dazu ein paar Anmerkungen. Ebenso wie du von einem proprietärem Format zu Mark-Down wechseln kannst.
 
-Du kannst deine eigene Struktur verwenden. Vielleicht hast du bereits eine in der du dich wohl fühlst und möchtest sie weiter verwenden. Das ist völlig in Orndung. Du kannst dir auch eine nach deinen Vorstellungen erstellen. Wichtig ist, dass du darin möglichst konsequent bleibst. Änderungen über die Zeit sind mit steigenden Erkenntnissen natürlich. Jede Woche oder gar jede Notiz solltest du deine Struktur jedoch nicht neu erfinden. ;-)
+##### Links zu gängigen PKM-Programmen
+- Obsidian^[http://obsidian.md]
+- Logseq^[https://logseq.com/]
+- Roam^[https://roamresearch.com]
 
-Hier nun ein Vorschlag einer Struktur
-
-![DNA einer Notiz](images/node-dna.png)
-
-##### Metadaten
-Hier lassen sich Informationen wie Autor, Quelle, Datum, Tags und Alias eintragen. Bei den meisten PKM-Programmen können diese Informationen auch geziehlt durchsucht und dargestellt werden. In den Metadaten können somit auch die Informationen der Literatur-Notiz eingebettet werden.
-
-##### Titel
-Jede Notiz braucht auch einen Titel mit dem sie eineindeutig identifiziert werden kann.
-
-##### Gedanke
-Hier steht nun die eigentliche Notiz. Der Gedanke den du hast. Wissen, Überlegungen, Schlüsse, sprich das was du dazu im Kopf hast.
-
-##### Fragen
-Wenn du dir selber Fragen stellst zu dem Gedanken kannst du sie in einem extra Fragen-Abschnitt setzen. So findest du deine noch unbeantworteten Fragen immer sofort.
-
-
-##### Footer
-Im Footer könnten z.B. links zu relevanten anderen Notizen stehen die nicht im Text unter gekommen sind, aber dennoch eine Relevanz zum Thema haben. Auch hier könnte die Quelle, die Literaturnoitz, untergebracht werden.
-
-
-#### Notiz in eigenen Worten
-Wenn du einen Gedanken in eigenen Worten wiedergeben kannst, dann hast du den Gedanken verstanden. Im Wesentlichen kannst du damit überprüfen, ob du das Wissen nun erworben hast oder nicht. Wenn du den Gedanken in eigenen Worten ausformulierst und dafür nicht die passenden Worte findest, merkst du, dass du es doch nicht verstanden hast oder üben solltest. Kannst du es hingegen in eigenen Worten ausdrücken, wirst du dafür bereits dein eigenes sprachliches (oder eben auch visuelles) Meta-Model verwenden. All das garantiert dir mit großer Wahrscheinlichkeit, dass du auch in ein paar Jahren noch die Idee wiedergeben kannst und sie verstanden ist. Auf dieses Thema wird in der Kata _dauerhafte Notizen erstellen_ ausführlich eingegangen.
-
-
-![Sprechblasen](images/Sprechblasen.png)
-
-
-#### Progressive Summarization
-
-Progressive Summarization, der Begriff wurde von Tiago Forte geprägt, ist eine Technik um einen Text in iterativen Schritten zusammen zu fassen und auf das Wesentliche zu reduzieren.
-Idealerweise bleibt nach jeder Iteration 10% Text übrig.
-
-* Stufe 1: der Vollständige Textausschnitt aus einer Quelle
-* Stufe 2: die wichtigsten Aussagen/Sätze des Textes unterstreichen oder Fett markieren
-* Stufe 3: Aus den unterstrichenem/fett markierten die wichtigsten Schlagwörter Angemarkert die für die Aussage wichtig sind.
-* Stufe 4: Eine Zusammenfassung in eigenen Wörtern
-* Stufe 5: Verzetteln
-
-Bei diesem Vorgang bleibt der ursprüngliche Text jederzeit Verfügbar. Wenn eine höhere Stufe doch nicht verstanden wird, kann die Stufe darunter gelesen werden. Die Methode agiert in etwa so wie ein Sicherheitsnetz.
-Auch kann die Methode noch gut eingesetzt werden, wenn nicht mehr ganz so viel Energie zur Verfügung steht.
-Die Methode ist eine Methode, sie muss nicht genutzt werden. Du kannst das Gelesene, bzw. Gehörte oder Gesehene auch direkt als Audio aufsprechen, dadurch deine soziale Präsenz innerhalb einer Lerngruppe erhöhen, oder sie in eigenen Worten zeitnah wiedergeben.
+Wenn Markdown für dich Fremd ist, und du es in deinem Zettelkasten verwenden möchtest, schau in den Anhang rein. Dort gibt es einen Crash-Kurs. (Im Prinzip reichen drei Zeichen aus um es zu verwenden)
 
 
 ### Übungen
-- Notiere dier als Vorbereitung zum Weekly deine Fragen die du zu dem oben beschriebenem hast um sie im Weekly zu besprechen
-- Habt ihr alles verstanden (Diskussion und Fragen)? Diskutiert euer Verständnis zu Notizen und klärt die Fragen die jeder hat
-
-
-
-### Reflexionsteil
-- Fühst du dich abgeholt oder verunsichert mit den Informationen oben?
+- Wähl ein Programm aus, entweder mit Hilfe des Fragebogens oder andersweitig
+- Installiere dein gewähltes Programm
+- Mache dich mit dem Programm vertraut
+- Lege eine Notiz an
+	- Titel: Hallo Welt
+	- Text: Meine erste Notiz
 
 
 ### Lernziel
-- was eine Notiz mindestens beinhaltet
-- was optional in einer Notiz hilfreich ist
-- möglichkeit der Selbstprüfung ob du das Wissen verstanden hast
-- essentielle Aussagen aus Texten herausarbeiten können
-- verschiedene Arten von Notizen und deren Bedeutung kennenlernen
+- Du hast deine Zettelkasten-Umgebung installiert und eingerichtet
+- Du hast dir Bewusst gemacht was dir für deine Zettelkasten-Arbeit wichtig ist
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"
