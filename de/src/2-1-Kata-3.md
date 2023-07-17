@@ -2,6 +2,8 @@
 
 ## Kata 3 - PKM-Umgebung Einrichten
 
+Verwendet in [Woche 2](2-1-Woche-2.md)
+
 Wenn es darum geht, dein persönliches Wissensmanagement zu organisieren, kann die Wahl des richtigen Programms hilfreich sein. Ein gutes Programm gibt dir die Möglichkeit, deine Notizen an einem Ort zu speichern und sicherzustellen, dass du jederzeit Zugriff auf die Informationen hast, die du benötigst.
 
 Es gibt viele verschiedene Programme auf dem Markt, die sich auf unterschiedliche Arbeitsweisen und persönliche Präferenzen konzentrieren. Es kann sinnvoll sein, dir die Zeit zu nehmen und dich mit verschiedenen Programmen zu beschäftigen, um das zu finden, das am besten zu deinen Bedürfnissen passt.

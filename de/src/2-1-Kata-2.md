@@ -2,6 +2,8 @@
 
 ## Kata 2
 
+Verwendet in [Woche 1](2-1-Woche-1.md)
+
 ### Ein Termin mit dir selbst
 
 

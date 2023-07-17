@@ -2,6 +2,8 @@
 
 ## Kata 8 - dauerhafte Notizen erstellen
 
+Verwendet in [Woche 5](2-1-Woche-5.md)
+
 ### Theorie
 Um dein persönliches Wissensmanagement effektiv zu gestalten, solltest du dich mit dem Begriff Atomarität vertraut machen:
 

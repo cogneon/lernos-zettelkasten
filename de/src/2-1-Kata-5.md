@@ -2,6 +2,8 @@
 
 ## Kata 5 - Notizen kennenlernen
 
+Verwendet in [Woche 3](2-1-Woche-3.md)
+
 ### Theorie
 
 #### Typen von Notizen

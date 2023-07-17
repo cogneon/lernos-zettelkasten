@@ -2,6 +2,8 @@
 
 ## Kata 1
 
+Verwendet in [Woche 1](2-1-Woche-1.md)
+
 ### Mein Ziel für die nächsten 12 Wochen
 
 #### Theorie
