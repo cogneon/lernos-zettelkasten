@@ -2,7 +2,7 @@
 
 ## Kata 4 - Feedback
 
-Verwendet in [Woche 0](2-1-Woche-0.md)
+Used in [week 0](2-1-Woche-0.md)
 
 ### Theory
 A very important function of the Circle is to get feedback on your goals, understanding and workflow, and to give feedback to others. To help you understand each other better, take a few moments to talk about your idea of constructive feedback.
