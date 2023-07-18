@@ -2,7 +2,7 @@
 
 ## Kata 9 - Verzetteln
 
-Verwendet in [Woche 9](2-1-Woche-9.md)
+Verwendet in [Woche 6](2-1-Woche-6.md)
 
 ### Theorie
 Wir starten bei einem Gedanken und kommen von dort sequenziell zu einem nächsten Gedanken. Am Ende sind wir durch eine Verkettung von einem Startpunkt zu einem ganz anderem Punkt gekommen.
@@ -28,7 +28,7 @@ Geh durch die Notizen in deinem Zettelkasten und wenn dir auffällt, dass zwei I
 
 Wenn dir beim Lesen der Notiz Fragen in den Sinn kommen, such nach Antworten in deinem Zettelkasten und verlinke diese, wenn du passende Notizen dazu findest.
 
-Zerlege weitere Notizen in kleinere Bestandteile (Stichwort Atomarität, von Woche 5) und verlinke sie dabei, sobald du den Eindruck bekommst, dass sie in einer Beziehung zueinander stehen sollten.
+Zerlege weitere Notizen in kleinere Bestandteile (Stichwort Atomarität, von [Kata 8](2-1-Kata-8.md)) und verlinke sie dabei, sobald du den Eindruck bekommst, dass sie in einer Beziehung zueinander stehen sollten.
 
 Du kannst auch beim Einpflegen permanenter Notizen direkt Links zu anderen Notizen erstellen bei denen du weißt, dass eine Beziehung zueinander besteht.
 

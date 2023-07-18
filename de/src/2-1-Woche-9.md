@@ -1,12 +1,12 @@
-![Kompass](images/woche9.png)
+![Denken im Zettelkasten](images/Woche10.png)
 
-## Woche 9 - Map Of Content in 3 Stufen
+## Woche 9 - Denken im Zettelkasten
 
-Wie findest du deine Notizen wieder, wenn es allmählich mehr werden? Noch sind sie vielleicht noch überschaubar, doch wird das auch so sein wenn du 500, 1000 oder 5000 Zettel hast? Keine Sorge, darum geht es diese Woche, und es gibt eine einfache Antwort darauf.
+Notizen sammeln ist schön und gut. Geht es dir nicht auch so, dass du Gedanken und Fragen dazu hast?
 
 ### Als Vorbereitung
 
-- [ ] [Kata 13](2-1-Kata-13.md): Map Of Content in 3 Stufen
+- [ ] [Kata 14](2-1-Kata-14.md): Denken im Zettelkasten
 
 ### Im Weekly
 
@@ -16,12 +16,12 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 
 #### Leitfragen
 
-- Wie hat sich die Erstellung der MOC auf mein Verständnis des Themas ausgewirkt und welche Erkenntnisse habe ich durch den Prozess gewonnen?
-- Was waren die größten Herausforderungen bei der Sammlung meiner Notizen zu diesem Thema?
-- Welche Art von Struktur habe ich für meine MOC gewählt und warum?
-- Was kann ich tun, um sicherzustellen, dass meine MOC leicht auffindbar ist?
-- Wie häufig sollte ich meine MOC aktualisieren und warum?
-- Wie kann ich die Erstellung von MOCs in Zukunft verbessern? Welche Methoden oder Werkzeuge möchte ich ausprobieren?
+- Wie hast du den Dialog mit deinem Zettelkasten für dich empfunden?
+- Was sind die Vorteile des Denkens im Zettelkasten?
+- Wie kann man objektive Vergleiche zwischen parallelen und widersprüchlichen Gedanken im Zettelkasten ziehen?
+- Wie kann man den Zettelkasten als Gesprächspartner nutzen?
+- Welche Art von Fragen kann man dem Zettelkasten stellen?
+- Wie kann ich die Logik und Begründung in meinen Schlussfolgerungen überprüfen?
 
 ### Schluss
 

@@ -1,52 +1,48 @@
-![Kompass](images/woche9.png)
-## Week 9 - Map Of Content in 3 stages
+![Linking of relevant information](images/woche6.png)
+## Kata 9 - Frittering
+
+Used in [Week 6](2-1-Woche-6.md)
 
 ### Theory
-You may be wondering, what is a Map Of Content (MOC) and why do you need MOCs in your Zettelkasten? MOCs are entry points to larger subject areas. They are a map to your knowledge with which you can safely orient yourself within a topic area. They allow you to get a quick overview without having to read all the details again. If necessary, you can of course read deeper into the details. As I said, you can get an overview of a topic with a lot of notes by using a MOC and you can also elaborate it more. Think of a MOC as a room where all the notes on a topic can exist without you having to combine them directly in a meaningful way, but you could. You can just create a room in your Zettelkasten that contains all the notes on a topic and you don't have a compulsion to link them directly now in a logical and sequential way. They may all be in there.
+We start at one thought and move sequentially from there to the next thought. In the end, we have come from one starting point to a completely different point by chaining.
 
-Now you may ask yourself, when should you create a MOC? Nick Milo has some helpful advice here and also immediately suggested a method we use here. You should create a MOC when you have the feeling to lose the overview of a topic. Then it is really high time. An indication could also be if you keep looking for information, but can't find it directly.
+![Model of the thought chain with notes](images/thought-chain.png)
 
+The same thing happens now with linking notes. A thought starts in a note, which leads to another thought (note), and on and on. This is a fundamental aspect of dovetailing, connecting information that has to do with each other.
 
-1. get all notes about the topic into a new note
-2. weigh the notes against each other, work out thoughts, divide, structure. This is where new insights emerge because you are intensely engaged with your thoughts. This process can take several days. You create an overview of the topic based on your notes.
-3. Link the MOC in the system and ensure findability
+From this connecting of information, clusters of topics emerge. This is what is meant by bottom-up in this context. Areas/topics are not defined in advance, but the topics are formed by the accumulation of knowledge and networking with each other to form topic areas.
 
+![Emergence of bottom-up topic clusters](images/bottom-up-example.png)
 
-Keep in mind that MOCs will continue to evolve, they are not static. As your knowledge grows the time will come to update a MOC. The notes will be weighed against each other again. A MOC can in turn contain several MOCs and thus a whole hierarchy of MOCs on a topic can emerge.
+Thus, not only topic clusters but also natural entry points for topics are created by the divergence. Connections _grow_ between topics that were not known before. This can lead to new ideas or even completely new approaches: something new emerges. In this way, your knowledge connects in your own notebook just as it is laid out in the neuronal structure of your brain, and in the process it sinks in deeper and deeper.
 
-Here again the most important points to MOCs
-- offers entry points to larger topics and helps to get an overview and to work out topics with many notes.
-- Should be created when there is a feeling of losing track of a topic.
-- MOCs can evolve
-- a MOC can contain several MOCs.
+A piece of information is best found when there are many links on it. This is predetermined by the brain's system. You use this when you create your note. Therefore, linking relevant information increases the findability and memorability of the information. Note-taking is also important for this. It keeps the information in the Zettelkasten together and makes it accessible so that you can think and work with it on a deeper level (your long-term memory).
 
+The more notes you have in your box, the more important and clear it becomes. Even if you only have a few notes in your Zettelkasten, it's worth starting now so that it grows. This way you will save knowledge and deepen it at the same time.
 
 ### Exercises
-- Choose a topic for which you want to create a MOC.
-	- It makes sense to choose a topic for which you have several notes in your Zettelkasten.
-- Gather all your notes on that topic into a new note.
-- Go through all the notes and weigh them against each other. Revise them, reducing them to single ideas and removing unnecessary information.
-- Create a subdividing structure from the remaining notes.
-	- (optional) write an overview of the topic.
-- Connect your new MOC to the rest of the note system by tagging it appropriately.
-- Make sure the MOC is easy to find by choosing a meaningful title and adding relevant keywords.
-- (Optional) Consider whether it is possible to further subdivide the topic and if so create appropriate sub-MOCs.
+In the last kata, you already made notes more atomic, so now you can capture the idea of the note more quickly.
 
-Hints:
-- The process can take a lot of time
-- It is not necessary to structure the notes hierarchically, experiment with different structures to find the best one for the topic.
-- It is recommended to practice creating a MOC regularly.
+Go through the notes in your Zettelkasten and if you notice that two ideas belong together, can look out for each other, or are otherwise connected, link them together.
 
-### Reflection section
-- How did creating the MOC impact my understanding of the topic and what insights did I gain through the process?
-- What were the biggest challenges in collecting my notes on the topic?
-- What type of structure did I choose for my MOC and why?
-- What can I do to ensure that my MOC is easily findable?
-- How often should I update my MOC and why?
-- How can I improve the creation of MOCs in the future? What methods or tools would I like to try?
+If questions come to mind as you read the note, look for answers in your Zettelkasten and link them if you find notes that match.
 
-### Learning Objective
-You understand the process for creating a MOC and have put it into practice.
+Break down other notes into smaller components (keyword atomicity, from [Kata 8](2-1-Kata-8.md)), linking them as you go, as soon as you get the impression that they should be related.
+
+You can also create direct links to other notes that you know are related when adding permanent notes.
+
+You can put the link in the Footer^[The bottom area of a note] area, or you can link inline^[Insert directly into the text or sentence].
+
+And keep in mind, a link is not only to the same topics, but can also be a completely new link, just the one you see.
+You could also create a new note explaining for yourself why you see a connection between the two notes. The following image illustrates this.
+![explanatory note between two notes](images/erklaerende-Notiz-zwischen-zwei-Notizen.png)
+
+Note: If you are working a lot and intensively on a topic, it might make sense to set up an additional time per week where you only focus on linking ideas to each other. Tags like they exist in Obisidian can be helpful to link not yet linked notes.
+
+
+### Learning goal
+- You have received new associations and made connections
+- You have formed new topic clusters
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"

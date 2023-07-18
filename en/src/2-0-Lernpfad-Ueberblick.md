@@ -2,7 +2,8 @@
 
 ## The learning objectives of the Zettelkasten pathway
 
-![Zettelkasten-Learning objectives and kata overview](images/ZettelkastenLernziele_onepage.png)<script src="https://giscus.app/client.js"
+![Zettelkasten-Learning objectives and kata overview](images/ZettelkastenLernziele_onepage.png)
+<script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"
         data-category="Announcements"
