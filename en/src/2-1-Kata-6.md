@@ -1,6 +1,6 @@
 ## Kata 6 - Progressive Summarization
 
-Verwendet in [Woche 2](2-1-Woche-2.md)
+Used in [week 2](2-1-Woche-2.md)
 
 ### Theory
 

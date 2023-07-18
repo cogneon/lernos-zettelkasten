@@ -2,7 +2,7 @@
 
 ## Kata 5 - Get to know notes
 
-Verwendet in [Woche 2](2-1-Woche-2.md)
+Used in [week 2](2-1-Woche-2.md)
 
 ### Theory
 
