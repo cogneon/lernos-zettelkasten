@@ -1,46 +1,84 @@
-![Länge der Notiz](images/woche5.png)
+![Get to know notes](images/woche3.png)
 
-## Week 5 - Create permanent notes
+## Kata 5 - Get to know notes
+
+Verwendet in [Woche 2](2-1-Woche-2.md)
 
 ### Theory
-Creating notes requires some thought in order to effectively manage personal knowledge. An important foundation here is the atomicity of notes.
 
-Atomicity means that each note refers to exactly one idea. This idea should be elementary and to the point, without prose or unnecessary details. Because of the atomic structure of notes, large ideas or abstract considerations can be created from many small building blocks, or thought processes can be connected.
+#### Types of notes
+It is not mandatory to use the terms, and the types can overlap and blend into each other. Just think of it as helpful background knowledge to guide you, and keep an open mind and flexibility in the application itself. The notebox is a living system and so it adapts to you.
 
-An important component of a note is the title. This should be unique and designed to be as eloquent as possible. In this way, it is already possible to recognize from the title what the note is about and whether it can be useful for the current project. It is recommended to limit the length of the title to ~20 words^[256 characters including file path].
+##### cursory notes
+When you read a text and underline, mark up, write a few notes in the margin, or even write down notes while listening to it, these are ephemeral notes. Fleeting because usually after a few hours, after a few days you can no longer quite grasp the meaning of your underlining, key points or have completely forgotten. Maybe you have experienced this in school when you wanted to prepare for a class assignment and went through your notes ;-)
 
-Regarding the length of the note, the text should be kept short to be able to capture the thought quickly. As a guideline, you can use 450 words or a DINA 6 page.
+##### Literature Notes
+The literature note, or bibliographic note, is the reference to the source of the information. The purpose of the bibliographic note is to record the source of the information. Depending on what you expect of yourself, you may want to include more or less information. If you are working scientifically, you will need to include more information, as there are usually general guidelines for this, which we will not go into here. Apart from that, you should always note down the following information
+- author
+- Book title/Internet link
+- date of publication
 
-In summary, creating notebook-style notes effectively requires:
+##### Permanent notes
+Your thoughts about the information are in the Permanent Notes. Every note you put in your notebox is meant to stay in your notebox forever. Hence permanent. It is irrelevant if you keep rewriting the note with the newest information or if you create new notes with new information and link them.
 
-- Atomicity: each note should relate to one elementary idea, without prose or unnecessary details.
-- Unique, speaking title: the title should get to the heart of the note's idea and be limited to 20 words if possible.
-- Short text length: the text should be kept short in order to capture the idea quickly, guideline is 450 words or one DINA 6 page.
+##### Map of Contents / Index
+Map of Content or Index notes are entry points on a higher level. Later (in [week 8](2-1-Woche-8.md)) we will come to how such notes are created. Here it is only about the fact that you already know that such a thing exists. When you have a lot of notes in your system, you will need a method to find your thoughts when you need them. And that's where these Map Of Contents help. By the way, there can be several levels of them, depending on how extensive your thoughts on a topic are.
+
+
+
+#### Structure - DNA of a note
+A structure for notes? Since it is not enough to simply record the thought, but it needs to be coherently "taken in hand" in order to creatively stand in (d)context, there is a structure for this. The thought itself is certainly the most important thing in the whole, ultimately it comes from a context and is thought in a new one. Directly following this is the retrievability of the thought. On the one hand you have to grasp it quickly and on the other hand this only happens if you follow the always same structure of the note. This way your brain has accordingly the capacities it needs free to actually grasp the information dynamically. The recognition effect that is in the DNA of your note can actually serve you well....
+
+You can use your own structure. Maybe you already have one you feel comfortable with and want to keep using it. That's perfectly fine. You can also create one according to your own ideas. The important thing is that you stay consistent with it. Changes over time are natural with increasing knowledge. But you should not reinvent your structure every week or even every note ;-)
+
+Here is a suggestion for a structure
+
+![DNA of a note](images/node-dna.png)
+
+##### Metadata
+Here you can enter information like author, source, date, tags and alias. With most PKM programs this information can also be searched and displayed selectively. Thus, the information of the literature note can also be embedded in the metadata.
+
+##### Title
+Each note needs also a title with which it can be identified unambiguously.
+
+##### Thought
+Here is the actual note. The thought you have. Knowledge, thoughts, conclusions, what you have in your head.
+
+##### Questions
+If you ask yourself questions about the thought, you can put them in an extra questions section. This way you can always find your unanswered questions immediately.
+
+
+##### Footer
+In the footer could be links to other relevant notes that are not in the text, but still have a relevance to the topic. The source, the literature noitz, could also be placed here.
+
+
+
+
+
+#### Note in your own words
+If you can reproduce a thought in your own words, then you have understood the thought. In essence, you can check whether you have acquired the knowledge or not. If you express the thought in your own words and can't find the right words for it, you realize that you didn't understand it after all or maybe you need to practice to improve your performance. If you can express it in your own words, you will already use your own linguistic (or visual) meta-model. All this will most likely guarantee that in a few years you will still be able to express the idea and that it will be understood. This topic will be discussed again in detail in the kata _Creating durable notes_.
+
+
+![Sprechblasen](images/Sprechblasen.png)
+
 
 
 ### Exercises
-- Find a piece of paper that does not fit into the criteria. The criteria are
-	- Only one idea on the note?
-	- Does the note fit on a DINA6 page (~450 words)?
-	- the title reflects the basic idea
-- Rewrite the note so that the criteria are met.
-	- divide it into several notes if necessary, one idea per note
-	- Delete unnecessary text (prose)
-	- Make the title short, concise and meaningful so that it directly reflects the idea.
-		- Ideally, it can be used as a sentence directly in a text.
+- Write down your questions about what you have written above
+- Discuss your understanding on notes and clarify the questions everyone has
 
-### Reflection section
-What is the benefit of talking titles?
-- How can you make sure that a note actually refers to a single idea?
-- How can you make the title of a note as meaningful as possible and give a quick overview of the note's content?
-- How can one ensure that the length of a note is appropriate and allows the idea to be captured quickly?
-- To what extent does it help knowledge management to organize notes into atomic units?
-- How do you proceed when you come across a note that does not adhere to the criteria? What steps are necessary to adjust it?
-- To what extent is it beneficial to build the titles of notes as a sentence and how can you implement this?
 
-### Learning objective
-- Reduce a note to a single idea.
-- Keep notes short and essential to be able to recall knowledge quickly.
+
+### Reflection part
+- Do you feel picked up or unsettled with the information above?
+
+
+### Learning Objective
+- What a note should include at a minimum
+- What is optionally helpful in a note
+- Self-check if the knowledge was understood
+- Identify essential statements from texts
+- Different types of notes and their meaning
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"

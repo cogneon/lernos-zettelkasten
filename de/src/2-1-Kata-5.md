@@ -22,7 +22,7 @@ Die Literaturnotiz, oder auch bibliographische Notiz ist der Verweis auf die Que
 Deine Gedanken zur Information befinden sich in den Permanenten Notizen. Jeder Zettel den du in deinen Zettelkasten steckst ist dafür vorgesehen für immer in deinem Zettelkasten zu bleiben. Daher auch permanent. Dabei ist es irrevlevant ob du den Zettel immer wieder mit den neuesten Erkenntnissen umschreibst, oder neue Zettel mit neuen Erkenntnissen anlegst und verlinkst.
 
 ##### Map of Contents / Index
-Map of Content oder auch Index-Zettel bilden Einstiegspunkte auf höherer Ebene. Später (in Woche 9) werden wir noch dazu kommen wie solche Zettel erstellt werden. Hier geht es nur darum, dass du bereits weißt, dass es so etwas gibt. Wenn du irgendwann sehr viele Zettel in deinem System hast, wirst du eine Methode brauchen deine Gedanken wiederzufinden wenn du sie brauchst. Und dabei helfen diese Map Of Contents. Es kann übrigens mehrere Ebenen davon geben, je nachdem wie Umfangreich deine Gedanken zu einem Themenfeld sind.
+Map of Content oder auch Index-Zettel bilden Einstiegspunkte auf höherer Ebene. Später (in [Woche 8](2-1-Woche-8.md)) werden wir noch dazu kommen wie solche Zettel erstellt werden. Hier geht es nur darum, dass du bereits weißt, dass es so etwas gibt. Wenn du irgendwann sehr viele Zettel in deinem System hast, wirst du eine Methode brauchen deine Gedanken wiederzufinden wenn du sie brauchst. Und dabei helfen diese Map Of Contents. Es kann übrigens mehrere Ebenen davon geben, je nachdem wie Umfangreich deine Gedanken zu einem Themenfeld sind.
 
 
 

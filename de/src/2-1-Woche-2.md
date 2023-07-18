@@ -2,7 +2,7 @@
 
 ## Woche 2 - Notizen kennenlernen
 
-In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umgebung ein.
+Notizen, kennen wir alle. Hier beschtigen wir uns mit ihrer Struktur und dem Inhalt, was sie ausmachen für das Wissensmanagement.
 
 ### Als Vorbereitung
 
@@ -21,6 +21,9 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 - Ist eine einheitliche Struktur förderlich oder unnötig?
 - Progressive Summarization oder direkt Zusammenfassen in eigenen Worten?
 - Fühst du dich abgeholt oder verunsichert mit den Informationen in den Katas?
+- Hilft dir Progressive Summarization die Essentiellen Anteile eines Textes heraus zu arbeiten?
+- Hast du pro Stufe in etwa 10% der vorherigen Schicht umsetzen können?
+- Würdes du Progressive Summarization anwenden, ab und zu anwenden, überhaupt nicht anwenden? Warum?
 
 ### Schluss
 

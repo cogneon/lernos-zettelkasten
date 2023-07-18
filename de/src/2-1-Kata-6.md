@@ -1,8 +1,8 @@
 ## Kata 6 - Progressive Summarization
 
-### Theorie
-
 Verwendet in [Woche 2](2-1-Woche-2.md)
+
+### Theorie
 
 Progressive Summarization, der Begriff wurde von Tiago Forte geprägt, ist eine Technik um einen Text in iterativen Schritten zusammen zu fassen und auf das Wesentliche zu reduzieren.
 Idealerweise bleibt nach jeder Iteration 10% Text übrig.
@@ -20,12 +20,6 @@ Die Methode ist eine Methode, sie muss nicht genutzt werden. Du kannst das Geles
 
 ### Übungen
 - Nimm dir einen Artikel, Buchkapitel und wende Progressive Summarization mindestens bis Stufe 3 an (inklusive Stufe 3 ist gemeint).
-
-
-### Reflexionsteil
-- Hilft dir Progressive Summarization die Essentiellen Anteile eines Textes heraus zu arbeiten?
-- Hast du pro Stufe in etwa 10% der vorherigen Schicht umsetzen können?
-- Würdes du Progressive Summarization anwenden, ab und zu anwenden, überhaupt nicht anwenden? Warum?
 
 
 ### Lernziel
