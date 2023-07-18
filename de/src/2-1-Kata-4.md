@@ -1,3 +1,5 @@
+![Der Zweck von Feedback](images/woche0.png)
+
 ## Kata 4 - Feedback
 
 Verwendet in [Woche 0](2-1-Woche-0.md)

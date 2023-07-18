@@ -2,7 +2,7 @@
 
 ## Woche 3 - Erste Notizen erstellen
 
-In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umgebung ein.
+Von hier an erstellst du deine eigenen Notizen. Du solltest jede Woche neue Notizen erstellen oder _alte_ Überarbeiten. 
 
 ### Als Vorbereitung
 

@@ -25,7 +25,7 @@ Schau bei Bedarf noch einmal in die Kata  _Woche 3 - Notizen kennenlernen_ rein.
 
 
 #### Tipp 2
-Um in Mark-Down Links zu erstellen einfach \[\[ \]\] um den Notiznamen setzen und es wird daraus ein Link, das Funktioniert auch in OneNote um Links auf Seiten zu erzeugen.
+Um in Mark-Down Links zu erstellen einfach \[\[ \]\] um den Notiznamen setzen und es wird daraus ein Link, das Funktioniert auch in OneNote um Links auf Seiten zu erzeugen. Hier kannst du noch mehr [MarkDown Formatierung](3-0-1-was-ist-markdown.md) finden.
 
 ![Links erstellen](images/links-erstellen.png)
 
