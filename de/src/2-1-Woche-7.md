@@ -1,6 +1,6 @@
 ![Stopp](images/Boxenstopp.png)
 
-## Woche 7 - Verzetteln
+## Woche 7 - Boxenstopp
 
 Hey, Herzlichen Glückwunsch! Du bist bis hierhin gekommen, das ist bereits ein Grund zum Feiern und sich gegenseitig auf die Schulter zu klopfen!
 

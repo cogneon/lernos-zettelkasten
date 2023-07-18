@@ -1,36 +1,40 @@
-![Wiederauffindbarkeit des Wissens](images/woche8.png)
+![Note length](images/woche5.png)
 
-## Week 8 - Knowledge retrieval
+## Kata 8 - Create permanent notes
+
+Used in [Week 5](2-1-Woche-5.md)
+
 ### Theory
-You have now already created some notes in your note box. But your notes are still easy to keep track of. However, if your note box continues to grow, it may start to become confusing. Therefore, it is now a question of how you can find your knowledge in your note box again, if it becomes more and more extensive. An important requirement of your system is the retrievability of information.
+Creating notes requires some thought in order to effectively manage personal knowledge. An important foundation here is the atomicity of notes.
 
-Retrievability means being able to find information you once stored later when you need it. This contrasts with information retrieval, where you know the information you are looking for is in a specific document and you have to search that document specifically. An important aspect of linking knowledge is the ability to link to notes that fit the topic. Of course, this is most easily done if you remember that you have that information in your Zettelkasten. Otherwise, we are already in the topic, how do you find information back in your note box?
+Atomicity means that each note refers to exactly one idea. This idea should be elementary and to the point, without prose or unnecessary details. Because of the atomic structure of notes, large ideas or abstract considerations can be created from many small building blocks, or thought processes can be connected.
 
-Successful knowledge management should therefore originate bottom-up topic oriented and have indexes, or Map Of Content (MOC) notes, as entry points. This way, you can avoid getting lost in the flood of notes and instead search specifically for information that you had in your head but can no longer name precisely. Or even "stumbles" across information that you had "forgotten" was in the system.
+An important component of a note is the title. This should be unique and designed to be as eloquent as possible. In this way, it is already possible to recognize from the title what the note is about and whether it can be useful for the current project. It is recommended to limit the length of the title to ~20 words^[256 characters including file path].
 
-Factors that influence the retrievability of information include the structure and organization of the notes, the use of keywords and tags, the possibility of full-text search, and the use of metadata.
+Regarding the length of the note, the text should be kept short to be able to capture the thought quickly. As a guideline, you can use 450 words or a DINA 6 page.
 
-One way to improve retrievability is to create indexes or a Map of Content (MOC). This defines major points of contact from which more detailed information can be accessed. Another option is the use of tags to quickly browse topic affiliations. However, the TAGs should be used rather sparingly, too many TAGs can lead to not seeing the forest for the trees. TAGs should also be maintained regularly to remain useful. A full-text search within the notes makes it possible to search specifically for certain terms. By using metadata, such as aliases, authors or book titles, notes can be filtered and sorted specifically. Another way to make notes retrievable is to link them to each other. This makes it easy to move from one topic to the next and keep the information thematically coherent. What emerges in the previous exercise when you get bogged down. Train of thought.
+In summary, creating notebook-style notes effectively requires:
 
-### Exercise
-- Use keywords and tags: Try to add keywords and tags to the notes in your Zettelkasten to make it easier to identify topics.
-- Create an overview of the keywords and tags you use in your Zettelkasten and think about how you can target them to improve information retrieval.
-- Try out full-text search: Experiment with full-text search within your Zettelkasten to target specific terms.
-- Experiment with how you might navigate along a thread to find information within the thread. Even if you know exactly where the information is, how would you navigate to it if you only knew it was _somewhere_ in the thread?
+- Atomicity: each note should relate to one elementary idea, without prose or unnecessary details.
+- Unique, speaking title: the title should get to the heart of the note's idea and be limited to 20 words if possible.
+- Short text length: the text should be kept short in order to capture the idea quickly, guideline is 450 words or one DINA 6 page.
 
-### Reflection section
-- What methods and tools do I currently use to improve the retrievability of information in my Zettelkasten?
-- What other ways of improving retrievability, could I use in my Zettelkasten?
-- Analyze your box in terms of how do you find your information?
-	- How long does it take you to find information?
-	- What paths do you take?
-- What thoughts do you have about the above information? Have you written them down?
-- To what extent do you currently use linking notes to each other to make the knowledge in your Zettelkasten accessible?
-- What are your current challenges with retrieving information in your Zettelkasten and how can you solve them?
 
-### Learning Objective
-- Understand how different entry points can be used to find information.
-- Know the entry points in your own note box.
+### Exercises
+- Find a piece of paper that does not fit into the criteria. The criteria are
+	- Only one idea on the note?
+	- Does the note fit on a DINA6 page (~450 words)?
+	- the title reflects the basic idea
+- Rewrite the note so that the criteria are met.
+	- divide it into several notes if necessary, one idea per note
+	- Delete unnecessary text (prose)
+	- Make the title short, concise and meaningful so that it directly reflects the idea.
+		- Ideally, it can be used as a sentence directly in a text.
+
+
+### Learning objective
+- Reduce a note to a single idea.
+- Keep notes short and essential to be able to recall knowledge quickly.
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"
