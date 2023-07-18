@@ -2,18 +2,21 @@
 
 ## Woche 10 - Vertiefung zum Workflow
 
-### Theorie
+Diese Woche geht es darum zu reflektieren von wo du gekommen bist und welchen Workflow du nach den letzen Wochen umsetzt. 
 
+### Als Vorbereitung
 
+- [ ] [Kata 17](2-1-Kata-17.md): Workflow vertiefen
 
-### Übungen
+### Im Weekly
 
+- [ ] Check in (2 Minuten pro Member)
 
-### Reflexionsteil
+Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
+#### Leitfragen
 
-### Lernziel
-
+- Hast du beim Erstellen deines Workflows neue Erkenntnisse gewonnen?
 
 ### Schluss
 
