@@ -1,4 +1,4 @@
-![Wenn du die Geschichte deines Lebens schreibst, lass niemand anderen den Stift in die Hand nehmen](images/woche1-1.png)
+![Wenn du die Geschichte deines Lebens schreibst, lass niemand anderen den Stift in die Hand nehmen](images/woche1-2.png)
 
 ## Woche 0 - Den Sprint planen und Absprachen treffen
 

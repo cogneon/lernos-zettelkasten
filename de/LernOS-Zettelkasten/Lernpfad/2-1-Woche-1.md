@@ -10,6 +10,8 @@ In dieser Woche wählst du dein Ziel für den Sprint.
 
 - [ ] [Kata 2](2-1-Kata-2.md): Ein Termin mit dir selbst
 
+- [ ] [Kata 3](2-1-Kata-3.md): Umgebung einrichten
+
 ### Im Weekly
 
 - [ ] Check in (2 Minuten pro Member)
@@ -20,11 +22,16 @@ Austausch: Eure Ziele im Sprint (10 Minuten pro Member)
 
 #### Leitfragen
 
-- Warum machst du das?
-- Was inspiriert dich daran ?
+- Warum beschäftigst du dich mit PKM?
+- Was inspiriert dich daran?
 - Was heißt es für dich, ein Ziel erreicht zu haben?
+- Woran würdest du merken, dass du dein Ziel vollends erreicht hast?
 - Wie hast du deine Ziele nach OKR quantitativ messbar gemacht?
 - Wie feierst du, wenn du dein Ziel erreicht hast?
+- Besprecht eure Ansätze zur Terminfindung im Circle.
+- Hast du jede Woche den gleichen Zeit-Slot für dein Weekly?
+- Fällt es dir leichter dynamisch eine Stunde jede Woche einzuplanen?
+- Wie planst du normalerweise wiederkehrende Termine und fühlst du dich mit der Methode wohl?
 
 - Austausch: Ein Termin mit dir selbst (5 Minuten)
 

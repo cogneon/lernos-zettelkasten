@@ -12,4 +12,3 @@
 - [ ] [[2-1-Woche-9|Woche 9]]
 - [ ] [[2-1-Woche-10|Woche 10]]
 - [ ] [[2-1-Woche-11|Woche 11]]
-- [ ] [[2-1-Woche-12|Woche 12]]

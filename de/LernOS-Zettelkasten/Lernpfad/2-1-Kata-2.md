@@ -32,12 +32,6 @@ Nimmst du dir ausreichend Zeit für deine persönliche Entwicklung und für die 
 5.  …
 
 
-#### Reflexionsteil
-- Besprecht eure Ansätze im Circle.
-- Hast du jede Woche den gleichen Zeit-Slot?
-- Fällt es dir leichter dynamisch eine Stunde jede Woche einzuplanen?
-- Wie planst du normalerweise wiederkehrende Termine und fühlst du dich mit der Methode wohl?
-
 
 #### Lernziel
 

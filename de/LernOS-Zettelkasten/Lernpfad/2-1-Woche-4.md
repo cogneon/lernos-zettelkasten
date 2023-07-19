@@ -1,12 +1,11 @@
-![Flüchtige Notizen](images/woche4.png)
+![Workflow](images/woche11.png)
 
-## Woche 4 - Erste Notizen erstellen
+## Woche 4 - Finde deinen Workflow
 
-In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umgebung ein.
 
 ### Als Vorbereitung
 
-- [ ] [Kata 7](2-1-Kata-7.md): Erste Notizen erstellen lesen und Notizen erstellen
+- [ ] [Kata 15](2-1-Kata-15.md): Finde deinen Workflow
 
 ### Im Weekly
 
@@ -16,17 +15,15 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 
 #### Leitfragen
 
-- Diskutiert im Zirkel über die Erfahrung und das Ergebnis (nicht den Inhalt der Notiz)
-- Was hat dich beim Lesen des Artikels/Buches/Themas am meisten interessiert und warum?
-- Welche Informationen/Gedanken hast du aus dem gelesenen Material für wichtig genug gehalten um sie in einer Notiz festzuhalten?
-- Was waren deine Herausforderungen beim Erstellen der Notiz(en) und wie hast du sie überwunden?
-- Wie hast du deine flüchtigen Notizen verarbeitet und was hat dir geholfen, dich an die Notizen zu erinnern?
-- Hat dir ein regelmäßiger Termin geholfen, deine Notizen zu verarbeiten? Was waren die Vorteile und Herausforderungen dabei?
-- Welche Erkenntnisse hast du über deine Gewohnheiten, deine Arbeitsweise und deine Lernbedürfnisse gewonnen, nachdem du diese Aufgabe abgeschlossen hast?
+- Hast du beim Erstellen deines Workflows neue Erkenntnisse gewonnen?
+- Was sind die wichtigsten Vorteile eines etablierten Workflows in Bezug auf die Zettelkasten-Methode?
+- Was sind die wichtigsten Faktoren, um einen Workflow am Leben zu halten?
+- Wie kannst du sicherstellen, dass dein Workflow regelmäßig von dir durchgeführt wird?
 
 ### Schluss
 
 - [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
+
 
