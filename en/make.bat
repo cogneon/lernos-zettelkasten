@@ -33,3 +33,7 @@ magick mogrify -size 2500x2500 -resize 2500x2500 src/images/ebook-cover.jpg
 magick mogrify -crop 1563x2500+102+0 src/images/ebook-cover.jpg
 pandoc metadata.yaml --from markdown -s --resource-path="./src" --epub-cover-image=src/images/ebook-cover.jpg --number-sections --toc -V lang=de-de -o %filename%.epub %chapters%
 ebook-convert %filename%.epub %filename%.mobi
+
+REM update Vault
+echo updating vault ...
+updateObsidianVault.exe

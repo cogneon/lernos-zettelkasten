@@ -1,24 +1,29 @@
-![Wählen eines Programms für die PKM-Umgebung](images/woche2.png)
+![Notizen kennenlernen](images/woche3.png)
 
-## Woche 2 - PKM-Umgebung Einrichten
+## Woche 2 - Notizen kennenlernen
 
-In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umgebung ein.
+Notizen, kennen wir alle. Hier beschtigen wir uns mit ihrer Struktur und dem Inhalt, was sie ausmachen für das Wissensmanagement.
 
 ### Als Vorbereitung
 
-- [ ] [Kata 3](2-1-Kata-3.md): PKM-Umgebung Einrichten
+- [ ] [Kata 5](2-1-Kata-5.md): Notizen kennenlernen lesen
+
+- [ ] [Kata 6](2-1-Kata-6.md): Progressive Summarization lesen und an einem Artikel/Website ausprobieren
 
 ### Im Weekly
 
 - [ ] Check in (2 Minuten pro Member)
 
-Austausch: einrichten der PKM Umgebung
+Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
 #### Leitfragen
 
-- Welche Aspekte sind für dich bei der Wahl eines Programms für das persönliche Wissensmanagement am wichtigsten?
-- Welche Art von Notizen machst du am häufigsten und welche Funktionen würdest du in einem Programm benötigen, um diese zu organisieren?
-- Wie gehst du mit der Möglichkeit um, dass sich die Programme verändern und möglicherweise vom Markt verschwinden?
+- Ist eine einheitliche Struktur förderlich oder unnötig?
+- Progressive Summarization oder direkt Zusammenfassen in eigenen Worten?
+- Fühst du dich abgeholt oder verunsichert mit den Informationen in den Katas?
+- Hilft dir Progressive Summarization die Essentiellen Anteile eines Textes heraus zu arbeiten?
+- Hast du pro Stufe in etwa 10% der vorherigen Schicht umsetzen können?
+- Würdes du Progressive Summarization anwenden, ab und zu anwenden, überhaupt nicht anwenden? Warum?
 
 ### Schluss
 

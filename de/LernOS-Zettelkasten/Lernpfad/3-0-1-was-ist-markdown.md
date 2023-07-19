@@ -25,10 +25,10 @@ Das ist im Grunde alles was du brauchst um loszulegen.
 
 Hier sind noch ein paar Steuerzeichen mehr, die sehr praktisch sind, doch nicht nötig sind. Nimm nur die, mit denen du dich wohl fühlst und welche du denkst als Formatierung zu brauchen.
 
-- \*\****Fett formatiert**\*\*
+- \*\***Fett formatiert**\*\*
 - \**Kursiv formatiert*\*
-- \=\===Marker Markiert==\=\=
-- \\# --> Erzeugt ein TAG, soetwas wie ein Sticker
+- ==Marker Markiert==
+- \\#TAG --> Erzeugt ein TAG, soetwas wie ein Sticker (z.B. \#ToDo)
 - \[Text\](http Link) --> Erzeugt einen Link zu beliebigen Adressen. Bsp \[Google\](http://www.google.de)
 - \!\[\[_Notiz_\]\] --> Zeigt den Inhalt einer Notiz an.
 - \-\-\- --> erzeugt eine Trennlinie
@@ -40,11 +40,11 @@ Manche Programme bieten dir auch wie in WYSIWYG-Programmen^[What you see, is wha
 
 - Metadaten \---
 - Tabellen \|\|\|
-- Kommentare \%
+- Kommentare %%
 - Zitate \>
-- Verweise \^
+- Verweise ^
 - Blockreferenzen mit ^ und #
-  - \^ für Blöcke --> \[\[Beispiel\#^Verweis\]\]
+  - ^ für Blöcke --> \[\[Beispiel\#^Verweis\]\]
   - \# für Überschriften --> \[\[Beispiel\#Überschrift\]\]
 
 Es gibt noch weitere MD-Syntax. Wenn dich noch mehr Möglichkeiten interessieren kannst du [hier](https://www.markdownguide.org/extended-syntax/) nachschlagen.

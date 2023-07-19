@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "057e30da0a0ad0c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "de83d88e2c5bc24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f077a4f0ee8b14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95b2c23cfcf7e728",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e15874d4cd5fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4328a8e15e0caf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63e920ed6b51d85d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5e0f6f3943492b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5bf57ba7139367f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1c2bf557375fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89b3efd2c4e5e07a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "start here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f73a0c8830282fd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "start here.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "601994ad5ddcef04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0063562114428741",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "start here.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f077a4f0ee8b14a",
+  "lastOpenFiles": [
+    "Lernpfad/2-1-Woche-11.md",
+    "Lernpfad/2-1-Woche-10.md",
+    "Lernpfad/2-1-Woche-1.md",
+    "Lernpfad/2-1-Woche-0.md",
+    "Lernpfad/2-1-Kata-9.md",
+    "Lernpfad/2-1-Kata-8.md",
+    "Lernpfad/2-1-Kata-7.md",
+    "Lernpfad/2-1-Kata-6.md",
+    "Lernpfad/2-1-Kata-5.md",
+    "Lernpfad/2-1-Kata-4.md",
+    "Lernpfad/2-1-Kata-3.md",
+    "Lernpfad/2-1-Kata-2.md",
+    "Lernpfad/2-1-Kata-17.md",
+    "Lernpfad/2-1-Kata-16.md",
+    "Lernpfad/2-1-Kata-15.md",
+    "Lernpfad/2-1-Kata-14.md",
+    "Lernpfad/2-1-Kata-13.md",
+    "Lernpfad/2-1-Kata-12.md",
+    "Lernpfad/2-1-Kata-11.md",
+    "Lernpfad/2-1-Kata-10.md",
+    "Lernpfad/2-1-Kata-1.md",
+    "Lernpfad/2-1-Kata-0.md",
+    "Lernpfad/2-0-PKM-Grundlagen.md",
+    "Lernpfad/2-0-Lernpfad-Ueberblick.md",
+    "Lernpfad/1-5-lernOS-Memex.md",
+    "Lernpfad/1-4-lernOS-Workplace.md",
+    "Lernpfad/images/ZettelkastenLernziele_onepage.svg",
+    "Lernpfad/images/ZettelkastenLernziele_onepage.png",
+    "Lernpfad/images/ZettelkastenLernziele_3.svg",
+    "Lernpfad/images/ZettelkastenLernziele_3.png",
+    "Lernpfad/images/ZettelkastenLernziele_2.svg",
+    "Lernpfad/images/ZettelkastenLernziele_2.png",
+    "Lernpfad/images/ZettelkastenLernziele_1.svg",
+    "Lernpfad/images/ZettelkastenLernziele_1.png",
+    "Lernpfad/images/woche12.png",
+    "Lernpfad/images/woche11.png",
+    "Lernpfad/images",
+    "Lernpfad/Ressources",
+    "Lernpfad"
+  ]
+}

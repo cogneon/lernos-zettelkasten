@@ -1,3 +1,5 @@
+![Wenn du die Geschichte deines Lebens schreibst, lass niemand anderen den Stift in die Hand nehmen](images/woche1-1.png)
+
 ## Kata 0 - Circle Setup
 
 Verwendet in [Woche 0](2-1-Woche-0.md)

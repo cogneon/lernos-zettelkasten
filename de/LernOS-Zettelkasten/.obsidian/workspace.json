@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernpfad/2-1-Woche-0.md",
+                "file": "Starte hier.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernpfad/2-1-Woche-0.md",
+                "file": "Starte hier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernpfad/2-1-Woche-0.md",
+                "file": "Starte hier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernpfad/2-1-Woche-0.md"
+                "file": "Starte hier.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c4328a8e15e0caf",
+  "active": "0f077a4f0ee8b14a",
   "lastOpenFiles": [
-    "Lernpfad/2-1-Kata-4.md",
-    "Lernpfad/2-1-Woche-0.md",
-    "Lernpfad/2-1-Kata-0.md",
-    "Starte hier.md",
-    "Lernpfad/2-1-Woche-12.md",
     "Lernpfad/2-1-Woche-11.md",
     "Lernpfad/2-1-Woche-10.md",
-    "Lernpfad/2-1-Woche-9.md",
-    "Lernpfad/2-1-Woche-8.md",
-    "Lernpfad/2-1-Woche-7.md",
-    "Lernpfad/2-1-Woche-6.md",
-    "Lernpfad/2-1-Woche-5.md",
-    "Lernpfad/2-1-Woche-4.md",
-    "Lernpfad/2-1-Woche-3.md",
-    "Lernpfad/2-1-Woche-2.md",
     "Lernpfad/2-1-Woche-1.md",
-    "Lernpfad/1-2-lernOS-Canvas.md",
-    "Lernpfad/index.md",
-    "Lernpfad/3-0-99-Aenderungshistorie.md",
-    "Lernpfad/3-0-3-Guide-PKM-mit-OneNote.md",
-    "Lernpfad/3-0-2-proprietaeres-Format-zu-MD.md",
-    "Lernpfad/3-0-1-was-ist-markdown.md",
-    "Lernpfad/3-0-0-Danksagung.md",
+    "Lernpfad/2-1-Woche-0.md",
+    "Lernpfad/2-1-Kata-9.md",
+    "Lernpfad/2-1-Kata-8.md",
+    "Lernpfad/2-1-Kata-7.md",
+    "Lernpfad/2-1-Kata-6.md",
+    "Lernpfad/2-1-Kata-5.md",
+    "Lernpfad/2-1-Kata-4.md",
+    "Lernpfad/2-1-Kata-3.md",
+    "Lernpfad/2-1-Kata-2.md",
+    "Lernpfad/2-1-Kata-17.md",
     "Lernpfad/2-1-Kata-16.md",
     "Lernpfad/2-1-Kata-15.md",
     "Lernpfad/2-1-Kata-14.md",
+    "Lernpfad/2-1-Kata-13.md",
+    "Lernpfad/2-1-Kata-12.md",
+    "Lernpfad/2-1-Kata-11.md",
+    "Lernpfad/2-1-Kata-10.md",
+    "Lernpfad/2-1-Kata-1.md",
+    "Lernpfad/2-1-Kata-0.md",
+    "Lernpfad/2-0-PKM-Grundlagen.md",
+    "Lernpfad/2-0-Lernpfad-Ueberblick.md",
+    "Lernpfad/1-5-lernOS-Memex.md",
+    "Lernpfad/1-4-lernOS-Workplace.md",
     "Lernpfad/images/ZettelkastenLernziele_onepage.svg",
     "Lernpfad/images/ZettelkastenLernziele_onepage.png",
     "Lernpfad/images/ZettelkastenLernziele_3.svg",
