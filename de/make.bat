@@ -9,6 +9,7 @@ set chapters=./src/index.md ./src/1-1-Lebenslanges-Lernen-und-Wissensarbeit.md .
 REM Delete Old Versions
 echo Deleting old versions ...
 del %filename%.*
+del LernOS-Zettelkasten.zip
 
 REM Create Web Version (mkdocs)
 echo Creating Web Version ...
