@@ -37,4 +37,14 @@ ebook-convert %filename%.epub %filename%.mobi
 
 REM update Vault
 echo updating vault ...
-updateObsidianVault.exe
+rd /s /q LernOS-Zettelkasten\Lernpfad\*.md
+rd /s /q LernOS-Zettelkasten\Lernpfad\images\*
+copy /y src\*.md LernOS-Zettelkasten\Lernpfad
+for /f "delims=" %%f in ('dir /b LernOS-Zettelkasten\Lernpfad\*.md') do (
+  sed -i 's/<script.*?>//g' "%%f"
+)
+copy /y src\images\*.jpg LernOS-Zettelkasten\Lernpfad\images
+copy /y src\images\*.png LernOS-Zettelkasten\Lernpfad\images
+
+rem Create a ZIP archive
+zip -r LernOS-Zettelkasten.zip LernOS-Zettelkasten
