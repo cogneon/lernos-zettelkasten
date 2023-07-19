@@ -42,4 +42,18 @@ Um in Mark-Down Links zu erstellen einfach \[\[ \]\] um den Notiznamen setzen un
 - Du kannst, eine Notiz im Zettelkasten erstellen, die du auch in 10 Jahren verstehst.
 - Du hältst deine Regeltermine ein.
 - Du legst regelmäßig Notizen in deinem Zettelkasten ab.
-
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="de"
+        crossorigin="anonymous"
+        async>
+</script>
