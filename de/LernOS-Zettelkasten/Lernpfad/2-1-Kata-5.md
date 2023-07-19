@@ -71,4 +71,18 @@ Wenn du einen Gedanken in eigenen Worten wiedergeben kannst, dann hast du den Ge
 - möglichkeit der Selbstprüfung ob du das Wissen verstanden hast
 - essentielle Aussagen aus Texten herausarbeiten können
 - verschiedene Arten von Notizen und deren Bedeutung kennenlernen
-
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="de"
+        crossorigin="anonymous"
+        async>
+</script>
