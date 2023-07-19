@@ -1,30 +1,32 @@
-![Notizen kennenlernen](images/woche3.png)
+![Flüchtige Notizen](images/woche4.png)
 
-## Woche 3 - Notizen kennenlernen
+## Woche 3 - Erste Notizen erstellen
 
-In dieser Woche richtest du dir deine Persönliches Wissensmanagement (PKM) Umgebung ein.
+Von hier an erstellst du deine eigenen Notizen. Du solltest jede Woche neue Notizen erstellen oder _alte_ Überarbeiten. 
 
 ### Als Vorbereitung
 
-[ ] [Kata 5](2-1-Kata-5.md): Notizen kennenlernen lesen
-
-[ ] [Kata 6](2-1-Kata-6.md): Progressive Summarization lesen und an einem Artikel/Website ausprobieren
+- [ ] [Kata 7](2-1-Kata-7.md): Erste Notizen erstellen lesen und Notizen erstellen
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
 #### Leitfragen
 
-- Ist eine einheitliche Struktur förderlich oder unnötig?
-- Progressive Summarization oder direkt Zusammenfassen in eigenen Worten?
-- Fühst du dich abgeholt oder verunsichert mit den Informationen in den Katas?
+- Diskutiert im Zirkel über die Erfahrung und das Ergebnis (nicht den Inhalt der Notiz)
+- Was hat dich beim Lesen des Artikels/Buches/Themas am meisten interessiert und warum?
+- Welche Informationen/Gedanken hast du aus dem gelesenen Material für wichtig genug gehalten um sie in einer Notiz festzuhalten?
+- Was waren deine Herausforderungen beim Erstellen der Notiz(en) und wie hast du sie überwunden?
+- Wie hast du deine flüchtigen Notizen verarbeitet und was hat dir geholfen, dich an die Notizen zu erinnern?
+- Hat dir ein regelmäßiger Termin geholfen, deine Notizen zu verarbeiten? Was waren die Vorteile und Herausforderungen dabei?
+- Welche Erkenntnisse hast du über deine Gewohnheiten, deine Arbeitsweise und deine Lernbedürfnisse gewonnen, nachdem du diese Aufgabe abgeschlossen hast?
 
 ### Schluss
 
-[ ] Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 

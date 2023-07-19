@@ -1,10 +1,11 @@
 ![When writing the story of your life, don't let anyone else hold the pen](images/woche1-1.png)
 
-## Week 1 - Goal definition & appointment with yourself
+## Kata 1
 
-Week 1 is the only week that consists of two topics. Your goal definition and making an appointment with yourself.
+Used in [week 1](2-1-Woche-1.md)
 
-### Goal definition
+
+### My goal for the next 12 weeks
 
 #### Theory
 What do you want to achieve in the next twelve weeks? You can choose a goal that is really, really important to you and with which you will make very concrete progress during the sprint. However, especially for PKM beginners, achieving the goal is not the top priority. In addition to learning the basic knowledge, the environment, the findability and permanence of notes, the focus is still very much on regularly applying the newly gained skills.
@@ -29,7 +30,7 @@ Using the SMART method is a good way to define a goal. It applies various criter
 **A**ttractive: Your goal must motivate you. You must want to achieve it if you want to spend 12 weeks to make it come true. Therefore, this point is especially important. It should be a goal that you have personally chosen for yourself and with which you can identify 100%. A goal that others set for me will rarely trigger the same desire in me to achieve it as one that springs from my own heart. In some explanations of the SMART formula, the A also stands for **A**nchallenging. Will mean that your goal should not be too easy. You should make a little effort and challenge yourself, because if you stay too far away from your personal limits and actually still chill in your comfort zone, you can rarely really improve. Ultimately, you need to go a little beyond your comfort zone without completely overtaxing yourself, because that's where growth begins.
 Caution. Overextending yourself won't yield sustainable results, and by and large, this learning path is meant to bring one thing above all else: a lot of fun! And that can quickly fall by the wayside if your goals are too ambitious.
 
-![3 Zonen Lernmodell](images/3-zonen-lernmodell.png)
+![3 Zones Learning Model](images/3-zonen-lernmodell.png)
 
 **R**ealistic: The learning path goes 12 weeks and therefore you should also choose a goal that is really achievable in this time. Stay down to earth when defining your goals. You can achieve anything at a snail's pace and with perseverance. It is also key to question yourself in advance:
 Are you one of those people who like to choose their goals a little more challenging?
@@ -75,57 +76,9 @@ WOOP, PACT, OKR:
 - Share your goal(s) with the Circle
 
 
-#### Reflection part
-What is already going well?
-What have you already achieved?
-Who/what could support you?
-How would you know that you have fully achieved your goal?
-
 #### Learning goal
 - You support your learning success by making your goals measurable.
 - You motivate yourself and the other participants by making your goals tangible.
-
-
-![Ein Termin mit dir selbst](images/woche1-2.png)
-### An appointment with yourself
-
-
-#### Theory
-Do you take enough time for your personal development and to work on your goals? Many people are busy with their daily tasks and don't care enough about their development and well-being. A good approach is to make an appointment with yourself and reserve this time in your calendar.
-
-
-##### More information:
-
--   Video: [7 Big Rocks](https://www.youtube.com/watch?v=fmV0gXpXwDU)
--   Podcast: [Never enough time? Schedule your priorities by colorcoding your calendars](http://www.asianefficiency.com/schedule-management/color-code-your-calendar/)
-
-
-#### exercises
-
-Check your calendar and look for possible dates with yourself. An hour or even 30 minutes a week is a good starting point. Put an appointment with yourself on the calendar. If possible, make it a recurring appointment so that this time becomes a habit for you. Find at least five appointments:
-
-1. ...
-
-2. ...
-
-3. ...
-
-4. ...
-
-5. ...
-
-
-#### Reflection part
-- Discuss your approaches in the Circle.
-- Do you have the same time slot each week?
-- Do you find it easier to dynamically schedule an hour each week?
-- How do you usually schedule recurring appointments and do you feel comfortable with the method?
-
-
-#### Learning Goal
-
-- You make a commitment to yourself to give yourself this learning space for the exercises.
-- You create the necessary conditions to carry out the Circle successfully.
 <script src="https://giscus.app/client.js"
         data-repo="cogneon/lernos-zettelkasten"
         data-repo-id="R_kgDOI5YY1w"

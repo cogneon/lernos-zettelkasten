@@ -1,31 +1,26 @@
-![Denken im Zettelkasten](images/Woche10.png)
+![Denken im Zettelkasten](images/woche11.png)
 
-## Woche 10 - Denken im Zettelkasten
+## Woche 10 - Vertiefung zum Workflow
 
-Notizen sammeln ist schön und gut. Geht es dir nicht auch so, dass du Gedanken und Fragen dazu hast?
+Diese Woche geht es darum zu reflektieren von wo du gekommen bist und welchen Workflow du nach den letzen Wochen umsetzt. 
 
 ### Als Vorbereitung
 
-[ ] [Kata 14](2-1-Kata-14.md): Denken im Zettelkasten
+- [ ] [Kata 17](2-1-Kata-17.md): Workflow vertiefen
 
 ### Im Weekly
 
-[ ] Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
 Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagement beschäftigt?
 
 #### Leitfragen
 
-- Wie hast du den Dialog mit deinem Zettelkasten für dich empfunden?
-- Was sind die Vorteile des Denkens im Zettelkasten?
-- Wie kann man objektive Vergleiche zwischen parallelen und widersprüchlichen Gedanken im Zettelkasten ziehen?
-- Wie kann man den Zettelkasten als Gesprächspartner nutzen?
-- Welche Art von Fragen kann man dem Zettelkasten stellen?
-- Wie kann ich die Logik und Begründung in meinen Schlussfolgerungen überprüfen?
+- Hast du beim Erstellen deines Workflows neue Erkenntnisse gewonnen?
 
 ### Schluss
 
-[ ] Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
 
