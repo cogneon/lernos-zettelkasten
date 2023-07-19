@@ -16,19 +16,37 @@ nav:
       - PKM Basics: 2-0-PKM-Grundlagen.md
     - Learning Pathway:
       - Learning Pathway Overview: 2-0-Lernpfad-Ueberblick.md
-      - Week 0: 2-1-Kata-0.md
-      - Week 1: 2-1-Kata-1.md
-      - Week 2: 2-1-Kata-2.md
-      - Week 3: 2-1-Kata-3.md
-      - Week 4: 2-1-Kata-4.md
-      - Week 5: 2-1-Kata-5.md
-      - Week 6: 2-1-Kata-6.md
-      - Week 7: 2-1-Kata-7.md
-      - Week 8: 2-1-Kata-8.md
-      - Week 9: 2-1-Kata-9.md
-      - Week 10: 2-1-Kata-10.md
-      - Week 11: 2-1-Kata-11.md
-      - Week 12: 2-1-Kata-12.md
+      - Week 0: 2-1-Woche-0.md
+      - Week 1: 2-1-Woche-1.md
+      - Week 2: 2-1-Woche-2.md
+      - Week 3: 2-1-Woche-3.md
+      - Week 4: 2-1-Woche-4.md
+      - Week 5: 2-1-Woche-5.md
+      - Week 6: 2-1-Woche-6.md
+      - Week 7: 2-1-Woche-7.md
+      - Week 8: 2-1-Woche-8.md
+      - Week 9: 2-1-Woche-9.md
+      - Week 10: 2-1-Woche-10.md
+      - Week 11: 2-1-Woche-11.md
+    - Kata-Log:
+      - Kata 0 (Circle Setup): 2-1-Kata-0.md
+      - Kata 1 (My goal for the next 12 weeks): 2-1-Kata-1.md
+      - Kata 2 (An appointment with yourself): 2-1-Kata-2.md
+      - Kata 3 (Set up PKM environment): 2-1-Kata-3.md
+      - Kata 4 (Give feedback): 2-1-Kata-4.md
+      - Kata 5 (Get to know notes): 2-1-Kata-5.md
+      - Kata 6 (Progressive Summarization): 2-1-Kata-6.md
+      - Kata 7 (Create first notes): 2-1-Kata-7.md
+      - Kata 8 (Create permanent notes): 2-1-Kata-8.md
+      - Kata 9 (Frittering): 2-1-Kata-9.md
+      - Kata 10 (are you on track?): 2-1-Kata-10.md
+      - Kata 11 (Outlook): 2-1-Kata-11.md
+      - Kata 12 (Retrievability of knowledge): 2-1-Kata-12.md
+      - Kata 13 (Map Of Content in 3 Steps): 2-1-Kata-13.md
+      - Kata 14 (Thinking in the Zettelkasten): 2-1-Kata-14.md
+      - Kata 15 (Find your workflow): 2-1-Kata-15.md
+      - Kata 16 (Retrospective): 2-1-Kata-16.md
+      - Kata 17 (Deepen your workflow): 2-1-Kata-17.md
     - Appendix:
       - Getting started with Markdown: 3-0-1-was-ist-markdown.md
       - Change from proprietary format: 3-0-2-proprietaeres-Format-zu-MD.md
