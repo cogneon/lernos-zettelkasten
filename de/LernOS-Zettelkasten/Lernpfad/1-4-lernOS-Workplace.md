@@ -42,18 +42,4 @@ Die folgende Tabelle zeigt Beispiele von internen (Intranet) und externen (Inter
 | **Personal Information Manager & Email** | E-Mail, Kalender, Kontakte etc. verwalten                    | Gmail                                                        | Outlook                                                      |
 | **Aufgaben- und Zeitmanagement**         | Planung und Einhaltung von Zeiten für Aufgaben               | Trello, Todoist, Things, Omnifocus                           | Microsoft ToDo                                               |
 | **Referenzmanager**                      | Verwaltung von Links und Literatur                           | Zotero, Mendeley, Liquidtext                                 |                                                              |
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="de"
-        crossorigin="anonymous"
-        async>
-</script>
+

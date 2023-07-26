@@ -25,18 +25,4 @@ Die Methode ist eine Methode, sie muss nicht genutzt werden. Du kannst das Geles
 ### Lernziel
 - Eine Methodik kennenlernen um Informationen aus einem Text zu extrahieren
 - Eine Methodik kennenlernen einen Text mit kleinen Zeiteinheiten durchzuarbeiten und dennoch am Ende relevante Informationen zu erhalten.
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="de"
-        crossorigin="anonymous"
-        async>
-</script>
+

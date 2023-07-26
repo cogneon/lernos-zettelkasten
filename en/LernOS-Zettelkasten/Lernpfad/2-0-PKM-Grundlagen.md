@@ -48,18 +48,4 @@ The slip box method was developed by sociologist Niklas Luhmann (\*8.12.1927), w
 
 ![Tablett Zettelkasten](images/Tablet-Zettelkasten.jpeg)
 Autor/in: CrazyCloud
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+
