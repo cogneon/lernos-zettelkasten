@@ -27,7 +27,6 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 - Was sind deine aktuellen Herausforderungen bei der Wiederauffindbarkeit von Informationen in deinem Zettelkasten und wie kannst du diese lösen?
 - Wie hat sich die Erstellung der MOC auf mein Verständnis des Themas ausgewirkt und welche Erkenntnisse habe ich durch den Prozess gewonnen?
 - Was waren die größten Herausforderungen bei der Sammlung meiner Notizen zu diesem Thema?
-- Welche Art von Struktur habe ich für meine MOC gewählt und warum?
 - Was kann ich tun, um sicherzustellen, dass meine MOC leicht auffindbar ist?
 - Wie häufig sollte ich meine MOC aktualisieren und warum?
 - Wie kann ich die Erstellung von MOCs in Zukunft verbessern? Welche Methoden oder Werkzeuge möchte ich ausprobieren?

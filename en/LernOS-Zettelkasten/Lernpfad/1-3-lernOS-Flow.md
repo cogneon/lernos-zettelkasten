@@ -20,4 +20,18 @@ The image is best read from left to right.  There are two possible starting poin
 
 **ProTip:** if you work privately or professionally with Microsoft 365, you will find the Microsoft 365 edition of the lernOS flow in the appendix.
 
-
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

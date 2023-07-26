@@ -28,4 +28,18 @@ In the upper part of the canvas you can enter your name and the date of creation
 * **My Knowledge & Skills:** What knowledge areas and skills are important to your goals, roles, tasks, and projects? What do you still need to learn?
 * **My Knowledge Assets:** What knowledge assets (documents, checklists, videos, etc.) do you have? Which of these can you offer to your network?
 
-
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

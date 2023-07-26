@@ -27,7 +27,6 @@ What has been on your mind this past week related to personal knowledge manageme
 - What are your current challenges with retrieving information in your Zettelkasten and how can you solve them?
 - How did creating the MOC impact my understanding of the topic and what insights did I gain through the process?
 - What were the biggest challenges in collecting my notes on this topic?
-- What type of structure did I choose for my MOC and why?
 - What can I do to ensure that my MOC is easily findable?
 - How often should I update my MOC and why?
 - How can I improve the creation of MOCs in the future? What methods or tools would I like to try?
@@ -38,4 +37,18 @@ What has been on your mind this past week related to personal knowledge manageme
 
 What are your plans for next week?
 
-
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="de"
+        crossorigin="anonymous"
+        async>
+</script>

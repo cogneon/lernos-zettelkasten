@@ -29,4 +29,18 @@ One of the biggest obstacles to successful Circle is the commitment of the parti
 
 ### Learning objective
 - You gain clarity in the Circle about the procedure and the organization
-
+<script src="https://giscus.app/client.js"
+        data-repo="cogneon/lernos-zettelkasten"
+        data-repo-id="R_kgDOI5YY1w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOI5YY184CUTx3"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
