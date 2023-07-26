@@ -8,18 +8,4 @@ Unfortunately, however, there are difficulties and risks associated with using p
 One solution to this could be to implement a switching strategy. One possibility would be to create all new notes from now on in an open format like Markdown, in a suitable program. If one then later searches for old notes, one can search for them in the old program and then transfer them to the new program. The advantage here would be that the transfer only happens when it is really necessary and the energy is distributed for it.
 
 Another suggestion for a switch strategy could be to look for tools that can convert the proprietary format to an open format like Markdown. This way, you could export your old notes to a format that is supported by many different applications and you no longer have to feel dependent on a particular company or developer.
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+
