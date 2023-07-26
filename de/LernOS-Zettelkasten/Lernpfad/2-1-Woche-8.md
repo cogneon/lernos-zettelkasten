@@ -27,7 +27,6 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 - Was sind deine aktuellen Herausforderungen bei der Wiederauffindbarkeit von Informationen in deinem Zettelkasten und wie kannst du diese lösen?
 - Wie hat sich die Erstellung der MOC auf mein Verständnis des Themas ausgewirkt und welche Erkenntnisse habe ich durch den Prozess gewonnen?
 - Was waren die größten Herausforderungen bei der Sammlung meiner Notizen zu diesem Thema?
-- Welche Art von Struktur habe ich für meine MOC gewählt und warum?
 - Was kann ich tun, um sicherzustellen, dass meine MOC leicht auffindbar ist?
 - Wie häufig sollte ich meine MOC aktualisieren und warum?
 - Wie kann ich die Erstellung von MOCs in Zukunft verbessern? Welche Methoden oder Werkzeuge möchte ich ausprobieren?
@@ -38,18 +37,4 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 
 Was nimmst du dir für die nächste Woche vor?
 
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="de"
-        crossorigin="anonymous"
-        async>
-</script>
+

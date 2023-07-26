@@ -2,7 +2,7 @@
 
 ## Woche 3 - Erste Notizen erstellen
 
-Von hier an erstellst du deine eigenen Notizen. Du solltest jede Woche neue Notizen erstellen oder _alte_ Überarbeiten. 
+Von hier an erstellst du deine eigenen Notizen. Du solltest jede Woche neue Notizen erstellen oder _alte_ Überarbeiten. Plan dir etwas mehr Zeit für die Übung ein, in dieser Woche fängst du wirklich damit an Inhalt in deinen Zettelkasten zu bringen, und das ab jetzt kontinuierlich.
 
 ### Als Vorbereitung
 

@@ -2,7 +2,7 @@
 
 ## Week 3 - Create your first notes
 
-you will your own notes, and from here on you shall write every week new notes and refine the _old_ ones.
+you will your own notes, and from here on you shall write every week new notes and refine the _old_ ones. Schedule some extra time to practice, this week you really start adding content to your note box, and do it continuously from now on. 
 
 ### In preparation
 

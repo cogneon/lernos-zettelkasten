@@ -2,7 +2,7 @@
 
 ## Woche 3 - Erste Notizen erstellen
 
-Von hier an erstellst du deine eigenen Notizen. Du solltest jede Woche neue Notizen erstellen oder _alte_ Überarbeiten. 
+Von hier an erstellst du deine eigenen Notizen. Du solltest jede Woche neue Notizen erstellen oder _alte_ Überarbeiten. Plan dir etwas mehr Zeit für die Übung ein, in dieser Woche fängst du wirklich damit an Inhalt in deinen Zettelkasten zu bringen, und das ab jetzt kontinuierlich.
 
 ### Als Vorbereitung
 
@@ -30,18 +30,4 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 
 Was nimmst du dir für die nächste Woche vor?
 
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="de"
-        crossorigin="anonymous"
-        async>
-</script>
+
