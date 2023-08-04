@@ -9,14 +9,14 @@ With this canvas you can plan your learning and keep a good overview, so you don
 The visual structure also makes it easier for you to review the individual components that make up your current knowledge and learning needs and to match existing resources with your learning needs. A picture is worth a thousand words!
 For example, you can use it to work on several areas at the same time.
 
-Alex Osterwalder was the first to come up with the idea for a lernOS Canvas. He also developed the [Business Model Canvas (https://en.wikipedia.org/wiki/Business_Model_Canvas), which is used for the development of business models.
-Both follow the same basic structure and should be filled out by you as a start. This way you get a suitable overview.
+Alex Osterwalder developed the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas), which is used for the development of business models. Inspired by this, Simon Dückert had the idea for the LernOS Canvas.
+Both follow the same basic structure and you should first fill out the LernOS Canvas as a starting point for yourself. This way you will get a suitable overview.
 The [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/main/en/src/images/lernOS-Canvas-for-you-Canvas-de.png)
-**ProTip: Be flexible and work with sticky notes that you can use at any time as needed.
+**ProTip:** Be flexible and work with sticky notes that you can use at any time as needed.
 
 ![lernOS Canvas](images/lernOS-Canvas-for-you-Canvas-de.png)
 
-In the upper part of the canvas you can enter your name and the date of creation or last change. If you want to work with the canvas electronically, you can copy it e.g. into OneNote or a digital whiteboard. For the first filling of the Canvas, you can ask yourself the following questions, for example:
+In the upper part of the canvas you can enter your name and the date of creation or last change. If you want to work with the canvas electronically, you can copy it e.g. into OneNote or a digital whiteboard (e.g. excalidraw). For the first filling of the Canvas, you can ask yourself the following questions, for example:
 
 * **Purpose & Purpose:** What do you live for? What do you want to achieve in your life?
 * **Goals & Key Results:** What are your goals for the next 12 weeks? What are the measurable outcomes to the goals?
