@@ -48,4 +48,3 @@ Manche Programme bieten dir auch wie in WYSIWYG-Programmen^[What you see, is wha
   - \# für Überschriften --> \[\[Beispiel\#Überschrift\]\]
 
 Es gibt noch weitere MD-Syntax. Wenn dich noch mehr Möglichkeiten interessieren kannst du [hier](https://www.markdownguide.org/extended-syntax/) nachschlagen.
-
