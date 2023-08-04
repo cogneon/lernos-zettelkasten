@@ -71,4 +71,3 @@ Wenn du einen Gedanken in eigenen Worten wiedergeben kannst, dann hast du den Ge
 - möglichkeit der Selbstprüfung ob du das Wissen verstanden hast
 - essentielle Aussagen aus Texten herausarbeiten können
 - verschiedene Arten von Notizen und deren Bedeutung kennenlernen
-

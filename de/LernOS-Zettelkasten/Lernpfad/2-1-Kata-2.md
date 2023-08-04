@@ -37,4 +37,3 @@ Nimmst du dir ausreichend Zeit für deine persönliche Entwicklung und für die 
 
 -   Du gibst ein Commitment für dich, dir selbst diesen Lernraum für die Übungen zu geben.
 -   Du schaffst notwendige Rahmenbedingungen, um den Circle erfolgreich durchzuführen.
-

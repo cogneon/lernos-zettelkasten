@@ -78,4 +78,3 @@ WOOP, PACT, OKR:
 #### Lernziel
 -   Du unterstützt deinen Lernerfolg durch Messbar machen deiner Ziele.
 -   Du motivierst dich und die anderen Teilnehmer*innen durch Greifbar machen der Ziele.
-

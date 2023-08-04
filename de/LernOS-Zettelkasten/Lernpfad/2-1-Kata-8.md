@@ -32,4 +32,3 @@ Zusammengefasst, Notizen im Zettelkasten-Stil effektiv zu erstellen erfordert:
 ### Lernziel
 - eine Notiz auf eine einzelne Idee reduzieren.
 - Notizen kurz und essential halten, um das Wissen schnell abrufen zu können.
-

@@ -69,4 +69,3 @@ Die [Produktivität](https://de.wikipedia.org/wiki/Produktivit%C3%A4t) ist klass
 6. Abschließend erfordert die Produktivität von Wissensarbeitenden, dass **Wissensarbeitende ein "Aktivposten"** und nicht ein "Kostenfaktor" sind und demgemäß behandelt werden. Wissensarbeitende sind folglich dann besonders produktiv, wenn sie für die Organisation arbeiten wollen und nicht eine der vielen Wahl-Möglichkeiten wählen.
 
 Der viel beachtete TED-Vortrag von Dan Pink zeigt genau diesen Zusammenhang der Bedeutung von Autonomie, dem kontinuierlichen Lernen (Mastery) und der selbständigen Exploration bzw. dem Herausfinden einer relevanten Arbeitsaufgabe (Purpose), die für die Arbeit im 21. Jahrhundert charakteristisch ist [Über die überraschende Wissenschaft der Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y).
-

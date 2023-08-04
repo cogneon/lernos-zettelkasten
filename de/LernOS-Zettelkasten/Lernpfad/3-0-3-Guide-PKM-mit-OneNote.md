@@ -12,4 +12,3 @@ Guide um PKM mit OneNote umzusetzen, falls geeignetere Tools (z.B. die aus Woche
 - Register "MOC" könnte genutzt werden um alle MOCs zu Sammeln
 - für jede Idee eine eigene Seite erstellen um gezielt verlinken zu können
 - Sprechende Titel für Seitentitel verwenden
-

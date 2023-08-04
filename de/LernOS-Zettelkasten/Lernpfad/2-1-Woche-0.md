@@ -23,5 +23,3 @@ Bevor es losgeht, investiert etwas Zeit um euch kennenzulernen und die Rahmenbed
 - [ ] Check Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
-
-
