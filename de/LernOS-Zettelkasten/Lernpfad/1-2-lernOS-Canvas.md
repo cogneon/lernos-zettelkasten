@@ -27,4 +27,3 @@ Im oberen Teil des Canvas kannst du deinen Namen und das Datum der Erstellung bz
 * **Meine Lern- und Arbeitsumgebung:** Wie sieht deine Lern- und Arbeitsumgebung aus (Infrastruktur, Inhalte, Tools, Methoden etc.)?
 * **Mein Wissen & Meine Fähigkeiten:** Welche Wissensgebiete und Fähigkeiten sind für deine Ziele, Rollen, Aufgaben und Projekte wichtig? Was musst du noch lernen?
 * **Meine Wissenswerte:** Welche WissensWerte (Dokumente, Checklisten, Videos etc.) hast du? Welche davon kannst du deinem Netzwerk anbieten?
-

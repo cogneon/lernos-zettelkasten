@@ -42,4 +42,3 @@ Um in Mark-Down Links zu erstellen einfach \[\[ \]\] um den Notiznamen setzen un
 - Du kannst, eine Notiz im Zettelkasten erstellen, die du auch in 10 Jahren verstehst.
 - Du hältst deine Regeltermine ein.
 - Du legst regelmäßig Notizen in deinem Zettelkasten ab.
-

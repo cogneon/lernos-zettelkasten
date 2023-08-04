@@ -53,4 +53,3 @@ Die Zettelkasten-Methode wurde vom Soziologen Niklas Luhmann (\*8.12.1927) entwi
 
 ![Tablett Zettelkasten](images/Tablet-Zettelkasten.jpeg)
 Autor/in: CrazyCloud
-

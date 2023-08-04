@@ -41,4 +41,3 @@ Wenn Markdown fÃ¼r dich Fremd ist, und du es in deinem Zettelkasten verwenden mÃ
 
 ### Lernziel
 - Du hast deine Zettelkasten-Umgebung installiert und eingerichtet und bist bereit durchzustarten
-
