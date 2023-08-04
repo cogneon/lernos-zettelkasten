@@ -29,5 +29,3 @@ Eines der größten Hindernisse für erfolgreiche Circle ist die Verbindlichkeit
 
 ### Lernziel
 - Du gewinnst Klarheit im Circle über das Vorgehen und die Organisation
-
-

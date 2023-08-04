@@ -42,4 +42,3 @@ Die folgende Tabelle zeigt Beispiele von internen (Intranet) und externen (Inter
 | **Personal Information Manager & Email** | E-Mail, Kalender, Kontakte etc. verwalten                    | Gmail                                                        | Outlook                                                      |
 | **Aufgaben- und Zeitmanagement**         | Planung und Einhaltung von Zeiten für Aufgaben               | Trello, Todoist, Things, Omnifocus                           | Microsoft ToDo                                               |
 | **Referenzmanager**                      | Verwaltung von Links und Literatur                           | Zotero, Mendeley, Liquidtext                                 |                                                              |
-

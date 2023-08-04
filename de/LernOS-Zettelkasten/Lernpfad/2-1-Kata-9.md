@@ -44,4 +44,3 @@ Anmk.: Falls du sehr viel verzettelst und intensiv an einem Thema arbeitest kann
 ### Lernziel
 - Du hast neue Assoziationen erhalten und Verbindungen geknüpft
 - Du hast neue Themen-Cluster gebildet
-

@@ -36,5 +36,3 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 - [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
-
-

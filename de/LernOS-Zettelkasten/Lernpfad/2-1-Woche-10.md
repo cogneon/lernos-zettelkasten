@@ -2,7 +2,7 @@
 
 ## Woche 10 - Vertiefung zum Workflow
 
-Diese Woche geht es darum zu reflektieren von wo du gekommen bist und welchen Workflow du nach den letzen Wochen umsetzt. 
+Diese Woche geht es darum zu reflektieren von wo du gekommen bist und welchen Workflow du nach den letzen Wochen umsetzt.
 
 ### Als Vorbereitung
 
@@ -23,5 +23,3 @@ Was hat dich die letzte Woche im Zusammenhang mit persönlichem Wissensmanagemen
 - [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
-
-

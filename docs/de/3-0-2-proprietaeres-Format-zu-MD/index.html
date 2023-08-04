@@ -1341,21 +1341,6 @@
 <p>Leider gibt es jedoch Schwierigkeiten und Risiken bei der Verwendung von proprietären Formaten. Eines davon ist, dass man gefangen ist in einer Abhängigkeit von einem bestimmten Unternehmen oder Entwickler, da man das Format nicht ändern oder exportieren kann, ohne das entsprechende Produkt zu verwenden. Ein weiteres Risiko ist, dass das Format irgendwann von dem Unternehmen oder Entwickler eingestellt werden kann, was dazu führen kann, dass man seine Notizen nicht mehr öffnen kann. Das angesammelte Wissen ist dann verloren.</p>
 <p>Eine Lösung hierfür könnte sein, eine Wechselstrategie zu implementieren. Eine Möglichkeit wäre, ab jetzt alle neuen Notizen in einem offenen Format wie Markdown, in einem geeignetem Programm, zu erstellen. Wenn man dann später nach alten Notizen sucht, kann man diese in dem alten Programm suchen und sie dann in das neue Programm übertragen. Der Vorteil hierbei wäre, dass der Übertrag nur dann stattfindet, wenn es wirklich notwendig ist und die Energie dafür verteilt wird.</p>
 <p>Ein weiterer Vorschlag für eine Wechselstrategie könnte sein, nach Tools zu suchen, die das proprietäre Format in ein offenes Format wie Markdown umwandeln können. Auf diese Weise könnten Sie Ihre alten Notizen in ein Format exportieren, das von vielen verschiedenen Anwendungen unterstützt wird und Sie sich nicht länger von einem bestimmten Unternehmen oder Entwickler abhängig fühlen müssen.</p>
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="de"
-        crossorigin="anonymous"
-        async>
-</script>
 
 <!-- Source file information -->
 
@@ -1364,7 +1349,54 @@
 
 
 
-<!-- Inject Disqus into current page -->
+<!-- Inject gisqus into current page -->
+
+  <h2 id="__comments">Kommentare</h2>
+  <!-- Insert generated snippet here -->
+  <script src="https://giscus.app/client.js"
+          data-repo="cogneon/lernos-zettelkasten"
+          data-repo-id="R_kgDOI5YY1w"
+          data-category="Announcements"
+          data-category-id="DIC_kwDOI5YY184CUTx3"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="light"
+          data-lang="de"
+          crossorigin="anonymous"
+          async>
+  </script>
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    /* Set palette on initial load */
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
+      giscus.setAttribute("data-theme", theme)
+    }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
 
                 
               </article>

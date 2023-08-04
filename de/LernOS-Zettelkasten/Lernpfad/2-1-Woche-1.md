@@ -42,5 +42,3 @@ Austausch: Eure Ziele im Sprint (10 Minuten pro Member)
 - [ ] Check-Out (1 Minute pro Member)
 
 Was nimmst du dir für die nächste Woche vor?
-
-

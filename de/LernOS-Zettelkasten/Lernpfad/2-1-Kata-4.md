@@ -14,5 +14,3 @@ Eine ganz wichtige Funktion des Circles ist es, Feedback zu deinen Zielen, zu de
 
 ### Lernziel
 - Du gewinnst Klarheit im Circle über das Vorgehen und die Organisation
-
-

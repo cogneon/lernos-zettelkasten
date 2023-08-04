@@ -28,6 +28,3 @@ Bestimmt habt ihr in eurem Circle auch ganz eigene Ideen, woran ihr weiter arbei
 - [ ] Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern.
 - [ ] Wie geht es weiter?
 - [ ] Check out (1 Minute pro Member)
-
-
-
