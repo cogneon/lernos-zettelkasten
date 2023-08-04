@@ -9,14 +9,14 @@ Mit diesem Canvas kannst du dein Lernen planen und dabei einen guten Überblick 
 Die visuelle Struktur erleichtert dir auch, die einzelnen Bestandteile aus denen dein aktueller Wissens- und Lernbedarf besteht, zu überprüfen und vorhandene Ressourcen mit deinem Lernbedarf abzugleichen. Denn ein Bild sagt mehr als Tausend Worte!
 Du kannst es zum Beispiel auch für die parallele Bearbeitung mehrerer Bereiche verwenden.
 
-Alex Osterwalder hatte als erster die Idee für einen lernOS Canvas. Er entwickelte auch den [Business Model Canvas (https://en.wikipedia.org/wiki/Business_Model_Canvas), den man für die Erarbeitung von Geschäftsmodellen nutzt.
-Beide folgend derselben Grundstruktur und sollten von dir zunächst als Einstieg ausgefüllt werden. Auf diese Weise bekommst du einen passenden Überblick.
+Alex Osterwalder entwickelte den [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas), den man für die Erarbeitung von Geschäftsmodellen nutzt. Davon inspiriet hatte Simon Dückert die Idee für den LernOS Canvas.
+Beide folgen derselben Grundstruktur und du solltst den LernOS Canvas zunächst als Einstieg für dich ausfüllen. Auf diese Weise bekommst du einen passenden Überblick.
 Der [lernOS Canvas](https://raw.githubusercontent.com/cogneon/lernos-zettelkasten/main/de/src/images/lernOS-Canvas-for-you-Canvas-de.png)
 **ProTip:** Sei flexibel und arbeite mit Haftnotizen, die du jederzeit nach Bedarf verwenden kannst.
 
 ![lernOS Canvas](images/lernOS-Canvas-for-you-Canvas-de.png)
 
-Im oberen Teil des Canvas kannst du deinen Namen und das Datum der Erstellung bzw. letzten Änderung eintragen. Wenn du mit dem Canvas elektronisch arbeiten willst, kannst du ihn z.B. in OneNote oder ein digitales Whiteboard kopieren. Für die erste Befüllung des Canvas kannst du dir z.B. folgende Fragen stellen:
+Im oberen Teil des Canvas kannst du deinen Namen und das Datum der Erstellung bzw. letzten Änderung eintragen. Wenn du mit dem Canvas elektronisch arbeiten willst, kannst du ihn z.B. in OneNote oder ein digitales Whiteboard (z.B. excalidraw) kopieren. Für die erste Befüllung des Canvas kannst du dir z.B. folgende Fragen stellen:
 
 * **Zweck & Purpose:** Wofür lebst du? Was möchtest du in deinem Leben erreichen?
 * **Ziele & Schlüsselergebnisse:** Welche Ziele hast du in den nächsten 12 Wochen? Welche messbaren Ergebnisse gibt es zu den Zielen?
