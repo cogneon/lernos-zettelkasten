@@ -19,4 +19,5 @@ cp -r ./de/src/images/*.png ./de/LernOS-Zettelkasten/Lernpfad/images
 
 
 # Create a ZIP archive
-zip -r ./de/LernOS-Zettelkasten.zip ./de/LernOS-Zettelkasten
+cd ./de
+zip -r LernOS-Zettelkasten.zip LernOS-Zettelkasten
