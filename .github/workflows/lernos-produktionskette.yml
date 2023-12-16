@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v3
 
 
-      ## Bulid german learning path
+      ## Build german learning path
       # Delete Old Versions de
       - run: rm -rf ./de/${{ github.event.repository.name }}-guide.*
       - run: rm -rf ./docs/de/*
@@ -184,7 +184,7 @@ jobs:
      - name: bulid vault en
        run: bash ./en/build_vault.sh
 
-                         
+
       # Geänderte Datein zurück ins Repository committen
       - name: Auto-commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
