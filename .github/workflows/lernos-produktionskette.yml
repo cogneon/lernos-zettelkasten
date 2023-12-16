@@ -9,23 +9,18 @@ jobs:
       # Repository auschecken, damit Workflow es nutzen kann
       - uses: actions/checkout@v3
 
+
+      ## Bulid german learning path
       # Delete Old Versions de
       - run: rm -rf ./de/${{ github.event.repository.name }}-guide.*
       - run: rm -rf ./docs/de/*
 
-      # Delete Old Versions en
-      - run: rm -rf ./en/${{ github.event.repository.name }}-guide.*
-      - run: rm -rf ./docs/en/*
 
       # Create Chapter List de
       - name: Create Chapter List de
         id: chapter_list
         run: echo "chapters=$(printf '%s ' ./de/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
 
-      # Create Chapter List en
-      - name: Create Chapter List en
-        id: chapter_list
-        run: echo "chapters=$(printf '%s ' ./en/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
 
       # Create Microsoft Word Version (docx) de
       - uses: docker://pandoc/core
@@ -40,18 +35,6 @@ jobs:
             --output=./de/${{ github.event.repository.name }}-guide.docx
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
-      # Create Microsoft Word Version (docx) en
-      - uses: docker://pandoc/core
-        with:
-          args: >-
-            ./en/metadata.yaml
-            --standalone
-            --resource-path=./en/src
-            --number-sections
-            --toc
-            -V lang=en-en
-            --output=./en/${{ github.event.repository.name }}-guide.docx
-            ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
       # Create HTML Version (html) de
       - uses: docker://pandoc/core
@@ -67,21 +50,6 @@ jobs:
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
 
-      # Create HTML Version (html) en
-      - uses: docker://pandoc/core
-        with:
-          args: >-
-            ./en/metadata.yaml
-            --standalone
-            --resource-path=./en/src
-            --number-sections
-            --toc
-            -V lang=en-en
-            --output=./en/${{ github.event.repository.name }}-guide.html
-            ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
-
-
-
       # Create eBook Version (epub) de
       - uses: docker://pandoc/core
         with:
@@ -94,19 +62,6 @@ jobs:
             -V lang=de-de
             --output=./de/${{ github.event.repository.name }}-guide.epub
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
-
-     # Create eBook Version (epub) en
-     - uses: docker://pandoc/core
-       with:
-         args: >-
-           ./en/metadata.yaml
-           --standalone
-           --resource-path=./en/src
-           --number-sections
-           --toc
-           -V lang=en-en
-           --output=./en/${{ github.event.repository.name }}-guide.epub
-           ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
 
     # Create PDF Version (pdf) de
@@ -124,21 +79,6 @@ jobs:
           ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
 
-      # Create PDF Version (pdf) en
-      - uses: docker://pandoc/extra
-        with:
-          args: >-
-            ./en/metadata.yaml
-            --standalone
-            --resource-path=./en/src
-            --number-sections
-            --toc
-            -V lang=en-en
-            --template /.pandoc/templates/eisvogel.latex
-            --output=./en/${{ github.event.repository.name }}-guide.pdf
-            ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
-
-
       # Create Web Version (mkdocs) de
       - uses: actions/setup-python@v4
         with:
@@ -153,6 +93,77 @@ jobs:
       - run: pip install mkdocs-material
       - run: mkdocs build -f ./de/mkdocs.yml
 
+
+      # Execute Copy and Archive Script de
+      - name: bulid vault de
+        run: bash ./de/build_vault.sh
+
+
+      ## Bulid english learning path
+      # Delete Old Versions en
+      - run: rm -rf ./en/${{ github.event.repository.name }}-guide.*
+      - run: rm -rf ./docs/en/*
+
+
+      # Create Chapter List en
+      - name: Create Chapter List en
+        id: chapter_list
+        run: echo "chapters=$(printf '%s ' ./en/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
+
+
+      # Create Microsoft Word Version (docx) en
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./en/src
+            --number-sections
+            --toc
+            -V lang=en-en
+            --output=./en/${{ github.event.repository.name }}-guide.docx
+            ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+
+      # Create HTML Version (html) en
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./en/src
+            --number-sections
+            --toc
+            -V lang=en-en
+            --output=./en/${{ github.event.repository.name }}-guide.html
+            ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+
+
+     # Create eBook Version (epub) en
+     - uses: docker://pandoc/core
+       with:
+         args: >-
+           ./en/metadata.yaml
+           --standalone
+           --resource-path=./en/src
+           --number-sections
+           --toc
+           -V lang=en-en
+           --output=./en/${{ github.event.repository.name }}-guide.epub
+           ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+
+      # Create PDF Version (pdf) en
+      - uses: docker://pandoc/extra
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./en/src
+            --number-sections
+            --toc
+            -V lang=en-en
+            --template /.pandoc/templates/eisvogel.latex
+            --output=./en/${{ github.event.repository.name }}-guide.pdf
+            ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
       # Create Web Version (mkdocs) en
       - uses: actions/setup-python@v4
@@ -169,15 +180,11 @@ jobs:
       - run: mkdocs build -f ./en/mkdocs.yml
 
 
-      # Execute Copy and Archive Script de
-      - name: bulid vault de
-        run: bash ./de/build_vault.sh
+     # Execute Copy and Archive Script en
+     - name: bulid vault en
+       run: bash ./en/build_vault.sh
 
-       # Execute Copy and Archive Script en
-       - name: bulid vault en
-         run: bash ./en/build_vault.sh
-
-
+                         
       # Geänderte Datein zurück ins Repository committen
       - name: Auto-commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
