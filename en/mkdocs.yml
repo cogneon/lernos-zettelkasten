@@ -107,4 +107,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - mermaid2
