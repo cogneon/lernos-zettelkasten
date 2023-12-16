@@ -18,7 +18,7 @@ jobs:
 
       # Create Chapter List de
       - name: Create Chapter List de
-        id: chapter_list_de
+        id: chapter_list
         run: echo "chapters=$(printf '%s ' ./de/src/*.md)" >> "$GITHUB_OUTPUT"
 
 
