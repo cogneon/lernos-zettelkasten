@@ -19,7 +19,7 @@ jobs:
       # Create Chapter List de
       - name: Create Chapter List de
         id: chapter_list_de
-        run: echo "chapters=$(printf '%s ' ./de/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
+        run: echo "chapters=$(printf '%s ' ./de/src/*.md)" >> "$GITHUB_OUTPUT"
 
 
       # Create Microsoft Word Version (docx) de
@@ -108,7 +108,7 @@ jobs:
       # Create Chapter List en
       - name: Create Chapter List en
         id: chapter_list_en
-        run: echo "chapters=$(printf '%s ' ./en/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
+        run: echo "chapters=$(printf '%s ' ./en/src/*.md)" >> "$GITHUB_OUTPUT"
 
 
       # Create Microsoft Word Version (docx) en
