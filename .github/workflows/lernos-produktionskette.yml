@@ -89,3 +89,14 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Erzeugt von automatischer lernOS Produktionskette
+
+    
+      # Execute Copy and Archive Script
+      - name: bulid vault
+        run: ./build_vault.sh
+
+      # Geänderte Datein zurück ins Repository committen
+      - name: Auto-commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Erzeugt von automatischer lernOS Produktionskette
