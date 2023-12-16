@@ -6,7 +6,7 @@ rm -rf ./de/LernOS-Zettelkasten/Lernpfad/*.md
 rm -rf ./de/LernOS-Zettelkasten/Lernpfad/images/*
 
 # Copy .md files to the Lernpfad folder
-cp -r ./de/src/*.md LernOS-Zettelkasten/Lernpfad
+cp -r ./de/src/*.md ./de/LernOS-Zettelkasten/Lernpfad
 
 # Remove the script block from the .md files
 for file in ./de/LernOS-Zettelkasten/Lernpfad/*.md; do
@@ -14,9 +14,9 @@ for file in ./de/LernOS-Zettelkasten/Lernpfad/*.md; do
 done
 
 # Copy non-.svg images to the Lernpfad/images folder
-cp -r ./de/src/images/*.jpg LernOS-Zettelkasten/Lernpfad/images
-cp -r ./de/src/images/*.png LernOS-Zettelkasten/Lernpfad/images
+cp -r ./de/src/images/*.jpg ./de/LernOS-Zettelkasten/Lernpfad/images
+cp -r ./de/src/images/*.png ./de/LernOS-Zettelkasten/Lernpfad/images
 
 
 # Create a ZIP archive
-zip -r ./de/LernOS-Zettelkasten.zip LernOS-Zettelkasten
+zip -r ./de/LernOS-Zettelkasten.zip ./de/LernOS-Zettelkasten
