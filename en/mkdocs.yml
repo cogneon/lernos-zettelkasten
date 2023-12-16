@@ -55,11 +55,10 @@ nav:
       - Change history: 3-0-99-Aenderungshistorie.md
 
     - Download:
-      - PDF-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernOS-Zettelkasten-Guide-en.pdf
-      - Word-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernOS-Zettelkasten-Guide-en.docx
-      - HTML-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernOS-Zettelkasten-Guide-en.html
-      - E-Book (epub): https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernOS-Zettelkasten-Guide-en.epub
-      - E-Book (mobi): https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernOS-Zettelkasten-Guide-en.mobi
+      - PDF-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernos-zettelkasten-guide.pdf
+      - Word-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernos-zettelkasten-guide.docx
+      - HTML-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernos-zettelkasten-guide.html
+      - E-Book (epub): https://github.com/cogneon/lernos-zettelkasten/blob/main/en/lernos-zettelkasten-guide.epub
       - Vault: https://github.com/cogneon/lernos-zettelkasten/blob/main/en/LernOS-Zettelkasten.zip
     - Links:
       - lernos.org: https://lernos.org
@@ -107,4 +106,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - mermaid2
