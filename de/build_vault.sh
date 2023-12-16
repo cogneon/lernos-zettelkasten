@@ -17,5 +17,6 @@ done
 cp -r src/images/*.jpg LernOS-Zettelkasten/Lernpfad/images
 cp -r src/images/*.png LernOS-Zettelkasten/Lernpfad/images
 
+
 # Create a ZIP archive
 zip -r LernOS-Zettelkasten.zip LernOS-Zettelkasten
