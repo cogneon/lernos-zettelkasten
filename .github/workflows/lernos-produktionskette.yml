@@ -18,7 +18,7 @@ jobs:
 
       # Create Chapter List de
       - name: Create Chapter List de
-        id: chapter_list
+        id: chapter_list_de
         run: echo "chapters=$(printf '%s ' ./de/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
 
 
@@ -64,19 +64,19 @@ jobs:
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
 
-    # Create PDF Version (pdf) de
-    - uses: docker://pandoc/extra
-      with:
-        args: >-
-          ./de/metadata.yaml
-          --standalone
-          --resource-path=./de/src
-          --number-sections
-          --toc
-          -V lang=de-de
-          --template /.pandoc/templates/eisvogel.latex
-          --output=./de/${{ github.event.repository.name }}-guide.pdf
-          ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+      # Create PDF Version (pdf) de
+      - uses: docker://pandoc/extra
+        with:
+          args: >-
+            ./de/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            -V lang=de-de
+            --template /.pandoc/templates/eisvogel.latex
+            --output=./de/${{ github.event.repository.name }}-guide.pdf
+            ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
 
       # Create Web Version (mkdocs) de
@@ -107,7 +107,7 @@ jobs:
 
       # Create Chapter List en
       - name: Create Chapter List en
-        id: chapter_list
+        id: chapter_list_en
         run: echo "chapters=$(printf '%s ' ./en/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
 
 
@@ -138,18 +138,18 @@ jobs:
             ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
 
-     # Create eBook Version (epub) en
-     - uses: docker://pandoc/core
-       with:
-         args: >-
-           ./en/metadata.yaml
-           --standalone
-           --resource-path=./en/src
-           --number-sections
-           --toc
-           -V lang=en-en
-           --output=./en/${{ github.event.repository.name }}-guide.epub
-           ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+      # Create eBook Version (epub) en
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./en/src
+            --number-sections
+            --toc
+            -V lang=en-en
+            --output=./en/${{ github.event.repository.name }}-guide.epub
+            ./en/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
       # Create PDF Version (pdf) en
       - uses: docker://pandoc/extra
@@ -180,9 +180,9 @@ jobs:
       - run: mkdocs build -f ./en/mkdocs.yml
 
 
-     # Execute Copy and Archive Script en
-     - name: bulid vault en
-       run: bash ./en/build_vault.sh
+      # Execute Copy and Archive Script en
+      - name: bulid vault en
+        run: bash ./en/build_vault.sh
 
 
       # Geänderte Datein zurück ins Repository committen
