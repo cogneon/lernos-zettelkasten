@@ -219,15 +219,15 @@ jobs:
           asset_content_type: application/pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        - name: Upload Release Assets - de (ZIP)
-          uses: actions/upload-release-asset@v1
-          with:
-            upload_url: ${{ steps.create_release.outputs.upload_url }}
-            asset_path: ./en/${{ github.event.repository.name }}-guide-de-vault.zip
-            asset_name: ${{ github.event.repository.name }}-guide-de-vault.zip
-            asset_content_type: application/zip
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload Release Assets - de (ZIP)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./en/${{ github.event.repository.name }}-guide-de-vault.zip
+          asset_name: ${{ github.event.repository.name }}-guide-de-vault.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Upload Release Assets - en
       - name: Upload Release Assets - en (docx)
@@ -266,12 +266,12 @@ jobs:
           asset_content_type: application/pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        - name: Upload Release Assets - en (ZIP)
-          uses: actions/upload-release-asset@v1
-          with:
-            upload_url: ${{ steps.create_release.outputs.upload_url }}
-            asset_path: ./en/${{ github.event.repository.name }}-guide-en-vault.zip
-            asset_name: ${{ github.event.repository.name }}-guide-en-vault.zip
-            asset_content_type: application/zip
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload Release Assets - en (ZIP)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./en/${{ github.event.repository.name }}-guide-en-vault.zip
+          asset_name: ${{ github.event.repository.name }}-guide-en-vault.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
