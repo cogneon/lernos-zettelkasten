@@ -1,4 +1,5 @@
 ![Guide to implement PKM with OneNote](images/Guide_to_implement_PKM_with_OneNote.png)
+
 ## Guide to implement PKM with OneNote
 
 Guide to implement PKM with OneNote, if more suitable tools (e.g. those from week 2) are not available, e.g. due to restrictions from IT policies in a company.
