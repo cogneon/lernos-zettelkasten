@@ -10,7 +10,7 @@ nav:
       - PKM Grundlagen: 2-0-PKM-Grundlagen.md
     - Lernpfad:
       - Lernpfad Überblick: 2-0-Lernpfad-Ueberblick.md
-      - Wochen im Sprint
+      - Wochen im Sprint:
         - Woche 0 (Sprint Setup): 2-1-Woche-0.md
         - Woche 1 (Zieldefinition): 2-1-Woche-1.md
         - Woche 2 (Notizen kennenlernen): 2-1-Woche-2.md
@@ -53,7 +53,7 @@ nav:
       - Word-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.docx
       - HTML-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.html
       - E-Book (epub): https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.epub
-      - Vault: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/LernOS-Zettelkasten-de.zip
+      - Vault: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernOS-Zettelkasten-Guide-de-vault.zip
     - Links:
       - lernos.org: https://lernos.org
       - CONNECT Community: https://community.cogneon.de
