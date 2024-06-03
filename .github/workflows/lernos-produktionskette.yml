@@ -252,7 +252,7 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./de/${{ github.event.repository.name }}-de-vault.zip
-          asset_name: LernOS-Zettelkasten-de.zip
+          asset_name: ${{ github.event.repository.name }}-de-vault.zip
           asset_content_type: application/zip
 
       - name: Upload Release Assets
@@ -260,5 +260,5 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./en/${{ github.event.repository.name }}-en-vault.zip
-          asset_name: LernOS-Zettelkasten-en.zip
+          asset_name: ${{ github.event.repository.name }}-en-vault.zip
           asset_content_type: application/zip
