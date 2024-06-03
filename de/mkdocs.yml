@@ -6,47 +6,42 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Über Lern OS:
-      - Lebenslanges Lernen: 1-1-Lebenslanges-Lernen-und-Wissensarbeit.md
-      - Canvas: 1-2-lernOS-Canvas.md
-      - Flow: 1-3-lernOS-Flow.md
-      - Workplace: 1-4-lernOS-Workplace.md
-      - Memex: 1-5-lernOS-Memex.md
     - Grundlagen:
       - PKM Grundlagen: 2-0-PKM-Grundlagen.md
     - Lernpfad:
       - Lernpfad Überblick: 2-0-Lernpfad-Ueberblick.md
-      - Woche 0 (Sprint Setup): 2-1-Woche-0.md
-      - Woche 1 (Zieldefinition): 2-1-Woche-1.md
-      - Woche 2 (Notizen kennenlernen): 2-1-Woche-2.md
-      - Woche 3 (Erste Notizen erstellen): 2-1-Woche-3.md
-      - Woche 4 (Finde deinen Workflow): 2-1-Woche-4.md
-      - Woche 5 (dauerhafte Notizen erstellen): 2-1-Woche-5.md
-      - Woche 6 (Verzetteln): 2-1-Woche-6.md
-      - Woche 7 (Boxenstopp): 2-1-Woche-7.md
-      - Woche 8 (Wiederauffindbarkeit des Wissens): 2-1-Woche-8.md
-      - Woche 9 (Denken im Zettelkasten): 2-1-Woche-9.md
-      - Woche 10 (Vertiefung zum Workflow): 2-1-Woche-10.md
-      - Woche 11 (Reflexion und Abschluss): 2-1-Woche-11.md
-    - Kata-Log:
-      - Kata 0 (Circle Setup): 2-1-Kata-0.md
-      - Kata 1 (Mein Ziel für die nächsten 12 Wochen): 2-1-Kata-1.md
-      - Kata 2 (Ein Termin mit dir selbst): 2-1-Kata-2.md
-      - Kata 3 (PKM-Umgebung einrichten): 2-1-Kata-3.md
-      - Kata 4 (Feedback geben): 2-1-Kata-4.md
-      - Kata 5 (Notizen kennenlernen): 2-1-Kata-5.md
-      - Kata 6 (Progressive Summarization): 2-1-Kata-6.md
-      - Kata 7 (Erste Notizen erstellen): 2-1-Kata-7.md
-      - Kata 8 (dauerhafte Notizen erstellen): 2-1-Kata-8.md
-      - Kata 9 (Verzetteln): 2-1-Kata-9.md
-      - Kata 10 (bist du on Track): 2-1-Kata-10.md
-      - Kata 11 (Ausblick): 2-1-Kata-11.md
-      - Kata 12 (Wiederauffindbarkeit des Wissens): 2-1-Kata-12.md
-      - Kata 13 (Map Of Content in 3 Stufen): 2-1-Kata-13.md
-      - Kata 14 (Denken im Zettelkasten): 2-1-Kata-14.md
-      - Kata 15 (Finde deinen Workflow): 2-1-Kata-15.md
-      - Kata 16 (Retrospektive): 2-1-Kata-16.md
-      - Kata 17 (Workflow vertiefen): 2-1-Kata-17.md
+      - Wochen im Sprint
+        - Woche 0 (Sprint Setup): 2-1-Woche-0.md
+        - Woche 1 (Zieldefinition): 2-1-Woche-1.md
+        - Woche 2 (Notizen kennenlernen): 2-1-Woche-2.md
+        - Woche 3 (Erste Notizen erstellen): 2-1-Woche-3.md
+        - Woche 4 (Finde deinen Workflow): 2-1-Woche-4.md
+        - Woche 5 (dauerhafte Notizen erstellen): 2-1-Woche-5.md
+        - Woche 6 (Verzetteln): 2-1-Woche-6.md
+        - Woche 7 (Boxenstopp): 2-1-Woche-7.md
+        - Woche 8 (Wiederauffindbarkeit des Wissens): 2-1-Woche-8.md
+        - Woche 9 (Denken im Zettelkasten): 2-1-Woche-9.md
+        - Woche 10 (Vertiefung zum Workflow): 2-1-Woche-10.md
+        - Woche 11 (Reflexion und Abschluss): 2-1-Woche-11.md
+      - Kata-Log:
+        - Kata 0 (Circle Setup): 2-1-Kata-0.md
+        - Kata 1 (Mein Ziel für die nächsten 12 Wochen): 2-1-Kata-1.md
+        - Kata 2 (Ein Termin mit dir selbst): 2-1-Kata-2.md
+        - Kata 3 (PKM-Umgebung einrichten): 2-1-Kata-3.md
+        - Kata 4 (Feedback geben): 2-1-Kata-4.md
+        - Kata 5 (Notizen kennenlernen): 2-1-Kata-5.md
+        - Kata 6 (Progressive Summarization): 2-1-Kata-6.md
+        - Kata 7 (Erste Notizen erstellen): 2-1-Kata-7.md
+        - Kata 8 (dauerhafte Notizen erstellen): 2-1-Kata-8.md
+        - Kata 9 (Verzetteln): 2-1-Kata-9.md
+        - Kata 10 (bist du on Track): 2-1-Kata-10.md
+        - Kata 11 (Ausblick): 2-1-Kata-11.md
+        - Kata 12 (Wiederauffindbarkeit des Wissens): 2-1-Kata-12.md
+        - Kata 13 (Map Of Content in 3 Stufen): 2-1-Kata-13.md
+        - Kata 14 (Denken im Zettelkasten): 2-1-Kata-14.md
+        - Kata 15 (Finde deinen Workflow): 2-1-Kata-15.md
+        - Kata 16 (Retrospektive): 2-1-Kata-16.md
+        - Kata 17 (Workflow vertiefen): 2-1-Kata-17.md
     - Anhang:
       - Einstieg in Markdown: 3-0-1-was-ist-markdown.md
       - Wechsel von proprietärem Format: 3-0-2-proprietaeres-Format-zu-MD.md
@@ -54,11 +49,11 @@ nav:
       - Danksagung: 3-0-0-Danksagung.md
       - Änderungshistorie: 3-0-99-Aenderungshistorie.md
     - Download:
-      - PDF-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/de/lernos-zettelkasten-guide.pdf
-      - Word-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/de/lernos-zettelkasten-guide.docx
-      - HTML-Version: https://github.com/cogneon/lernos-zettelkasten/blob/main/de/lernos-zettelkasten-guide.html
-      - E-Book (epub): https://github.com/cogneon/lernos-zettelkasten/blob/main/de/lernos-zettelkasten-guide.epub
-      - Vault: https://github.com/cogneon/lernos-zettelkasten/blob/main/de/LernOS-Zettelkasten.zip
+      - PDF-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.epub
+      - Vault: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/LernOS-Zettelkasten-de.zip
     - Links:
       - lernos.org: https://lernos.org
       - CONNECT Community: https://community.cogneon.de
