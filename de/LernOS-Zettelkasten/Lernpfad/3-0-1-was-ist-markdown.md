@@ -1,6 +1,7 @@
 # Anhang
 
 ![Markdown](images/Markdown.png)
+
 ## Was ist Mark-Down?
 
 Markdown ist eine Auszeichnungssprache. Das bedeutet, es werden Steuerzeichen im Text verwendet um anzuweisen wie der Text dargestellt werden soll. Die Steuerzeichen kommen also wirklich direkt in den Text. Es ließe sich mit HTML^[Internetseiten werden mit HTML beschrieben.] oder LaTeX^[Eine Zeichensetzsprache die besonders in der Wissenschaft angewendet wird.] vergleichen. Doch keine Sorge, du musst hier nicht programmieren, sehr wenige Zeichen reichen aus und die Programme stellen den Text dann ohne die Steuerzeichen da.
