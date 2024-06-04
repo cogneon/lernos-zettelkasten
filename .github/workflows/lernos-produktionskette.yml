@@ -223,7 +223,7 @@ jobs:
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./en/${{ github.event.repository.name }}-guide-de-vault.zip
+          asset_path: ./de/${{ github.event.repository.name }}-guide-de-vault.zip
           asset_name: ${{ github.event.repository.name }}-guide-de-vault.zip
           asset_content_type: application/zip
         env:
