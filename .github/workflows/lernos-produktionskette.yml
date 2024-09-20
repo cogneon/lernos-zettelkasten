@@ -9,8 +9,14 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v3
 
+      #- name: Install yq
+      #  run: sudo apt-get install -y yq
+
+      # Install yq from binary release
       - name: Install yq
-        run: sudo apt-get install -y yq
+        run: |
+          sudo wget https://github.com/mikefarah/yq/releases/download/v4.30.6/yq_linux_amd64 -O /usr/bin/yq
+          sudo chmod +x /usr/bin/yq
 
         # Read the version from metadata.yaml
       - name: Read version from metadata.yaml
@@ -20,13 +26,13 @@ jobs:
           echo "Version: $VERSION"
           echo "::set-output name=version::$VERSION"
 
-          # Update the version in mkdocs.yml
+        # Update the version in mkdocs.yml
       - name: Update version in mkdocs.yml
         run: |
           VERSION=${{ steps.read_version.outputs.version }}
           sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$VERSION/g" de/mkdocs.yml
 
-          # Commit the updated mkdocs.yml
+        # Commit the updated mkdocs.yml
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Actions"
