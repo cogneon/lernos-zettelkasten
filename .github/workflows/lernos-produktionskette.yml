@@ -12,7 +12,7 @@ jobs:
       # Read the version from metadata.yaml
       - id: read_version
         run: |
-          version=$(yq '.version' de/metadata.yaml)
+          version=$(yq eval '.version' de/metadata.yaml)
           echo "version=$version" >> $GITHUB_ENV
 
       # Update paths in mkdocs.yml
