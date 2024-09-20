@@ -34,13 +34,11 @@ jobs:
           echo "::set-output name=date::$DATEEN"
 
 
-          # Update the date in mkdocs.yml de
       - name: Update date in mkdocs.yml de
         run: |
           DATE=${{ steps.read_date.outputs.date }}
           sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATE/g" de/mkdocs.yml
 
-        # Update the date in mkdocs.yml en
         - name: Update date in mkdocs.yml en
           run: |
             DATEEN=${{ steps.read_date.outputs.dateen }}
