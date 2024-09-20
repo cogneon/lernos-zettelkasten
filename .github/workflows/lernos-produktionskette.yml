@@ -9,26 +9,32 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v3
 
-      # Read the version from metadata.yaml
-      - id: read_version
-        run: |
-          version=$(yq eval '.version' de/metadata.yaml | tr -d '"')
-          echo "version=$version" >> $GITHUB_ENV
+      - name: Install yq
+        run: sudo apt-get install -y yq
 
-
-      # Update paths in mkdocs.yml
-      - id: update_mkdocs_paths
+        # Read the version from metadata.yaml
+      - name: Read version from metadata.yaml
+        id: read_version
         run: |
-          yq eval-all 'select(documentIndex == 0) | .nav[].Download[].file |= sub("v[0-9]+\.[0-9]+\.[0-9]+", env.version)' -i de/mkdocs.yml
+          VERSION=$(yq '.version' de/metadata.yaml)
+          echo "Version: $VERSION"
+          echo "::set-output name=version::$VERSION"
 
-      # Commit the updated mkdocs.yml file
-      - name: Commit updated mkdocs.yml
+          # Update the version in mkdocs.yml
+      - name: Update version in mkdocs.yml
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          VERSION=${{ steps.read_version.outputs.version }}
+          sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$VERSION/g" de/mkdocs.yml
+
+          # Commit the updated mkdocs.yml
+      - name: Commit changes
+        run: |
           git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
           git add de/mkdocs.yml
-          git commit -m "Update mkdocs.yml paths to version ${{ env.version }}"
+          git commit -m "Update download links to version $VERSION"
           git push
+
 
       # Create Chapter List de
       - name: Create Chapter List de
