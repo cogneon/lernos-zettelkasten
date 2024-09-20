@@ -34,7 +34,7 @@ jobs:
           echo "::set-output name=date::$DATEEN"
 
 
-        # Update the date in mkdocs.yml de
+          # Update the date in mkdocs.yml de
       - name: Update date in mkdocs.yml de
         run: |
           DATE=${{ steps.read_date.outputs.date }}
