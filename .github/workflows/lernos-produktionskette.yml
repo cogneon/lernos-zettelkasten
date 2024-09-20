@@ -12,7 +12,7 @@ jobs:
       # Read the version from metadata.yaml
       - id: read_version
         run: |
-          version=$(yq eval '.version | select(. != "---")' de/metadata.yaml)
+          version=$(yq eval '.version' de/metadata.yaml | tr -d '"')
           echo "version=$version" >> $GITHUB_ENV
 
 
