@@ -27,11 +27,12 @@ jobs:
           echo "::set-output name=date::$DATE"
 
       - name: Read date from metadata.yaml de
-        id: read_date
+        id: read_dateen
         run: |
           DATEEN=$(yq '.date' en/metadata.yaml)
           echo "date: $DATEEN"
           echo "::set-output name=date::$DATEEN"
+
       - name: Update date in mkdocs.yml de
         run: |
           DATE=${{ steps.read_date.outputs.date }}
