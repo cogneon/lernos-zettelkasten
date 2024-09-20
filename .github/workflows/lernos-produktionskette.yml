@@ -9,16 +9,13 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v3
 
-      #- name: Install yq
-      #  run: sudo apt-get install -y yq
-
       # Install yq from binary release
       - name: Install yq
         run: |
           sudo wget https://github.com/mikefarah/yq/releases/download/v4.30.6/yq_linux_amd64 -O /usr/bin/yq
           sudo chmod +x /usr/bin/yq
 
-        # Read the date from metadata.yaml
+      # Read the date from metadata.yaml de
       - name: Read date from metadata.yaml de
         id: read_date
         run: |
@@ -26,22 +23,26 @@ jobs:
           echo "date: $DATE"
           echo "::set-output name=date::$DATE"
 
-      - name: Read date from metadata.yaml de
-        id: read_dateen
+      # Read the date from metadata.yaml en
+      - name: Read date from metadata.yaml en
+        id: read_date_en
         run: |
           DATEEN=$(yq '.date' en/metadata.yaml)
           echo "date: $DATEEN"
-          echo "::set-output name=date::$DATEEN"
+          echo "::set-output name=dateen::$DATEEN"
 
+      # Update date in mkdocs.yml de
       - name: Update date in mkdocs.yml de
         run: |
           DATE=${{ steps.read_date.outputs.date }}
           sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATE/g" de/mkdocs.yml
 
-        - name: Update date in mkdocs.yml en
-          run: |
-            DATEEN=${{ steps.read_date.outputs.dateen }}
-            sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATEEN/g" en/mkdocs.yml
+      # Update date in mkdocs.yml en
+      - name: Update date in mkdocs.yml en
+        run: |
+          DATEEN=${{ steps.read_date_en.outputs.dateen }}
+          sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATEEN/g" en/mkdocs.yml
+
 
       # Commit the updated mkdocs.yml
       - name: Commit changes
