@@ -30,21 +30,21 @@ jobs:
         id: read_date
         run: |
           DATEEN=$(yq '.date' en/metadata.yaml)
-          echo "date: $DATE"
+          echo "date: $DATEEN"
           echo "::set-output name=date::$DATEEN"
 
 
-        # Update the date in mkdocs.yml
+        # Update the date in mkdocs.yml de
       - name: Update date in mkdocs.yml de
         run: |
           DATE=${{ steps.read_date.outputs.date }}
           sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATE/g" de/mkdocs.yml
 
-          # Update the date in mkdocs.yml
+        # Update the date in mkdocs.yml en
         - name: Update date in mkdocs.yml en
           run: |
-            DATEEN=${{ steps.read_date.outputs.date }}
-            sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATE/g" en/mkdocs.yml
+            DATEEN=${{ steps.read_date.outputs.dateen }}
+            sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATEEN/g" en/mkdocs.yml
 
       # Commit the updated mkdocs.yml
       - name: Commit changes
