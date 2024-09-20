@@ -18,19 +18,19 @@ jobs:
           sudo wget https://github.com/mikefarah/yq/releases/download/v4.30.6/yq_linux_amd64 -O /usr/bin/yq
           sudo chmod +x /usr/bin/yq
 
-        # Read the version from metadata.yaml
-      - name: Read version from metadata.yaml
-        id: read_version
+        # Read the date from metadata.yaml
+      - name: Read date from metadata.yaml
+        id: read_date
         run: |
-          VERSION=$(yq '.version' de/metadata.yaml)
-          echo "Version: $VERSION"
-          echo "::set-output name=version::$VERSION"
+          DATE=$(yq '.date' de/metadata.yaml)
+          echo "date: $DATE"
+          echo "::set-output name=date::$DATE"
 
-        # Update the version in mkdocs.yml
-      - name: Update version in mkdocs.yml
+        # Update the date in mkdocs.yml
+      - name: Update date in mkdocs.yml
         run: |
-          VERSION=${{ steps.read_version.outputs.version }}
-          sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$VERSION/g" de/mkdocs.yml
+          DATE=${{ steps.read_date.outputs.date }}
+          sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATE/g" de/mkdocs.yml
 
       # Commit the updated mkdocs.yml
       - name: Commit changes
@@ -40,7 +40,7 @@ jobs:
           # Check if there are any changes to commit
           if [ -n "$(git status --porcelain)" ]; then
             git add de/mkdocs.yml
-            git commit -m "Update download links to version $VERSION"
+            git commit -m "Update download links to version $DATE"
             git push
           else
             echo "No changes to commit."
