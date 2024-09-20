@@ -19,18 +19,32 @@ jobs:
           sudo chmod +x /usr/bin/yq
 
         # Read the date from metadata.yaml
-      - name: Read date from metadata.yaml
+      - name: Read date from metadata.yaml de
         id: read_date
         run: |
           DATE=$(yq '.date' de/metadata.yaml)
           echo "date: $DATE"
+          echo "::set-output name=date::$DATE"
+
+      - name: Read date from metadata.yaml de
+        id: read_date
+        run: |
+          DATEEN=$(yq '.date' en/metadata.yaml)
+          echo "date: $DATE"
+          echo "::set-output name=date::$DATEEN"
 
 
         # Update the date in mkdocs.yml
-      - name: Update date in mkdocs.yml
+      - name: Update date in mkdocs.yml de
         run: |
           DATE=${{ steps.read_date.outputs.date }}
           sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATE/g" de/mkdocs.yml
+
+          # Update the date in mkdocs.yml
+        - name: Update date in mkdocs.yml en
+          run: |
+            DATEEN=${{ steps.read_date.outputs.date }}
+            sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATE/g" en/mkdocs.yml
 
       # Commit the updated mkdocs.yml
       - name: Commit changes
@@ -102,6 +116,7 @@ jobs:
             --toc
             --toc-depth=2
             -V lang=de-de
+            --template /.pandoc/templates/eisvogel.latex
             --output=./de/${{ github.event.repository.name }}-guide.pdf
             ./de/src/index.md ${{ steps.chapter_list_de.outputs.chapters }}
 
