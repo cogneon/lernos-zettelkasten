@@ -24,7 +24,6 @@ jobs:
         run: |
           DATE=$(yq '.date' de/metadata.yaml)
           echo "date: $DATE"
-          echo "date=$DATE" >> $GITHUB_OUTPUT
 
 
         # Update the date in mkdocs.yml
