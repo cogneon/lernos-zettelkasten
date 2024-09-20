@@ -101,6 +101,7 @@ jobs:
             --resource-path=./de/src
             --number-sections
             --toc
+            --toc-depth=2
             -V lang=de-de
             --template /.pandoc/templates/eisvogel.latex
             --output=./de/${{ github.event.repository.name }}-guide.pdf
