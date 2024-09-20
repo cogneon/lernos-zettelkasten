@@ -12,10 +12,25 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v3
 
-      ## Build german learning path
-      # Delete Old Versions de
-      - run: rm -rf ./de/${{ github.event.repository.name }}-guide.*
-      - run: rm -rf ./docs/de/*
+      # Read the version from metadata.yaml
+      - id: read_version
+        run: |
+          version=$(yq '.version' de/metadata.yaml)
+          echo "version=$version" >> $GITHUB_ENV
+
+      # Update paths in mkdocs.yml
+      - id: update_mkdocs_paths
+        run: |
+          yq eval-all 'select(documentIndex == 0) | .nav[].Download[].file |= sub("v[0-9]+\.[0-9]+\.[0-9]+", env.version)' -i de/mkdocs.yml
+
+      # Commit the updated mkdocs.yml file
+      - name: Commit updated mkdocs.yml
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add de/mkdocs.yml
+          git commit -m "Update mkdocs.yml paths to version ${{ env.version }}"
+          git push
 
       # Create Chapter List de
       - name: Create Chapter List de
@@ -93,94 +108,13 @@ jobs:
       - name: build vault de
         run: bash ./de/build_vault.sh
 
-      ## Build english learning path
-      # Delete Old Versions en
-      - run: rm -rf ./en/${{ github.event.repository.name }}-guide.*
-      - run: rm -rf ./docs/en/*
-
-      # Create Chapter List en
-      - name: Create Chapter List en
-        id: chapter_list_en
-        run: echo "chapters=$(printf '%s ' ./en/src/*.md)" >> "$GITHUB_OUTPUT"
-
-      # Create Microsoft Word Version (docx) en
-      - uses: docker://pandoc/core
-        with:
-          args: >-
-            ./en/metadata.yaml
-            --standalone
-            --resource-path=./en/src
-            --number-sections
-            --toc
-            -V lang=en-en
-            --output=./en/${{ github.event.repository.name }}-guide.docx
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
-
-      # Create HTML Version (html) en
-      - uses: docker://pandoc/core
-        with:
-          args: >-
-            ./en/metadata.yaml
-            --standalone
-            --resource-path=./en/src
-            --number-sections
-            --toc
-            -V lang=en-en
-            --output=./en/${{ github.event.repository.name }}-guide.html
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
-
-      # Create eBook Version (epub) en
-      - uses: docker://pandoc/core
-        with:
-          args: >-
-            ./en/metadata.yaml
-            --standalone
-            --resource-path=./en/src
-            --number-sections
-            --toc
-            -V lang=en-en
-            --output=./en/${{ github.event.repository.name }}-guide.epub
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
-
-      # Create PDF Version (pdf) en
-      - uses: docker://pandoc/extra
-        with:
-          args: >-
-            ./en/metadata.yaml
-            --standalone
-            --resource-path=./en/src
-            --number-sections
-            --toc
-            -V lang=en-en
-            --template /.pandoc/templates/eisvogel.latex
-            --output=./en/${{ github.event.repository.name }}-guide.pdf
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
-
-      # Create Web Version (mkdocs) en
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-      - uses: actions/cache@v3
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material
-      - run: mkdocs build -f ./en/mkdocs.yml
-
-      # Execute Copy and Archive Script en
-      - name: build vault en
-        run: bash ./en/build_vault.sh
-
-      # Create a draft release
+      # Create a draft release using the version as the name
       - name: Create Draft Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ github.sha }}
-          name: "Draft Release - ${{ github.sha }}"
+          name: "Release ${{ env.version }}"
           draft: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -236,6 +170,7 @@ jobs:
           asset_content_type: application/zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
       # Upload Release Assets - en
       - name: Upload Release Assets - en (docx)
