@@ -93,7 +93,7 @@ jobs:
             ./de/src/index.md ${{ steps.chapter_list_de.outputs.chapters }}
 
       # Create PDF Version (pdf) de
-      - uses: docker://pandoc/extra
+      - uses: docker://pandoc/extra:latest
         with:
           args: >-
             ./de/metadata.yaml
