@@ -148,7 +148,7 @@ jobs:
             --toc
             -V lang=en-en
             --output=./en/${{ github.event.repository.name }}-guide.docx
-            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
 
       # Create HTML Version (html) en
       - uses: docker://pandoc/core
@@ -161,7 +161,7 @@ jobs:
             --toc
             -V lang=en-en
             --output=./en/${{ github.event.repository.name }}-guide.html
-            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
 
       # Create eBook Version (epub) en
       - uses: docker://pandoc/core
@@ -174,7 +174,7 @@ jobs:
             --toc
             -V lang=en-en
             --output=./en/${{ github.event.repository.name }}-guide.epub
-            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
 
       # Create PDF Version (pdf) en
       - uses: docker://pandoc/extra:3.1
@@ -189,7 +189,7 @@ jobs:
             -V lang=en-en
             --template /.pandoc/templates/eisvogel.latex
             --output=./en/${{ github.event.repository.name }}-guide.pdf
-            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
 
       # Create Web Version (mkdocs) en
       - uses: actions/setup-python@v4
