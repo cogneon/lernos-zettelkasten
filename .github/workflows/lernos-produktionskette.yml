@@ -136,6 +136,84 @@ jobs:
       - name: build vault de
         run: bash ./de/build_vault.sh
 
+
+      # Create Microsoft Word Version (docx) en
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./en/src
+            --number-sections
+            --toc
+            -V lang=en-en
+            --output=./en/${{ github.event.repository.name }}-guide.docx
+            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+
+      # Create HTML Version (html) en
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            -V lang=en-en
+            --output=./en/${{ github.event.repository.name }}-guide.html
+            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+
+      # Create eBook Version (epub) en
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./en/src
+            --number-sections
+            --toc
+            -V lang=en-en
+            --output=./en/${{ github.event.repository.name }}-guide.epub
+            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+
+      # Create PDF Version (pdf) en
+      - uses: docker://pandoc/extra:3.1
+        with:
+          args: >-
+            ./en/metadata.yaml
+            --standalone
+            --resource-path=./en/src
+            --number-sections
+            --toc
+            --toc-depth=2
+            -V lang=en-en
+            --template /.pandoc/templates/eisvogel.latex
+            --output=./en/${{ github.event.repository.name }}-guide.pdf
+            ./de/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+
+      # Create Web Version (mkdocs) en
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material
+      - run: mkdocs build -f ./en/mkdocs.yml
+
+      # Execute Copy and Archive Script en
+      - name: build vault en
+        run: bash ./en/build_vault.sh
+
+
+
+
+
+
       # Create a draft release using the version as the name
       - name: Create Draft Release
         id: create_release
