@@ -1,10 +1,11 @@
 name: lernOS Produktionskette
 
 on:
-  pull_request:
-    branches:
+  push:
+    branches-ignore:
       - main
-  workflow_dispatch:
+  pull_request:
+    types: [opened, synchronize, reopened]
 
 jobs:
   convert_via_pandoc:
