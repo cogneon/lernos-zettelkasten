@@ -4,6 +4,8 @@ on:
   push:
     branches-ignore:
       - main
+  workflow_dispatch:
+
 
 jobs:
   convert_via_pandoc:
