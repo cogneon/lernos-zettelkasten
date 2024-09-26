@@ -4,16 +4,16 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository on the 'main' branch
+      # Checkout the repository (pull request's code)
       - uses: actions/checkout@v3
         with:
-          ref: main   # Ensures the 'main' branch is checked out
-          fetch-depth: 0  # Fetch all branches to avoid detached HEAD state
+          fetch-depth: 0  # Fetch all history
 
       # Install yq from binary release
       - name: Install yq
@@ -26,16 +26,14 @@ jobs:
         id: read_date
         run: |
           DATE=$(yq '.date' de/metadata.yaml)
-          echo "date: $DATE"
-          echo "::set-output name=date::$DATE"
+          echo "date=$DATE" >> $GITHUB_OUTPUT
 
       # Read the date from metadata.yaml en
       - name: Read date from metadata.yaml en
         id: read_date_en
         run: |
           DATEEN=$(yq '.date' en/metadata.yaml)
-          echo "date: $DATEEN"
-          echo "::set-output name=dateen::$DATEEN"
+          echo "dateen=$DATEEN" >> $GITHUB_OUTPUT
 
       # Update date in mkdocs.yml de
       - name: Update date in mkdocs.yml de
@@ -49,7 +47,6 @@ jobs:
           DATEEN=${{ steps.read_date_en.outputs.dateen }}
           sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATEEN/g" en/mkdocs.yml
 
-
       # Commit the updated mkdocs.yml
       - name: Commit changes
         run: |
@@ -57,13 +54,12 @@ jobs:
           git config --local user.email "actions@github.com"
           # Check if there are any changes to commit
           if [ -n "$(git status --porcelain)" ]; then
-            git add de/mkdocs.yml
-            git commit -m "Update download links to version $DATE"
-            git push
+            git add de/mkdocs.yml en/mkdocs.yml
+            git commit -m "Update download links to version ${{ steps.read_date.outputs.date }}"
+            git push origin HEAD:${{ github.head_ref }}
           else
             echo "No changes to commit."
           fi
-
 
       # Create Chapter List de
       - name: Create Chapter List de
@@ -142,7 +138,6 @@ jobs:
       - name: build vault de
         run: bash ./de/build_vault.sh
 
-
       # Create Microsoft Word Version (docx) en
       - uses: docker://pandoc/core
         with:
@@ -154,7 +149,7 @@ jobs:
             --toc
             -V lang=en-en
             --output=./en/${{ github.event.repository.name }}-guide.docx
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_de.outputs.chapters }}
 
       # Create HTML Version (html) en
       - uses: docker://pandoc/core
@@ -167,7 +162,7 @@ jobs:
             --toc
             -V lang=en-en
             --output=./en/${{ github.event.repository.name }}-guide.html
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_de.outputs.chapters }}
 
       # Create eBook Version (epub) en
       - uses: docker://pandoc/core
@@ -180,7 +175,7 @@ jobs:
             --toc
             -V lang=en-en
             --output=./en/${{ github.event.repository.name }}-guide.epub
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_de.outputs.chapters }}
 
       # Create PDF Version (pdf) en
       - uses: docker://pandoc/extra:3.1
@@ -195,7 +190,7 @@ jobs:
             -V lang=en-en
             --template /.pandoc/templates/eisvogel.latex
             --output=./en/${{ github.event.repository.name }}-guide.pdf
-            ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
+            ./en/src/index.md ${{ steps.chapter_list_de.outputs.chapters }}
 
       # Create Web Version (mkdocs) en
       - uses: actions/setup-python@v4
@@ -215,18 +210,13 @@ jobs:
       - name: build vault en
         run: bash ./en/build_vault.sh
 
-
-
-
-
-
       # Create a draft release using the version as the name
       - name: Create Draft Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ github.sha }}
-          name: "Release ${{ env.version }}"
+          tag_name: ${{ steps.read_date.outputs.date }}
+          name: "Release ${{ steps.read_date.outputs.date }}"
           draft: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -242,6 +232,7 @@ jobs:
           asset_content_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       ## Upload Release Assets .html - de
       - name: Upload Release Assets - de (html)
         uses: actions/upload-release-asset@v1
@@ -252,6 +243,7 @@ jobs:
           asset_content_type: text/html
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       ## Upload Release Assets .epub - de
       - name: Upload Release Assets - de (epub)
         uses: actions/upload-release-asset@v1
@@ -262,6 +254,7 @@ jobs:
           asset_content_type: application/epub+zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       ## Upload Release Assets .pdf - de
       - name: Upload Release Assets - de (pdf)
         uses: actions/upload-release-asset@v1
@@ -272,6 +265,7 @@ jobs:
           asset_content_type: application/pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       ## Upload Release Assets .zip - de
       - name: Upload Release Assets - de (ZIP)
         uses: actions/upload-release-asset@v1
@@ -283,8 +277,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
       # Upload Release Assets - en
+      ## Upload Release Assets .docx - en
       - name: Upload Release Assets - en (docx)
         uses: actions/upload-release-asset@v1
         with:
@@ -294,7 +288,8 @@ jobs:
           asset_content_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      ## Upload Release Assets .docx - en
+
+      ## Upload Release Assets .html - en
       - name: Upload Release Assets - en (html)
         uses: actions/upload-release-asset@v1
         with:
@@ -304,6 +299,7 @@ jobs:
           asset_content_type: text/html
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       ## Upload Release Assets .epub - en
       - name: Upload Release Assets - en (epub)
         uses: actions/upload-release-asset@v1
@@ -314,6 +310,7 @@ jobs:
           asset_content_type: application/epub+zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       ## Upload Release Assets .pdf - en
       - name: Upload Release Assets - en (pdf)
         uses: actions/upload-release-asset@v1
@@ -324,6 +321,7 @@ jobs:
           asset_content_type: application/pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       ## Upload Release Assets .zip - en
       - name: Upload Release Assets - en (ZIP)
         uses: actions/upload-release-asset@v1
