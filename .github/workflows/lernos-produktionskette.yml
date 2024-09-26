@@ -9,8 +9,11 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
+      # Checkout the repository on the 'main' branch
       - uses: actions/checkout@v3
+        with:
+          ref: main   # Ensures the 'main' branch is checked out
+          fetch-depth: 0  # Fetch all branches to avoid detached HEAD state
 
       ## Build german learning path
       # Delete Old Versions de
