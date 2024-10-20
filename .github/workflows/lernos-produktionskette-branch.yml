@@ -1,6 +1,11 @@
 name: lernOS Produktionskette
 
-on: push
+on:
+  push:
+    branches-ignore:
+      - main
+  workflow_dispatch:
+
 
 jobs:
   convert_via_pandoc:
@@ -59,7 +64,7 @@ jobs:
             ./de/src/index.md ${{ steps.chapter_list_de.outputs.chapters }}
 
       # Create PDF Version (pdf) de
-      - uses: docker://pandoc/extra
+      - uses: docker://pandoc/extra:3.1
         with:
           args: >-
             ./de/metadata.yaml
@@ -140,7 +145,7 @@ jobs:
             ./en/src/index.md ${{ steps.chapter_list_en.outputs.chapters }}
 
       # Create PDF Version (pdf) en
-      - uses: docker://pandoc/extra
+      - uses: docker://pandoc/extra:3.1
         with:
           args: >-
             ./en/metadata.yaml
@@ -170,3 +175,120 @@ jobs:
       # Execute Copy and Archive Script en
       - name: build vault en
         run: bash ./en/build_vault.sh
+
+
+
+      # Create a draft release using the version as the name
+      - name: Create Draft Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.sha }}
+          name: "Branch Draft ${{ env.version }}"
+          draft: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Upload Release Assets - de
+      ## Upload Release Assets .docx - de
+      - name: Upload Release Assets - de (docx)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./de/${{ github.event.repository.name }}-guide.docx
+          asset_name: ${{ github.event.repository.name }}-guide-de.docx
+          asset_content_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .html - de
+      - name: Upload Release Assets - de (html)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./de/${{ github.event.repository.name }}-guide.html
+          asset_name: ${{ github.event.repository.name }}-guide-de.html
+          asset_content_type: text/html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .epub - de
+      - name: Upload Release Assets - de (epub)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./de/${{ github.event.repository.name }}-guide.epub
+          asset_name: ${{ github.event.repository.name }}-guide-de.epub
+          asset_content_type: application/epub+zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .pdf - de
+      - name: Upload Release Assets - de (pdf)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./de/${{ github.event.repository.name }}-guide.pdf
+          asset_name: ${{ github.event.repository.name }}-guide-de.pdf
+          asset_content_type: application/pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .zip - de
+      - name: Upload Release Assets - de (ZIP)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./de/${{ github.event.repository.name }}-guide-de-vault.zip
+          asset_name: ${{ github.event.repository.name }}-guide-de-vault.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      # Upload Release Assets - en
+      - name: Upload Release Assets - en (docx)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./en/${{ github.event.repository.name }}-guide.docx
+          asset_name: ${{ github.event.repository.name }}-guide-en.docx
+          asset_content_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .docx - en
+      - name: Upload Release Assets - en (html)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./en/${{ github.event.repository.name }}-guide.html
+          asset_name: ${{ github.event.repository.name }}-guide-en.html
+          asset_content_type: text/html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .epub - en
+      - name: Upload Release Assets - en (epub)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./en/${{ github.event.repository.name }}-guide.epub
+          asset_name: ${{ github.event.repository.name }}-guide-en.epub
+          asset_content_type: application/epub+zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .pdf - en
+      - name: Upload Release Assets - en (pdf)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./en/${{ github.event.repository.name }}-guide.pdf
+          asset_name: ${{ github.event.repository.name }}-guide-en.pdf
+          asset_content_type: application/pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ## Upload Release Assets .zip - en
+      - name: Upload Release Assets - en (ZIP)
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./en/${{ github.event.repository.name }}-guide-en-vault.zip
+          asset_name: ${{ github.event.repository.name }}-guide-en-vault.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
