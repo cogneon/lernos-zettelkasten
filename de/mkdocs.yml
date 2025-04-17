@@ -6,8 +6,7 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Grundlagen:
-      - PKM Grundlagen: 2-0-PKM-Grundlagen.md
+    - Grundlagen: 2-0-Grundlagen.md
     - Lernpfad:
       - Lernpfad Überblick: 2-0-Lernpfad-Ueberblick.md
       - Wochen im Sprint:
