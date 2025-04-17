@@ -1,6 +1,7 @@
 # Appendix
 
 ![Markdown](images/Markdown.png)
+
 ## What is Mark-Down?
 
 Markdown is a markup language. This means that control characters are used in the text to indicate how the text should be displayed. So the control characters really go directly into the text. It could be compared to HTML^[Web pages are described with HTML] or LaTeX^[A markup language used especially in science]. But don't worry, you don't have to program here, very few characters are enough and the programs then display the text without the control characters.
@@ -48,18 +49,4 @@ Some programs also offer you buttons for this like in WYSIWYG programs^[What you
   - \# for headings --> \[example\#heading\]\]
 
 There are more MD syntaxes. If you are interested in more possibilities you can look them up [here](https://www.markdownguide.org/extended-syntax/).
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+
