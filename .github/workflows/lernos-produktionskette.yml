@@ -28,6 +28,7 @@ jobs:
         id: read_date
         run: |
           DATE=$(yq e '.date' de/metadata.yaml)
+          echo "DEBUG: Date is <$DATE>"
           echo "date=$DATE" >> $GITHUB_OUTPUT
 
       # Read the date from metadata.yaml en
