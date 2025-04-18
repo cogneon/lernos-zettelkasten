@@ -19,10 +19,6 @@ jobs:
           sudo wget https://github.com/mikefarah/yq/releases/download/v4.30.6/yq_linux_amd64 -O /usr/bin/yq
           sudo chmod +x /usr/bin/yq
 
-      - name: Show original de/metadata.yaml
-        run: cat de/metadata.yaml
-
-
       # Read the date from metadata.yaml de
       - name: Read date from metadata.yaml de
         id: read_date
@@ -34,7 +30,7 @@ jobs:
       - name: Read date from metadata.yaml en
         id: read_date_en
         run: |
-          DATEEN=$(yq e '.date' en/metadata.yaml)
+          DATEEN=$(yq e 'select(documentIndex == 0) | .date' en/metadata.yaml)
           echo "dateen=$DATEEN" >> $GITHUB_OUTPUT
 
       # Update date in mkdocs.yml de
@@ -48,9 +44,6 @@ jobs:
         run: |
           DATEEN=${{ steps.read_date_en.outputs.dateen }}
           sed -i "s/releases\/download\/[0-9]\+\.[0-9]\+\.[0-9]\+/releases\/download\/$DATEEN/g" en/mkdocs.yml
-
-      - name: Show updated de/metadata.yaml
-        run: cat de/metadata.yaml
 
       # Commit the updated mkdocs.yml
       - name: Commit changes
