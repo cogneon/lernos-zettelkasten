@@ -43,18 +43,4 @@ The following table shows examples of internal (intranet) and external (internet
 | **Task and Time Management** | Planning and keeping time for tasks | Trello, Todoist, Things, Omnifocus | Microsoft ToDo |
 | **Reference Manager** | Link and Literature Management | Zotero, Mendeley, Liquidtext   
                                                               |
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+

@@ -1,9 +1,6 @@
 name: lernOS Produktionskette
 
 on:
-  push:
-    branches-ignore:
-      - main
   pull_request:
     types: [opened, synchronize, reopened]
 
@@ -26,14 +23,14 @@ jobs:
       - name: Read date from metadata.yaml de
         id: read_date
         run: |
-          DATE=$(yq e '.date' de/metadata.yaml)
+          DATE=$(yq e 'select(documentIndex == 0) | .date' de/metadata.yaml)
           echo "date=$DATE" >> $GITHUB_OUTPUT
 
       # Read the date from metadata.yaml en
       - name: Read date from metadata.yaml en
         id: read_date_en
         run: |
-          DATEEN=$(yq e '.date' en/metadata.yaml)
+          DATEEN=$(yq e 'select(documentIndex == 0) | .date' en/metadata.yaml)
           echo "dateen=$DATEEN" >> $GITHUB_OUTPUT
 
       # Update date in mkdocs.yml de

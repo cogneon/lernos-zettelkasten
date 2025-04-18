@@ -69,18 +69,4 @@ Productivity](https://de.wikipedia.org/wiki/Produktivit%C3%A4t) is classically d
 
 Dan Pink's well-received TED talk demonstrates precisely this connection of the importance of autonomy, continuous learning (mastery), and independent exploration or figuring out a relevant work task (purpose) that characterizes work in the 21st century [On the Surprising Science of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y).
 
-<script src="https://giscus.app/client.js"
-        data-repo="cogneon/lernos-zettelkasten"
-        data-repo-id="R_kgDOI5YY1w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOI5YY184CUTx3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+

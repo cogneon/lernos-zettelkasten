@@ -12,8 +12,7 @@ nav:
       - Flow: 1-3-lernOS-Flow.md
       - Workplace: 1-4-lernOS-Workplace.md
       - Memex: 1-5-lernOS-Memex.md
-    - Basics:
-      - PKM Basics: 2-0-PKM-Grundlagen.md
+    - Basics: 2-0-Grundlagen.md
     - Learning Pathway:
       - Learning Pathway Overview: 2-0-Lernpfad-Ueberblick.md
       - weeks in sprint:

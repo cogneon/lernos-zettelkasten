@@ -4,6 +4,8 @@ on:
   push:
     branches-ignore:
       - main
+    tags-ignore:
+      - '*'        # optional, if you want to avoid tags triggering it
   workflow_dispatch:
 
 
