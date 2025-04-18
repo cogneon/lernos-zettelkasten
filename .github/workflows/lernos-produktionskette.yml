@@ -1,9 +1,6 @@
 name: lernOS Produktionskette
 
 on:
-  push:
-    branches-ignore:
-      - main
   pull_request:
     types: [opened, synchronize, reopened]
 

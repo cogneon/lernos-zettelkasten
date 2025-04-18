@@ -2,6 +2,10 @@ name: lernOS Produktionskette
 
 on:
   push:
+    branches:
+      - '*'         # all branches
+    tags-ignore:
+      - '*'         # avoid triggering on tag push
     branches-ignore:
       - main
   workflow_dispatch:
