@@ -12,8 +12,7 @@ nav:
       - Flow: 1-3-lernOS-Flow.md
       - Workplace: 1-4-lernOS-Workplace.md
       - Memex: 1-5-lernOS-Memex.md
-    - Basics:
-      - PKM Basics: 2-0-PKM-Grundlagen.md
+    - Basics: 2-0-Grundlagen.md
     - Learning Pathway:
       - Learning Pathway Overview: 2-0-Lernpfad-Ueberblick.md
       - weeks in sprint:
@@ -56,11 +55,11 @@ nav:
       - Change history: 3-0-99-Aenderungshistorie.md
 
     - Download:
-      - PDF-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.pdf
-      - Word-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.docx
-      - HTML-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.html
-      - E-Book (epub): https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernos-zettelkasten-guide-de.epub
-      - Vault: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.1/lernOS-Zettelkasten-Guide-en-vault.zip
+      - PDF-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.2/lernos-zettelkasten-guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.2/lernos-zettelkasten-guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.2/lernos-zettelkasten-guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.2/lernos-zettelkasten-guide-de.epub
+      - Vault: https://github.com/cogneon/lernos-zettelkasten/releases/download/1.0.2/lernOS-Zettelkasten-Guide-en-vault.zip
     - Links:
       - lernos.org: https://lernos.org
       - CONNECT Community: https://community.cogneon.de
